@@ -26,11 +26,11 @@ export async function generateMetadata({
   if (!service) return {};
   return {
     title: `${service.title} · Toldos en Madrid y Tarragona`,
-    description: service.description,
+    description: service.intro ?? service.description,
     alternates: { canonical: `/servicios/${service.slug}` },
     openGraph: {
       title: `${service.title} | Toldos Noa`,
-      description: service.description,
+      description: service.intro ?? service.description,
       images: [{ url: service.image }],
     },
   };
@@ -52,6 +52,7 @@ export default async function ServicioPage({
     <>
       <BackLink />
 
+      {/* Hero del servicio */}
       <section className="container py-8 lg:py-16">
         <div className="grid gap-12 lg:grid-cols-[1.1fr,1fr] lg:gap-16">
           <div>
@@ -62,6 +63,7 @@ export default async function ServicioPage({
             <h1 className="mt-6 font-display text-4xl font-medium leading-tight tracking-display text-ink-900 sm:text-5xl lg:text-6xl">
               {service.description}
             </h1>
+            <p className="mt-6 max-w-xl text-lg text-ink-700">{service.intro}</p>
 
             <ul className="mt-8 space-y-3">
               {service.bullets.map((b) => (
@@ -111,6 +113,7 @@ export default async function ServicioPage({
         </div>
       </section>
 
+      {/* Long description */}
       <section className="bg-sand-100 py-24 lg:py-32">
         <div className="container max-w-3xl space-y-6">
           {service.longDescription.map((p, i) => (
@@ -128,7 +131,149 @@ export default async function ServicioPage({
         </div>
       </section>
 
-      <section className="bg-sand-50 py-20">
+      {/* Secciones narrativas */}
+      <section className="bg-sand-50 py-24 lg:py-32">
+        <div className="container max-w-4xl space-y-20">
+          {service.sections.map((sec, i) => (
+            <article key={i} className="grid gap-6 lg:grid-cols-[1fr,2fr] lg:gap-12">
+              <h2 className="font-display text-3xl font-medium leading-tight tracking-display text-ink-900 sm:text-4xl">
+                {sec.title}
+              </h2>
+              <div className="space-y-4 text-lg leading-relaxed text-ink-700">
+                {sec.body.map((p, j) => (
+                  <p key={j}>{p}</p>
+                ))}
+              </div>
+            </article>
+          ))}
+        </div>
+      </section>
+
+      {/* Tipos de producto */}
+      <section className="bg-sand-100 py-24 lg:py-32">
+        <div className="container">
+          <div className="max-w-2xl">
+            <p className="text-xs font-medium uppercase tracking-[0.28em] text-sun-500">
+              Qué fabricamos
+            </p>
+            <h2 className="mt-4 font-display text-3xl font-medium leading-tight tracking-display text-ink-900 sm:text-4xl lg:text-5xl">
+              Soluciones que solemos instalar para este caso
+            </h2>
+          </div>
+
+          <div className="mt-14 grid gap-5 sm:grid-cols-2">
+            {service.productTypes.map((p) => (
+              <article
+                key={p.name}
+                className="rounded-2xl border border-sand-200 bg-sand-50 p-7 shadow-card transition-shadow hover:shadow-card-hover"
+              >
+                <h3 className="font-display text-xl font-medium tracking-display text-ink-900">
+                  {p.name}
+                </h3>
+                <p className="mt-3 text-sm leading-relaxed text-ink-700">{p.desc}</p>
+              </article>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* Proceso */}
+      <section className="bg-sand-50 py-24 lg:py-32">
+        <div className="container">
+          <div className="max-w-2xl">
+            <p className="text-xs font-medium uppercase tracking-[0.28em] text-sun-500">
+              Cómo trabajamos
+            </p>
+            <h2 className="mt-4 font-display text-3xl font-medium leading-tight tracking-display text-ink-900 sm:text-4xl lg:text-5xl">
+              De la primera llamada al toldo montado
+            </h2>
+          </div>
+
+          <ol className="mt-14 grid gap-6 sm:grid-cols-2 lg:grid-cols-4">
+            {service.process.map((p) => (
+              <li
+                key={p.step}
+                className="relative rounded-2xl bg-sand-100 p-7"
+              >
+                <span className="font-display text-4xl text-sun-400" aria-hidden>
+                  {p.step}
+                </span>
+                <h3 className="mt-4 font-display text-xl font-medium tracking-display text-ink-900">
+                  {p.title}
+                </h3>
+                <p className="mt-2 text-sm leading-relaxed text-ink-700">{p.desc}</p>
+              </li>
+            ))}
+          </ol>
+        </div>
+      </section>
+
+      {/* Materiales */}
+      <section className="bg-ink-900 py-24 text-sand-50 lg:py-32">
+        <div className="container grid gap-12 lg:grid-cols-[1fr,1.4fr] lg:gap-16">
+          <div>
+            <p className="text-xs font-medium uppercase tracking-[0.28em] text-sun-400">
+              Materiales y calidades
+            </p>
+            <h2 className="mt-4 font-display text-3xl font-medium leading-tight tracking-display sm:text-4xl lg:text-5xl">
+              Lo que va dentro de cada toldo
+            </h2>
+            <p className="mt-6 text-base text-sand-100/80">
+              Trabajamos solo con marcas con las que llevamos años. Sabemos cómo envejecen, cómo se
+              reparan y qué garantía dan en la práctica — no solo en papel.
+            </p>
+          </div>
+
+          <ul className="space-y-4">
+            {service.materials.map((m) => (
+              <li
+                key={m}
+                className="flex items-start gap-4 border-b border-sand-100/15 pb-4 text-base text-sand-100/95"
+              >
+                <Check className="mt-1 h-4 w-4 shrink-0 text-sun-400" strokeWidth={3} />
+                <span>{m}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+      </section>
+
+      {/* FAQs */}
+      <section className="bg-sand-50 py-24 lg:py-32">
+        <div className="container max-w-3xl">
+          <p className="text-xs font-medium uppercase tracking-[0.28em] text-sun-500">
+            Preguntas frecuentes
+          </p>
+          <h2 className="mt-4 font-display text-3xl font-medium leading-tight tracking-display text-ink-900 sm:text-4xl lg:text-5xl">
+            Las dudas que más nos hacen
+          </h2>
+
+          <dl className="mt-12 space-y-6">
+            {service.faqs.map((f) => (
+              <details
+                key={f.q}
+                className="group rounded-2xl border border-sand-200 bg-sand-50 p-6 transition-colors open:border-sun-400/60 open:bg-sand-100/60"
+              >
+                <summary className="cursor-pointer list-none font-display text-lg font-medium tracking-display text-ink-900 marker:hidden">
+                  <div className="flex items-start justify-between gap-4">
+                    <span>{f.q}</span>
+                    <span
+                      aria-hidden
+                      className="mt-1 inline-flex h-6 w-6 shrink-0 items-center justify-center rounded-full bg-sand-100 text-sun-500 transition-transform group-open:rotate-45 group-open:bg-sun-400 group-open:text-ink-900"
+                    >
+                      +
+                    </span>
+                  </div>
+                </summary>
+                <dd className="mt-4 text-base leading-relaxed text-ink-700">{f.a}</dd>
+              </details>
+            ))}
+          </dl>
+        </div>
+      </section>
+
+      {/* Otros servicios */}
+      <section className="bg-sand-100 py-20">
         <div className="container">
           <p className="text-xs font-medium uppercase tracking-[0.22em] text-sun-500">
             Otros servicios

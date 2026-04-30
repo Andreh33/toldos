@@ -19,7 +19,7 @@ export function Hero() {
       className="relative min-h-screen w-full overflow-hidden bg-ink-900 lg:min-h-[80vh]"
     >
       <Image
-        src="/fotos/hero.jpg"
+        src="/fotos/hero.webp"
         alt="Toldo instalado en una terraza al atardecer"
         fill
         priority
