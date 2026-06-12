@@ -3,6 +3,8 @@ import { PhilosophySection } from '@/components/PhilosophySection';
 import { MarqueeBand } from '@/components/MarqueeBand';
 import { ServicesGrid } from '@/components/ServicesGrid';
 import { WhyUsSection } from '@/components/WhyUsSection';
+import { LocalSeoSection } from '@/components/LocalSeoSection';
+import { HomeFaqSection } from '@/components/HomeFaqSection';
 import { ReviewsSection } from '@/components/ReviewsSection';
 import { ContactCTA } from '@/components/ContactCTA';
 import { Footer } from '@/components/Footer';
@@ -36,7 +38,9 @@ export default async function HomePage() {
       <MarqueeBand />
       <ServicesGrid />
       <WhyUsSection />
+      <LocalSeoSection />
       <ReviewsSection reviews={reviews} variant="home" />
+      <HomeFaqSection />
       <ContactCTA />
       <Footer />
     </>

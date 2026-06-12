@@ -4,7 +4,7 @@ import { Fraunces } from 'next/font/google';
 import { GeistSans } from 'geist/font/sans';
 import { Toaster } from '@/components/ui/sonner';
 import { WhatsAppFloat } from '@/components/WhatsAppFloat';
-import { SITE } from '@/lib/constants';
+import { SITE, EMAIL } from '@/lib/constants';
 import './globals.css';
 
 const fraunces = Fraunces({
@@ -21,13 +21,19 @@ export const metadata: Metadata = {
     template: '%s | Toldos Noa',
   },
   description:
-    'Fabricación e instalación de toldos a medida para viviendas y negocios en Madrid y Tarragona. Presupuesto sin compromiso. ☎ 681 924 338',
+    'Fabricación, instalación y reparación de toldos a medida para viviendas y negocios en Madrid y Tarragona. Toldos cofre, extensibles, verticales y pérgolas. Visita técnica y presupuesto gratis. ☎ 681 924 338',
   keywords: [
     'toldos madrid',
     'toldos tarragona',
     'toldos a medida',
-    'instalación toldos',
-    'reparación toldos',
+    'instalación de toldos',
+    'reparación de toldos',
+    'cambio de lona de toldo',
+    'toldos cofre',
+    'toldos para terrazas',
+    'toldos para negocios',
+    'pérgolas bioclimáticas',
+    'empresa de toldos',
   ],
   openGraph: {
     type: 'website',
@@ -57,11 +63,55 @@ export const viewport: Viewport = {
 const ldJson = {
   '@context': 'https://schema.org',
   '@type': 'LocalBusiness',
+  '@id': `${SITE.url}/#localbusiness`,
   name: 'Toldos Noa',
+  description:
+    'Fabricación, instalación y reparación de toldos a medida para viviendas y negocios en Madrid y Tarragona: toldos cofre, extensibles, verticales, capotas y pérgolas bioclimáticas.',
   telephone: '+34681924338',
+  email: EMAIL,
   areaServed: [
-    { '@type': 'AdministrativeArea', name: 'Tarragona' },
-    { '@type': 'AdministrativeArea', name: 'Madrid' },
+    { '@type': 'AdministrativeArea', name: 'Provincia de Tarragona' },
+    { '@type': 'AdministrativeArea', name: 'Comunidad de Madrid' },
+  ],
+  knowsAbout: [
+    'Instalación de toldos a medida',
+    'Reparación de toldos y cambio de lonas',
+    'Toldos para hostelería y comercios',
+    'Pérgolas bioclimáticas',
+  ],
+  makesOffer: [
+    {
+      '@type': 'Offer',
+      itemOffered: {
+        '@type': 'Service',
+        name: 'Toldos para el hogar',
+        url: `${SITE.url}/servicios/hogar`,
+      },
+    },
+    {
+      '@type': 'Offer',
+      itemOffered: {
+        '@type': 'Service',
+        name: 'Toldos para negocios',
+        url: `${SITE.url}/servicios/negocios`,
+      },
+    },
+    {
+      '@type': 'Offer',
+      itemOffered: {
+        '@type': 'Service',
+        name: 'Reparación de toldos',
+        url: `${SITE.url}/servicios/reparaciones`,
+      },
+    },
+    {
+      '@type': 'Offer',
+      itemOffered: {
+        '@type': 'Service',
+        name: 'Toldos a medida',
+        url: `${SITE.url}/servicios/a-medida`,
+      },
+    },
   ],
   priceRange: '€€',
   image: `${SITE.url}/og.jpg`,
