@@ -51,6 +51,8 @@ export const SERVICES: Service[] = [
       'Trabajamos contigo desde la primera visita: medimos in situ, escuchamos cómo usas tu espacio y te proponemos la solución que mejor encaja.',
       'Toldos extensibles, capotas, pérgolas o lonas fijas. Materiales que aguantan el sol del verano y la lluvia del otoño sin perder color ni firmeza.',
       'La instalación la hacemos nosotros, sin subcontratas. Llegamos puntuales, dejamos limpio y te explicamos cómo se maneja antes de irnos.',
+      'Un toldo bien elegido baja la temperatura de la estancia varios grados en verano y reduce el gasto de aire acondicionado. En las terrazas orientadas a poniente la diferencia se nota desde el primer día: ganas horas de uso por la tarde sin achicharrarte.',
+      'Atendemos viviendas en toda la Comunidad de Madrid y en la provincia de Tarragona, tanto pisos y áticos en ciudad como chalets y casas de campo. Si no sabes por dónde empezar, escríbenos por WhatsApp al 681 924 338 con una foto de tu terraza y te orientamos sin compromiso.',
     ],
     sections: [
       {
@@ -64,6 +66,20 @@ export const SERVICES: Service[] = [
         title: 'Lo que incluimos siempre',
         body: [
           'Visita técnica gratuita y sin compromiso, presupuesto cerrado por escrito (sin sorpresas en factura), instalación realizada por nuestro propio equipo y manual de uso explicado en mano. Ofrecemos garantía de fabricación y de instalación, y volvemos para cualquier ajuste durante el primer año.',
+        ],
+      },
+      {
+        title: 'Mantenimiento sencillo y telas que duran',
+        body: [
+          'Las lonas acrílicas teñidas en masa que montamos están pensadas para vivir a la intemperie: el color se mantiene temporada tras temporada y la suciedad se va con agua y un cepillo suave. No hace falta tratarlas con productos especiales ni desmontarlas en invierno si el toldo es de cofre, porque la tela queda recogida y protegida del agua y el polvo.',
+          'Para alargar la vida del mecanismo basta con recoger el toldo cuando haya viento fuerte y revisar una vez al año que los brazos extienden con suavidad. Si en algún momento notas un ruido raro o la lona pierde tensión, llámanos antes de que vaya a más: un ajuste a tiempo cuesta mucho menos que una reparación.',
+        ],
+      },
+      {
+        title: 'Toldos para hogares de Madrid y Tarragona',
+        body: [
+          'Conocemos bien el clima de las dos zonas donde trabajamos. En Madrid el reto es el sol intenso y seco de los meses de verano, que castiga las telas de mala calidad; por eso solo montamos lonas que aguantan la radiación sin destenir. En la costa de Tarragona pesan más la humedad, la brisa marina y el viento, así que reforzamos anclajes y recomendamos tratamientos antimoho en las zonas más expuestas.',
+          'Tanto si vives en un piso del centro como en un chalet con jardín, vamos a tu domicilio, tomamos medidas y te enseñamos muestras de tela en mano. Pide tu visita técnica gratuita por WhatsApp al 681 924 338 y recibe un presupuesto cerrado, sin compromiso y sin letra pequeña.',
         ],
       },
     ],
@@ -131,6 +147,14 @@ export const SERVICES: Service[] = [
         q: '¿Qué garantía tiene?',
         a: 'Mínimo 3 años en estructura y lona, 5 años en motor. Si algo falla por defecto, lo reparamos o sustituimos sin coste.',
       },
+      {
+        q: '¿Puedo motorizar el toldo más adelante?',
+        a: 'Sí. Si ahora prefieres un toldo manual, lo dejamos preparado para que en el futuro puedas añadir motor y mando a distancia sin cambiar la estructura. Es una mejora muy habitual y se hace en una sola visita.',
+      },
+      {
+        q: '¿El toldo protege del agua además del sol?',
+        a: 'Las lonas acrílicas repelen una lluvia ligera y te permiten resguardarte de un chubasco puntual, pero no son impermeables al 100 %. Si buscas protección total frente al agua, lo mejor es una pérgola bioclimática o una lona técnica específica: te lo recomendamos según el uso que le vayas a dar.',
+      },
     ],
   },
   {
@@ -148,6 +172,8 @@ export const SERVICES: Service[] = [
       'Bares, restaurantes, comercios y oficinas: cada negocio tiene su ritmo y su estética. Diseñamos toldos que protegen, abrigan y comunican imagen de marca.',
       'Estructuras pensadas para uso intensivo, lonas con tu logo o color corporativo, motorización y sensores opcionales para optimizar el día a día.',
       'Trabajamos con plazos claros y minimizamos las molestias durante la instalación para que no pierdas días de actividad.',
+      'Un toldo en hostelería se amortiza solo: amplía la terraza útil, alarga la temporada de mesas fuera y convierte un escaparate caluroso en un punto que invita a entrar. Lo que para ti es una inversión, para tu cliente es comodidad — y la comodidad fideliza.',
+      'Damos servicio a comercios y locales de toda la Comunidad de Madrid y de la provincia de Tarragona. Cuéntanos qué local tienes y para cuándo lo necesitas por WhatsApp al 681 924 338 y te preparamos una propuesta con presupuesto cerrado y sin compromiso.',
     ],
     sections: [
       {
@@ -167,6 +193,20 @@ export const SERVICES: Service[] = [
         title: 'Imagen de marca incluida',
         body: [
           'Imprimimos tu logo, lema o pictogramas directamente sobre la lona, en serigrafía o impresión digital de alta resolución. Trabajamos con tu Pantone o lo igualamos a partir de tu carta gráfica. La rotulación no se cae con la lluvia ni se borra con el sol.',
+        ],
+      },
+      {
+        title: 'Instalamos sin parar tu actividad',
+        body: [
+          'Sabemos que cada hora con la persiana bajada es dinero que no entra. Por eso planificamos el montaje a la medida de tu horario: vamos a primera hora antes de abrir, aprovechamos el día de cierre semanal o trabajamos en domingo si hace falta. Coordinamos materiales y equipo para que la instalación se resuelva del tirón y no tengas el local a medias durante días.',
+          'Antes de tocar la fachada repasamos contigo permisos, accesos y posibles afectaciones a vecinos o a la vía pública. Dejamos la zona limpia y revisada, y no nos vamos hasta comprobar que todo abre, cierra y queda bien anclado.',
+        ],
+      },
+      {
+        title: 'Toldos para hostelería y comercio en Madrid y Tarragona',
+        body: [
+          'Trabajamos a diario con bares, restaurantes, cafeterías, tiendas y oficinas de la Comunidad de Madrid y de la provincia de Tarragona. Eso significa que conocemos las ordenanzas de terrazas de muchos ayuntamientos, los colores y formatos que suelen exigir y los plazos reales para tramitar licencias en cada zona.',
+          'Si estás montando un local nuevo o renovando la imagen del que ya tienes, podemos entrar desde la fase de proyecto para que el toldo encaje con tu rótulo y tu decoración. Escríbenos por WhatsApp al 681 924 338, mándanos una foto de la fachada y te visitamos para darte un presupuesto cerrado sin compromiso.',
         ],
       },
     ],
@@ -234,6 +274,14 @@ export const SERVICES: Service[] = [
         q: '¿Tenéis contratos de mantenimiento?',
         a: 'Sí. Para hostelería ofrecemos revisiones anuales o semestrales con limpieza de lona, engrase de mecanismos y revisión de anclajes. Suele incluir descuentos en piezas.',
       },
+      {
+        q: '¿Es rentable poner un toldo en la terraza del bar?',
+        a: 'En la mayoría de casos sí, y rápido. Una terraza cubierta gana mesas útiles durante más meses al año y resulta mucho más cómoda para el cliente, así que el toldo suele amortizarse en una o dos temporadas. Te ayudamos a dimensionarlo para sacar el máximo partido al espacio disponible.',
+      },
+      {
+        q: '¿Trabajáis con cadenas o varios locales a la vez?',
+        a: 'Sí. Si tienes varios establecimientos o una franquicia, unificamos diseño, color corporativo y rotulación en todos ellos y coordinamos las instalaciones para mantener una imagen homogénea. Pídenos una propuesta conjunta por WhatsApp al 681 924 338.',
+      },
     ],
   },
   {
@@ -252,6 +300,8 @@ export const SERVICES: Service[] = [
       'Antes de proponerte cambiar nada, miramos qué tiene arreglo. Brazos, motores, sustitución de lona o ajuste de estructura: te decimos lo que toca.',
       'Si el toldo todavía tira años, te lo decimos. Si no merece la pena, también. Nuestro objetivo es que tomes la decisión con información clara.',
       'Servicio rápido en Madrid y Tarragona, con piezas y lonas listas para casi cualquier marca y modelo.',
+      'Atendemos toldos de cualquier antigüedad y fabricante, los hayamos instalado nosotros o no. Si el tuyo está descatalogado y ya no se fabrican sus recambios, buscamos piezas compatibles o adaptamos una solución equivalente para que no tengas que tirarlo entero.',
+      'Una reparación a tiempo evita males mayores: un brazo que cojea acaba doblándose, una costura abierta termina rasgando toda la lona y un anclaje suelto puede descolgar el toldo. Cuanto antes lo veamos, más barato y sencillo sale el arreglo. Mándanos una foto del problema por WhatsApp al 681 924 338 y te decimos por dónde van los tiros.',
     ],
     sections: [
       {
@@ -265,6 +315,20 @@ export const SERVICES: Service[] = [
         title: 'Lo que reparamos más a menudo',
         body: [
           'Lonas rotas, descosidas o desteñidas. Brazos que no extienden bien o que se han doblado por viento. Motores que no responden o se han estropeado. Soportes de pared sueltos. Cofres que no cierran. Mandos a distancia perdidos o sin batería. Y los típicos ruidos extraños que terminan rompiendo algo si no se atienden.',
+        ],
+      },
+      {
+        title: 'Cómo trabajamos una reparación',
+        body: [
+          'Empezamos por un diagnóstico in situ gratuito: vamos a ver el toldo, lo abrimos, comprobamos brazos, motor, tensión de la lona y estado de los anclajes, y te explicamos en lenguaje claro qué le pasa. A partir de ahí te damos opciones con precio cerrado de cada una, para que decidas tú sin presión.',
+          'La mayoría de arreglos los resolvemos en una sola visita o en pocos días; solo nos lleva más tiempo cuando hay que pedir una pieza concreta de fábrica, y en ese caso te avisamos del plazo por adelantado. Todas las piezas nuevas van con su garantía de fabricante y la mano de obra la respaldamos durante un año.',
+        ],
+      },
+      {
+        title: 'Reparaciones de toldos en Madrid y Tarragona',
+        body: [
+          'Damos cobertura a toda la Comunidad de Madrid y a la provincia de Tarragona, así que tengas el toldo en un piso, en un local o en una casa con jardín, podemos acercarnos a verlo en pocos días. En urgencias reales —un toldo descolgado que supone un peligro o una lona arrancada por una tormenta— intentamos ir el mismo día.',
+          'Antes de plantearte comprar uno nuevo, deja que le echemos un vistazo: muchas veces lo que parece un toldo para tirar se arregla por una fracción del coste. Escríbenos por WhatsApp al 681 924 338 con una foto y te decimos sin compromiso si tiene arreglo y cuánto costaría.',
         ],
       },
     ],
@@ -332,6 +396,14 @@ export const SERVICES: Service[] = [
         q: '¿Cuánto cuesta cambiar la lona?',
         a: 'Depende del tamaño y la calidad de la tela. Como referencia, una lona de 4×3 m con cambio incluido suele estar entre 350 € y 600 €. Te damos el precio exacto tras ver el toldo.',
       },
+      {
+        q: '¿Merece la pena reparar o mejor compro uno nuevo?',
+        a: 'En la mayoría de casos reparar sale mucho más a cuenta y deja el toldo como nuevo durante años. Solo recomendamos sustituirlo cuando la estructura está oxidada en varios puntos, la fijación ya no es segura o el modelo es tan antiguo que no hay recambios. Te damos nuestra opinión honesta tras verlo, sin empujarte a comprar.',
+      },
+      {
+        q: '¿Reparáis solo en domicilios o también en negocios?',
+        a: 'Ambos. Reparamos toldos de viviendas, comunidades y locales comerciales en Madrid y Tarragona. Para negocios podemos coordinar la visita fuera del horario de apertura para no interrumpir tu actividad.',
+      },
     ],
   },
   {
@@ -349,6 +421,8 @@ export const SERVICES: Service[] = [
       'Espacios irregulares, alturas complicadas, fachadas catalogadas: trabajamos con planos y soluciones diseñadas exclusivamente para tu caso.',
       'Coordinamos con arquitectos o interioristas si tu proyecto lo requiere. Te enseñamos opciones de tela, color, mecanismo y cierre antes de fabricar.',
       'Cada proyecto a medida acaba con una sesión de pruebas y un manual sencillo de mantenimiento.',
+      'No hay dos proyectos a medida iguales, y precisamente por eso no partimos de un catálogo cerrado: partimos de tu espacio, de cómo quieres usarlo y del resultado que tienes en la cabeza. A partir de ahí proponemos la estructura, la tela y el mecanismo que mejor resuelven tu caso concreto.',
+      'Fabricamos en nuestro propio taller, lo que nos da margen para adaptar medidas, formas y acabados sin las limitaciones de un producto en serie. Trabajamos proyectos singulares en toda la Comunidad de Madrid y en la provincia de Tarragona; cuéntanos tu idea por WhatsApp al 681 924 338 o desde el formulario de contacto y la estudiamos contigo sin compromiso.',
     ],
     sections: [
       {
@@ -369,6 +443,20 @@ export const SERVICES: Service[] = [
         title: 'Proyectos que solemos hacer a medida',
         body: [
           'Cubiertas de patios interiores con módulos retráctiles. Pérgolas bioclimáticas integradas en arquitectura existente. Toldos de gran formato para terrazas de áticos. Cerramientos textiles para piscinas. Soluciones técnicas para edificios catalogados donde no se permite obra fija.',
+        ],
+      },
+      {
+        title: 'Materiales técnicos y garantía',
+        body: [
+          'En proyectos singulares no vale cualquier tela ni cualquier perfil. Trabajamos con lonas técnicas de primeras marcas como Soltis y Serge Ferrari, pensadas para grandes superficies y para soportar tensión, sol intenso y humedad sin deformarse. Las estructuras las fabricamos en aluminio extrusionado o en acero galvanizado cuando la luz a cubrir lo exige, siempre con tornillería inoxidable.',
+          'Cada elemento sale con la garantía de su fabricante y nosotros respaldamos la instalación. Antes de entregar hacemos pruebas reales de apertura, cierre y comportamiento frente al viento, y te dejamos un manual de mantenimiento adaptado al proyecto para que sepas exactamente cómo cuidarlo.',
+        ],
+      },
+      {
+        title: 'Proyectos a medida en Madrid y Tarragona',
+        body: [
+          'Llevamos proyectos a medida en toda la Comunidad de Madrid y la provincia de Tarragona, desde áticos y chalets hasta restaurantes, hoteles, comunidades de propietarios y edificios catalogados. Conocemos las exigencias de los cascos históricos y de las normativas locales, y sabemos integrar la solución para que cumpla sin renunciar al diseño.',
+          'Si tienes planos, fotos o referencias, mándanoslos por WhatsApp al 681 924 338 o por el formulario de contacto: hacemos una primera valoración y, si el proyecto encaja, concertamos una visita técnica con toma de medidas por láser. El presupuesto siempre es detallado y sin compromiso.',
         ],
       },
     ],
@@ -435,6 +523,14 @@ export const SERVICES: Service[] = [
       {
         q: '¿Hay un presupuesto mínimo?',
         a: 'No fijamos mínimo, pero los proyectos a medida suelen partir de 3.000-4.000 € por la complejidad de diseño y fabricación específica.',
+      },
+      {
+        q: '¿Podéis cubrir un espacio con forma irregular o entre medianeras?',
+        a: 'Sí, es justo para lo que servimos. Terrazas trapezoidales, patios entre paredes a distinta altura, huecos estrechos o áticos con peto bajo: levantamos las medidas reales y fabricamos la solución exacta para ese hueco, sin forzar un producto de catálogo que no encaja.',
+      },
+      {
+        q: '¿Antes de fabricar puedo ver cómo va a quedar?',
+        a: 'Sí. Para proyectos a medida te entregamos un boceto técnico o un render con la propuesta antes de cortar nada, para que veas el resultado y puedas ajustar lo que quieras sin coste añadido. Solo pasamos a fabricación cuando tienes claro lo que vas a recibir.',
       },
     ],
   },

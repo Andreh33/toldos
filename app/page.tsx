@@ -6,6 +6,7 @@ import { WhyUsSection } from '@/components/WhyUsSection';
 import { LocalSeoSection } from '@/components/LocalSeoSection';
 import { HomeFaqSection } from '@/components/HomeFaqSection';
 import { ReviewsSection } from '@/components/ReviewsSection';
+import { ConsejosTeaser } from '@/components/ConsejosTeaser';
 import { ContactCTA } from '@/components/ContactCTA';
 import { Footer } from '@/components/Footer';
 import { db } from '@/lib/db';
@@ -40,6 +41,7 @@ export default async function HomePage() {
       <WhyUsSection />
       <LocalSeoSection />
       <ReviewsSection reviews={reviews} variant="home" />
+      <ConsejosTeaser />
       <HomeFaqSection />
       <ContactCTA />
       <Footer />
