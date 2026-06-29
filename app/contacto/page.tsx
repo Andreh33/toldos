@@ -5,13 +5,22 @@ import { BackLink } from '@/components/BackLink';
 import { Footer } from '@/components/Footer';
 import { ContactForm } from '@/components/ContactForm';
 import { Button } from '@/components/ui/button';
-import { EMAIL, PHONE, WHATSAPP, ZONES } from '@/lib/constants';
+import { SITE, EMAIL, PHONE, WHATSAPP, ZONES } from '@/lib/constants';
 
 export const metadata: Metadata = {
   title: 'Contacto · Pide presupuesto sin compromiso',
   description:
-    'Cuéntanos qué tipo de toldo necesitas y te respondemos rápido. WhatsApp, teléfono o formulario.',
+    'Pide presupuesto de toldos sin compromiso en Madrid y Tarragona. Escríbenos por WhatsApp al 681 924 338, llámanos o rellena el formulario.',
   alternates: { canonical: '/contacto' },
+  openGraph: {
+    type: 'website',
+    locale: 'es_ES',
+    siteName: 'Toldos Noa',
+    title: 'Contacto · Toldos Noa en Madrid y Tarragona',
+    description:
+      'Pide presupuesto de toldos sin compromiso en Madrid y Tarragona. WhatsApp, teléfono o formulario.',
+    url: `${SITE.url}/contacto`,
+  },
 };
 
 export default function ContactoPage() {

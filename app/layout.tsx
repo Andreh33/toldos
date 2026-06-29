@@ -1,10 +1,10 @@
 import type { Metadata, Viewport } from 'next';
-import Script from 'next/script';
 import { Fraunces } from 'next/font/google';
 import { GeistSans } from 'geist/font/sans';
+import { Analytics } from '@vercel/analytics/next';
 import { Toaster } from '@/components/ui/sonner';
 import { WhatsAppFloat } from '@/components/WhatsAppFloat';
-import { SITE, EMAIL } from '@/lib/constants';
+import { SITE, EMAIL, PHONE } from '@/lib/constants';
 import './globals.css';
 
 const fraunces = Fraunces({
@@ -21,7 +21,7 @@ export const metadata: Metadata = {
     template: '%s | Toldos Noa',
   },
   description:
-    'Fabricación, instalación y reparación de toldos a medida para viviendas y negocios en Madrid y Tarragona. Toldos cofre, extensibles, verticales y pérgolas. Visita técnica y presupuesto gratis. ☎ 681 924 338',
+    'Toldos a medida en Madrid y Tarragona: fabricación, instalación y reparación para hogar y negocios. Visita técnica y presupuesto gratis. ☎ 681 924 338',
   keywords: [
     'toldos madrid',
     'toldos tarragona',
@@ -62,60 +62,99 @@ export const viewport: Viewport = {
 
 const ldJson = {
   '@context': 'https://schema.org',
-  '@type': 'LocalBusiness',
-  '@id': `${SITE.url}/#localbusiness`,
-  name: 'Toldos Noa',
-  description:
-    'Fabricación, instalación y reparación de toldos a medida para viviendas y negocios en Madrid y Tarragona: toldos cofre, extensibles, verticales, capotas y pérgolas bioclimáticas.',
-  telephone: '+34681924338',
-  email: EMAIL,
-  areaServed: [
-    { '@type': 'AdministrativeArea', name: 'Provincia de Tarragona' },
-    { '@type': 'AdministrativeArea', name: 'Comunidad de Madrid' },
+  '@graph': [
+    {
+      '@type': 'WebSite',
+      '@id': `${SITE.url}/#website`,
+      url: SITE.url,
+      name: 'Toldos Noa',
+      inLanguage: 'es-ES',
+      publisher: { '@id': `${SITE.url}/#localbusiness` },
+    },
+    {
+      '@type': 'HomeAndConstructionBusiness',
+      '@id': `${SITE.url}/#localbusiness`,
+      name: 'Toldos Noa',
+      description:
+        'Fabricación, instalación y reparación de toldos a medida para viviendas y negocios en Madrid y Tarragona: toldos cofre, extensibles, verticales, capotas y pérgolas bioclimáticas.',
+      telephone: PHONE.e164,
+      email: EMAIL,
+      url: SITE.url,
+      image: `${SITE.url}/fotos/hero.jpg`,
+      logo: `${SITE.url}/logo/logo.jpg`,
+      priceRange: '€€',
+      areaServed: [
+        { '@type': 'AdministrativeArea', name: 'Comunidad de Madrid' },
+        { '@type': 'AdministrativeArea', name: 'Provincia de Tarragona' },
+        { '@type': 'City', name: 'Madrid' },
+        { '@type': 'City', name: 'Tarragona' },
+        { '@type': 'City', name: 'Reus' },
+        { '@type': 'City', name: 'Salou' },
+        { '@type': 'City', name: 'Cambrils' },
+      ],
+      contactPoint: {
+        '@type': 'ContactPoint',
+        telephone: PHONE.e164,
+        contactType: 'customer service',
+        areaServed: 'ES',
+        availableLanguage: ['Spanish'],
+      },
+      openingHoursSpecification: [
+        {
+          '@type': 'OpeningHoursSpecification',
+          dayOfWeek: ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday'],
+          opens: '09:00',
+          closes: '19:00',
+        },
+        {
+          '@type': 'OpeningHoursSpecification',
+          dayOfWeek: 'Saturday',
+          opens: '10:00',
+          closes: '14:00',
+        },
+      ],
+      knowsAbout: [
+        'Instalación de toldos a medida',
+        'Reparación de toldos y cambio de lonas',
+        'Toldos para hostelería y comercios',
+        'Pérgolas bioclimáticas',
+      ],
+      makesOffer: [
+        {
+          '@type': 'Offer',
+          itemOffered: {
+            '@type': 'Service',
+            name: 'Toldos para el hogar',
+            url: `${SITE.url}/servicios/hogar`,
+          },
+        },
+        {
+          '@type': 'Offer',
+          itemOffered: {
+            '@type': 'Service',
+            name: 'Toldos para negocios',
+            url: `${SITE.url}/servicios/negocios`,
+          },
+        },
+        {
+          '@type': 'Offer',
+          itemOffered: {
+            '@type': 'Service',
+            name: 'Reparación de toldos',
+            url: `${SITE.url}/servicios/reparaciones`,
+          },
+        },
+        {
+          '@type': 'Offer',
+          itemOffered: {
+            '@type': 'Service',
+            name: 'Toldos a medida',
+            url: `${SITE.url}/servicios/a-medida`,
+          },
+        },
+      ],
+    },
   ],
-  knowsAbout: [
-    'Instalación de toldos a medida',
-    'Reparación de toldos y cambio de lonas',
-    'Toldos para hostelería y comercios',
-    'Pérgolas bioclimáticas',
-  ],
-  makesOffer: [
-    {
-      '@type': 'Offer',
-      itemOffered: {
-        '@type': 'Service',
-        name: 'Toldos para el hogar',
-        url: `${SITE.url}/servicios/hogar`,
-      },
-    },
-    {
-      '@type': 'Offer',
-      itemOffered: {
-        '@type': 'Service',
-        name: 'Toldos para negocios',
-        url: `${SITE.url}/servicios/negocios`,
-      },
-    },
-    {
-      '@type': 'Offer',
-      itemOffered: {
-        '@type': 'Service',
-        name: 'Reparación de toldos',
-        url: `${SITE.url}/servicios/reparaciones`,
-      },
-    },
-    {
-      '@type': 'Offer',
-      itemOffered: {
-        '@type': 'Service',
-        name: 'Toldos a medida',
-        url: `${SITE.url}/servicios/a-medida`,
-      },
-    },
-  ],
-  priceRange: '€€',
-  image: `${SITE.url}/og.jpg`,
-  url: SITE.url,
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
@@ -129,15 +168,14 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <a href="#contenido" className="skip-link">
           Saltar al contenido principal
         </a>
-        <Script
-          id="ld-localbusiness"
+        <script
           type="application/ld+json"
-          // eslint-disable-next-line react/no-danger
           dangerouslySetInnerHTML={{ __html: JSON.stringify(ldJson) }}
         />
         <main id="contenido">{children}</main>
         <WhatsAppFloat />
         <Toaster />
+        <Analytics />
       </body>
     </html>
   );

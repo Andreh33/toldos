@@ -8,7 +8,7 @@ import { Footer } from '@/components/Footer';
 import { ContactCTA } from '@/components/ContactCTA';
 import { Button } from '@/components/ui/button';
 import { SERVICES, getService } from '@/lib/services';
-import { PHONE, WHATSAPP } from '@/lib/constants';
+import { SITE, PHONE, WHATSAPP } from '@/lib/constants';
 
 type Params = { slug: string };
 
@@ -48,8 +48,56 @@ export default async function ServicioPage({
   const Icon = service.icon;
   const isWa = service.cta.variant === 'whatsapp';
 
+  const serviceLd = {
+    '@context': 'https://schema.org',
+    '@type': 'Service',
+    name: service.title,
+    serviceType: service.description,
+    description: service.intro,
+    url: `${SITE.url}/servicios/${service.slug}`,
+    provider: {
+      '@type': 'HomeAndConstructionBusiness',
+      '@id': `${SITE.url}/#localbusiness`,
+      name: 'Toldos Noa',
+      telephone: PHONE.e164,
+    },
+    areaServed: [
+      { '@type': 'AdministrativeArea', name: 'Comunidad de Madrid' },
+      { '@type': 'AdministrativeArea', name: 'Provincia de Tarragona' },
+    ],
+  };
+
+  const faqLd = {
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: service.faqs.map((f) => ({
+      '@type': 'Question',
+      name: f.q,
+      acceptedAnswer: { '@type': 'Answer', text: f.a },
+    })),
+  };
+
+  const breadcrumbLd = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Inicio', item: `${SITE.url}/` },
+      {
+        '@type': 'ListItem',
+        position: 2,
+        name: service.title,
+        item: `${SITE.url}/servicios/${service.slug}`,
+      },
+    ],
+  };
+
   return (
     <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify([serviceLd, faqLd, breadcrumbLd]) }}
+      />
+
       <BackLink />
 
       {/* Hero del servicio */}

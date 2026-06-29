@@ -7,13 +7,22 @@ import { ReviewForm } from '@/components/ReviewForm';
 import { Button } from '@/components/ui/button';
 import { db } from '@/lib/db';
 import { REVIEWS_SEED, type Review } from '@/lib/reviews-seed';
-import { GOOGLE_REVIEW_URL } from '@/lib/constants';
+import { SITE, GOOGLE_REVIEW_URL } from '@/lib/constants';
 
 export const metadata: Metadata = {
   title: 'Reseñas · Lo que dicen nuestros clientes',
   description:
     'Reseñas reales de clientes de Toldos Noa en Madrid y Tarragona. Déjanos la tuya.',
   alternates: { canonical: '/resenas' },
+  openGraph: {
+    type: 'website',
+    locale: 'es_ES',
+    siteName: 'Toldos Noa',
+    title: 'Reseñas de clientes · Toldos Noa',
+    description:
+      'Reseñas reales de clientes de Toldos Noa en Madrid y Tarragona. Déjanos la tuya.',
+    url: `${SITE.url}/resenas`,
+  },
 };
 
 export const revalidate = 60;
