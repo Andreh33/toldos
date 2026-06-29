@@ -1,6 +1,6 @@
 export const SITE = {
   name: 'Toldos Noa',
-  url: process.env.NEXT_PUBLIC_SITE_URL ?? 'https://toldosnoa.es',
+  url: process.env.NEXT_PUBLIC_SITE_URL ?? 'https://toldosnoa.com',
   tagline: 'Toldos a medida en Madrid y Tarragona',
 };
 
