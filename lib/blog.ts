@@ -18,6 +18,16 @@ import { posts as tn06 } from '@/lib/posts/tn-06';
 import { posts as tn07 } from '@/lib/posts/tn-07';
 import { posts as tn08 } from '@/lib/posts/tn-08';
 import { posts as tn09 } from '@/lib/posts/tn-09';
+import { posts as tn10 } from '@/lib/posts/tn-10';
+import { posts as tn11 } from '@/lib/posts/tn-11';
+import { posts as tn12 } from '@/lib/posts/tn-12';
+import { posts as tn13 } from '@/lib/posts/tn-13';
+import { posts as tn14 } from '@/lib/posts/tn-14';
+import { posts as tn15 } from '@/lib/posts/tn-15';
+import { posts as tn16 } from '@/lib/posts/tn-16';
+import { posts as tn17 } from '@/lib/posts/tn-17';
+import { posts as tn18 } from '@/lib/posts/tn-18';
+import { posts as tn19 } from '@/lib/posts/tn-19';
 
 export type { BlogPost, PostSection, InternalLink } from '@/lib/blog-types';
 
@@ -31,11 +41,24 @@ export const POSTS: BlogPost[] = [
   ...tn07,
   ...tn08,
   ...tn09,
+  ...tn10,
+  ...tn11,
+  ...tn12,
+  ...tn13,
+  ...tn14,
+  ...tn15,
+  ...tn16,
+  ...tn17,
+  ...tn18,
+  ...tn19,
 ];
 
 /** Categorías en el orden en que deben mostrarse en el listado. */
 export const CATEGORY_ORDER = [
   'Tipos de toldos',
+  'Guías y precios',
+  'Normativa y ayudas',
+  'Eficiencia y confort',
   'Toldos por zona',
   'Mantenimiento y reparación',
 ];
