@@ -1,6 +1,7 @@
 import Image from 'next/image';
 import Link from 'next/link';
-import { EMAIL, PHONE, ZONES } from '@/lib/constants';
+import { EMAIL, PHONE } from '@/lib/constants';
+import { ZONES } from '@/lib/zones';
 
 export function Footer() {
   return (
@@ -44,7 +45,11 @@ export function Footer() {
             <h3 className="text-xs font-medium uppercase tracking-[0.22em] text-ink-600">Zonas</h3>
             <ul className="mt-4 space-y-2 text-sm text-ink-700">
               {ZONES.map((z) => (
-                <li key={z}>{z}</li>
+                <li key={z.ciudad}>
+                  <Link href={`/toldos-en/${z.ciudad}`} className="hover:text-sun-500">
+                    Toldos en {z.city}
+                  </Link>
+                </li>
               ))}
             </ul>
           </div>
