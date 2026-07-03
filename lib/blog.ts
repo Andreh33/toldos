@@ -28,6 +28,12 @@ import { posts as tn16 } from '@/lib/posts/tn-16';
 import { posts as tn17 } from '@/lib/posts/tn-17';
 import { posts as tn18 } from '@/lib/posts/tn-18';
 import { posts as tn19 } from '@/lib/posts/tn-19';
+import { posts as tn20 } from '@/lib/posts/tn-20';
+import { posts as tn21 } from '@/lib/posts/tn-21';
+import { posts as tn22 } from '@/lib/posts/tn-22';
+import { posts as tn23 } from '@/lib/posts/tn-23';
+import { posts as tn24 } from '@/lib/posts/tn-24';
+import { posts as tn25 } from '@/lib/posts/tn-25';
 
 export type { BlogPost, PostSection, InternalLink } from '@/lib/blog-types';
 
@@ -51,6 +57,12 @@ export const POSTS: BlogPost[] = [
   ...tn17,
   ...tn18,
   ...tn19,
+  ...tn20,
+  ...tn21,
+  ...tn22,
+  ...tn23,
+  ...tn24,
+  ...tn25,
 ];
 
 /** Categorías en el orden en que deben mostrarse en el listado. */
