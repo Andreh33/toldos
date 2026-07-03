@@ -1,6 +1,7 @@
 import type { MetadataRoute } from 'next';
 import { SITE } from '@/lib/constants';
 import { SERVICES } from '@/lib/services';
+import { ZONES } from '@/lib/zones';
 import { POSTS } from '@/lib/blog';
 
 export default function sitemap(): MetadataRoute.Sitemap {
@@ -17,11 +18,17 @@ export default function sitemap(): MetadataRoute.Sitemap {
     changeFrequency: 'monthly' as const,
     priority: 0.8,
   }));
+  const zones = ZONES.map((z) => ({
+    url: `${SITE.url}/toldos-en/${z.ciudad}`,
+    lastModified: now,
+    changeFrequency: 'monthly' as const,
+    priority: 0.8,
+  }));
   const posts = POSTS.map((p) => ({
     url: `${SITE.url}/consejos/${p.slug}`,
     lastModified: new Date(p.date),
     changeFrequency: 'monthly' as const,
     priority: 0.6,
   }));
-  return [...base, ...services, ...posts];
+  return [...base, ...services, ...zones, ...posts];
 }
