@@ -4,7 +4,7 @@ export const madrid: ZoneData = {
   ciudad: 'madrid',
   city: 'Madrid',
   region: 'Comunidad de Madrid',
-  metaTitle: 'Toldos en Madrid · Fabricación e instalación a medida | Toldos Noa',
+  metaTitle: 'Toldos en Madrid · Fabricación e instalación a medida',
   metaDescription:
     'Toldos a medida en Madrid: terrazas, áticos, patios y negocios. Visita técnica y presupuesto gratis, instalación propia y garantía. ☎ 681 924 338.',
   heroKicker: 'Toldos en Madrid',

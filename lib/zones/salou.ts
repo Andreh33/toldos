@@ -4,7 +4,7 @@ export const salou: ZoneData = {
   ciudad: "salou",
   city: "Salou",
   region: "provincia de Tarragona",
-  metaTitle: "Toldos en Salou · A medida en la Costa Dorada | Toldos Noa",
+  metaTitle: "Toldos en Salou · A medida en la Costa Dorada",
   metaDescription:
     "Toldos a medida en Salou y Costa Dorada: hoteles, bares, terrazas y apartamentos de playa. Lonas que aguantan sol y salitre marino. ☎ 681 924 338.",
   heroKicker: "Toldos en Salou",

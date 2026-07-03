@@ -4,7 +4,7 @@ export const tarragona: ZoneData = {
   ciudad: "tarragona",
   city: "Tarragona",
   region: "provincia de Tarragona",
-  metaTitle: "Toldos en Tarragona · Fabricación e instalación | Toldos Noa",
+  metaTitle: "Toldos en Tarragona · Fabricación e instalación",
   metaDescription:
     "Toldos a medida en Tarragona: terrazas, áticos, comercios y hostelería. Aguantan sol, marinada y salitre. Visita y presupuesto gratis. ☎ 681 924 338.",
   heroKicker: "Toldos en Tarragona",

@@ -4,7 +4,7 @@ export const reus: ZoneData = {
   ciudad: "reus",
   city: "Reus",
   region: "provincia de Tarragona",
-  metaTitle: "Toldos en Reus a medida · Fabricación propia | Toldos Noa",
+  metaTitle: "Toldos en Reus a medida · Fabricación propia",
   metaDescription:
     "Toldos a medida en Reus: terrazas, áticos, comercios y hostelería del centro. Visita técnica y presupuesto gratis, sin subcontratas. ☎ 681 924 338.",
   heroKicker: "Toldos en Reus",

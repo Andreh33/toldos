@@ -4,7 +4,7 @@ export const vilaSeca: ZoneData = {
   ciudad: "vila-seca",
   city: "Vila-seca",
   region: "provincia de Tarragona",
-  metaTitle: "Toldos en Vila-seca y La Pineda a medida | Toldos Noa",
+  metaTitle: "Toldos en Vila-seca y La Pineda a medida",
   metaDescription:
     "Toldos a medida en Vila-seca y La Pineda: terrazas, chalets, hoteles y bares. Visita técnica y presupuesto gratis, instalación propia. ☎ 681 924 338.",
   heroKicker: "Toldos en Vila-seca",

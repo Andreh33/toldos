@@ -4,7 +4,7 @@ export const valls: ZoneData = {
   ciudad: "valls",
   city: "Valls",
   region: "provincia de Tarragona",
-  metaTitle: "Toldos en Valls · Fabricación e instalación propia | Toldos Noa",
+  metaTitle: "Toldos en Valls · Fabricación e instalación propia",
   metaDescription:
     "Toldos a medida en Valls: terrazas, patios, comercios y naves del Alt Camp. Visita técnica y presupuesto gratis, fabricamos e instalamos. ☎ 681 924 338.",
   heroKicker: "Toldos en Valls",

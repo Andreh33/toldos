@@ -4,7 +4,7 @@ export const elVendrell: ZoneData = {
   ciudad: "el-vendrell",
   city: "El Vendrell",
   region: "provincia de Tarragona",
-  metaTitle: "Toldos en El Vendrell · Fabricación e instalación | Toldos Noa",
+  metaTitle: "Toldos en El Vendrell · Fabricación e instalación",
   metaDescription:
     "Toldos a medida en El Vendrell, Coma-ruga y Sant Salvador: terrazas, viviendas y negocios frente al mar. Visita y presupuesto gratis. ☎ 681 924 338.",
   heroKicker: "Toldos en El Vendrell",

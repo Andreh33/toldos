@@ -4,7 +4,7 @@ export const cambrils: ZoneData = {
   ciudad: "cambrils",
   city: "Cambrils",
   region: "provincia de Tarragona",
-  metaTitle: "Toldos en Cambrils a medida · Costa Dorada | Toldos Noa",
+  metaTitle: "Toldos en Cambrils a medida · Costa Dorada",
   metaDescription:
     "Toldos a medida en Cambrils: terrazas de playa, apartamentos, chalets y hostelería del Port y Vilafortuny. Visita y presupuesto gratis. ☎ 681 924 338.",
   heroKicker: "Toldos en Cambrils",
