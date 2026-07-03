@@ -4,6 +4,7 @@ import { GeistSans } from 'geist/font/sans';
 import { Analytics } from '@vercel/analytics/next';
 import { Toaster } from '@/components/ui/sonner';
 import { WhatsAppFloat } from '@/components/WhatsAppFloat';
+import { ClickTracker } from '@/components/ClickTracker';
 import { SITE, EMAIL, PHONE } from '@/lib/constants';
 import './globals.css';
 
@@ -175,6 +176,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <main id="contenido">{children}</main>
         <WhatsAppFloat />
         <Toaster />
+        <ClickTracker />
         <Analytics />
       </body>
     </html>

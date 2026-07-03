@@ -4,6 +4,7 @@ import { useState } from 'react';
 import { useSearchParams } from 'next/navigation';
 import { z } from 'zod';
 import { toast } from 'sonner';
+import { track } from '@vercel/analytics';
 import { Button } from '@/components/ui/button';
 import { Input } from '@/components/ui/input';
 import { Textarea } from '@/components/ui/textarea';
@@ -76,6 +77,7 @@ export function ContactForm() {
       toast.success('Mensaje enviado', {
         description: 'Te respondemos lo antes posible.',
       });
+      track('lead_submit', { site: 'toldos' });
       (e.target as HTMLFormElement).reset();
     } catch {
       toast.error('No se pudo enviar', {
