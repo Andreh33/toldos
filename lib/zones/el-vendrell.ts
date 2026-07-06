@@ -4,7 +4,7 @@ export const elVendrell: ZoneData = {
   ciudad: "el-vendrell",
   city: "El Vendrell",
   region: "provincia de Tarragona",
-  metaTitle: "Toldos en El Vendrell · Fabricación e instalación",
+  metaTitle: "Toldos en El Vendrell: instalación y precios",
   metaDescription:
     "Toldos a medida en El Vendrell, Coma-ruga y Sant Salvador: terrazas, viviendas y negocios frente al mar. Visita y presupuesto gratis. ☎ 681 924 338.",
   heroKicker: "Toldos en El Vendrell",
@@ -53,7 +53,7 @@ export const elVendrell: ZoneData = {
     },
     {
       q: "¿Cuánto tarda la instalación de un toldo en El Vendrell?",
-      a: "Depende del modelo y de si es fabricación a medida, pero lo habitual es entre 1 y 3 semanas desde que aceptas el presupuesto, incluyendo fabricación y montaje. En cambios de lona o reparaciones suele ser bastante menos.",
+      a: "Depende del modelo y de si es fabricación a medida, pero lo habitual es entre 2 y 4 semanas desde que aceptas el presupuesto, incluyendo fabricación y montaje. En cambios de lona o reparaciones suele ser bastante menos.",
     },
     {
       q: "¿Reparáis toldos que no habéis instalado vosotros?",
@@ -65,5 +65,7 @@ export const elVendrell: ZoneData = {
     { label: "Toldos para negocios", href: "/servicios/negocios" },
     { label: "Reparación de toldos", href: "/servicios/reparaciones" },
     { label: "Cómo elegir el toldo de tu terraza", href: "/consejos/como-elegir-toldo-terraza" },
+    { label: "Cuánto cuesta un toldo", href: "/consejos/cuanto-cuesta-un-toldo" },
+    { label: "Toldos en la Costa Dorada", href: "/consejos/toldos-costa-dorada" },
   ],
 };

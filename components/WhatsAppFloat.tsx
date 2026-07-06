@@ -1,32 +1,25 @@
-'use client';
-
-import { motion } from 'framer-motion';
 import { MessageCircle } from 'lucide-react';
 import { WHATSAPP } from '@/lib/constants';
 
+/**
+ * Botón flotante de WhatsApp para escritorio/tablet. En móvil se oculta
+ * porque la MobileCtaBar ya ofrece llamada y WhatsApp fijos abajo.
+ * Sin framer-motion: entrada animada con CSS puro (cero JS extra).
+ */
 export function WhatsAppFloat() {
   return (
-    <motion.a
+    <a
       href={WHATSAPP.default}
       target="_blank"
       rel="noopener noreferrer"
       aria-label="Contactar por WhatsApp"
-      initial={{ scale: 0, opacity: 0 }}
-      animate={{ scale: 1, opacity: 1 }}
-      transition={{
-        delay: 1.5,
-        type: 'spring',
-        stiffness: 260,
-        damping: 22,
-      }}
-      whileHover={{ scale: 1.06 }}
-      whileTap={{ scale: 0.95 }}
-      className="group fixed bottom-4 right-4 z-50 flex h-12 w-12 items-center justify-center rounded-full bg-whatsapp text-white shadow-whatsapp transition-colors hover:bg-whatsapp-dark sm:bottom-6 sm:right-6 sm:h-14 sm:w-14"
+      className="group fixed bottom-6 right-6 z-50 hidden h-14 w-14 animate-pop-in items-center justify-center rounded-full bg-whatsapp text-white shadow-whatsapp transition-transform hover:scale-105 hover:bg-whatsapp-dark active:scale-95 md:flex"
+      style={{ animationDelay: '1.2s' }}
     >
-      <MessageCircle className="h-6 w-6 sm:h-7 sm:w-7" strokeWidth={2.2} />
-      <span className="pointer-events-none absolute right-full mr-3 hidden whitespace-nowrap rounded-full bg-ink-900 px-3 py-1.5 text-xs font-medium text-sand-50 opacity-0 shadow-card transition-opacity duration-300 group-hover:opacity-100 sm:block">
+      <MessageCircle className="h-7 w-7" strokeWidth={2.2} />
+      <span className="pointer-events-none absolute right-full mr-3 whitespace-nowrap rounded-full bg-ink-900 px-3 py-1.5 text-xs font-medium text-sand-50 opacity-0 shadow-card transition-opacity duration-300 group-hover:opacity-100">
         ¿Hablamos?
       </span>
-    </motion.a>
+    </a>
   );
 }

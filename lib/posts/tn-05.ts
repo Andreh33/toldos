@@ -298,7 +298,7 @@ export const posts: BlogPost[] = [
       { label: "Toldos para negocios", href: "/servicios/negocios" },
       { label: "Soluciones a medida", href: "/servicios/a-medida" },
       { label: "Pide tu visita técnica", href: "/contacto" },
-      { label: "Todos nuestros servicios", href: "/servicios" }
+      { label: "Todos nuestros servicios", href: "/#servicios" }
     ]
   },
   {

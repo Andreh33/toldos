@@ -224,7 +224,7 @@ export const posts: BlogPost[] = [
     ],
     internalLinks: [
       { label: "Reparación de toldos motorizados", href: "/servicios/reparaciones" },
-      { label: "Todos nuestros servicios", href: "/servicios" },
+      { label: "Todos nuestros servicios", href: "/#servicios" },
       { label: "Contacta con Toldos Noa", href: "/contacto" },
       { label: "Más consejos sobre toldos", href: "/consejos" },
     ],

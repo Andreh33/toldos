@@ -7,12 +7,12 @@ import { ReviewForm } from '@/components/ReviewForm';
 import { Button } from '@/components/ui/button';
 import { db } from '@/lib/db';
 import { REVIEWS_SEED, type Review } from '@/lib/reviews-seed';
-import { SITE, GOOGLE_REVIEW_URL } from '@/lib/constants';
+import { SITE, GOOGLE_REVIEW_URL, HAS_GOOGLE_REVIEW_URL } from '@/lib/constants';
 
 export const metadata: Metadata = {
   title: 'Reseñas · Lo que dicen nuestros clientes',
   description:
-    'Reseñas reales de clientes de Toldos Noa en Madrid y Tarragona. Déjanos la tuya.',
+    'Opiniones de clientes de Toldos Noa en Madrid y Tarragona. ¿Trabajaste con nosotros? Déjanos la tuya.',
   alternates: { canonical: '/resenas' },
   openGraph: {
     type: 'website',
@@ -20,7 +20,7 @@ export const metadata: Metadata = {
     siteName: 'Toldos Noa',
     title: 'Reseñas de clientes · Toldos Noa',
     description:
-      'Reseñas reales de clientes de Toldos Noa en Madrid y Tarragona. Déjanos la tuya.',
+      'Opiniones de clientes de Toldos Noa en Madrid y Tarragona. Déjanos la tuya.',
     url: `${SITE.url}/resenas`,
   },
 };
@@ -61,19 +61,21 @@ export default async function ResenasPage() {
             nosotros, déjanos la tuya — nos ayuda muchísimo.
           </p>
 
-          <div className="mt-8">
-            <Button
-              asChild
-              size="lg"
-              variant="outline"
-              className="border-sun-400 bg-sand-50 text-ink-900 hover:bg-sand-50/70"
-            >
-              <a href={GOOGLE_REVIEW_URL} target="_blank" rel="noopener noreferrer">
-                <Star className="h-4 w-4 fill-sun-400 stroke-sun-500" />
-                Déjanos tu reseña en Google
-              </a>
-            </Button>
-          </div>
+          {HAS_GOOGLE_REVIEW_URL && (
+            <div className="mt-8">
+              <Button
+                asChild
+                size="lg"
+                variant="outline"
+                className="border-sun-400 bg-sand-50 text-ink-900 hover:bg-sand-50/70"
+              >
+                <a href={GOOGLE_REVIEW_URL} target="_blank" rel="noopener noreferrer">
+                  <Star className="h-4 w-4 fill-sun-400 stroke-sun-500" />
+                  Déjanos tu reseña en Google
+                </a>
+              </Button>
+            </div>
+          )}
         </div>
       </section>
 

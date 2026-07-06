@@ -9,7 +9,7 @@ export const posts: BlogPost[] = [
     date: "2026-05-21",
     category: "Toldos por zona",
     readingMinutes: 9,
-    keywords: ["instalacion toldos Tarragona", "toldos a medida Tarragona", "montaje toldos", "visita tecnica toldos", "plazos instalacion toldos", "fijaciones toldos"],
+    keywords: ["instalación de toldos en Tarragona", "toldos a medida Tarragona", "montaje de toldos", "visita técnica toldos", "plazos instalación toldos", "fijaciones toldos"],
     sections: [
       {
         heading: "Por qué el proceso de instalación importa tanto",
@@ -205,15 +205,15 @@ export const posts: BlogPost[] = [
     internalLinks: [
       { label: "Toldos para negocios", href: "/servicios/negocios" },
       { label: "Toldos a medida", href: "/servicios/a-medida" },
-      { label: "Todos los servicios", href: "/servicios" },
+      { label: "Todos los servicios", href: "/#servicios" },
       { label: "Solicita presupuesto", href: "/contacto" }
     ]
   },
   {
     slug: "precio-toldos-madrid",
     title: "Precio de toldos en Madrid: qué influye en el presupuesto",
-    metaDescription: "Qué factores marcan el precio de un toldo en Madrid: tamano, tipo, lona, motor e instalacion. Aprende a pedir y comparar presupuestos con criterio.",
-    excerpt: "El precio de un toldo no sale de una tabla fija: depende del tamano, el tipo, la lona, si lleva motor y de cómo sea tu fachada. Te explicamos cada factor para que sepas qué pagas y cómo pedir un presupuesto justo en Madrid.",
+    metaDescription: "Qué factores marcan el precio de un toldo en Madrid: tamaño, tipo, lona, motor e instalación. Aprende a pedir y comparar presupuestos con criterio.",
+    excerpt: "El precio de un toldo no sale de una tabla fija: depende del tamaño, el tipo, la lona, si lleva motor y de cómo sea tu fachada. Te explicamos cada factor para que sepas qué pagas y cómo pedir un presupuesto justo en Madrid.",
     date: "2026-05-19",
     category: "Toldos por zona",
     readingMinutes: 9,

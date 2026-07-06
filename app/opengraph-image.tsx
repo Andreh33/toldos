@@ -78,7 +78,7 @@ export default async function Image() {
             color: '#5C6781',
           }}
         >
-          <div>toldosnoa.es</div>
+          <div>toldosnoa.com</div>
           <div>☎ 681 924 338</div>
         </div>
       </div>

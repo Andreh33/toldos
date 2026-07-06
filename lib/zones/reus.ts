@@ -4,7 +4,7 @@ export const reus: ZoneData = {
   ciudad: "reus",
   city: "Reus",
   region: "provincia de Tarragona",
-  metaTitle: "Toldos en Reus a medida · Fabricación propia",
+  metaTitle: "Toldos en Reus: instalación y precios",
   metaDescription:
     "Toldos a medida en Reus: terrazas, áticos, comercios y hostelería del centro. Visita técnica y presupuesto gratis, sin subcontratas. ☎ 681 924 338.",
   heroKicker: "Toldos en Reus",
@@ -45,7 +45,7 @@ export const reus: ZoneData = {
     },
     {
       q: "¿Cuánto tarda la instalación de un toldo en Reus?",
-      a: "Depende del modelo y de si es fabricación a medida, pero lo habitual es entre 1 y 3 semanas desde que aceptas el presupuesto, incluyendo fabricación y montaje. En reparaciones o cambios de lona suele ser bastante menos.",
+      a: "Depende del modelo y de si es fabricación a medida, pero lo habitual es entre 2 y 4 semanas desde que aceptas el presupuesto, incluyendo fabricación y montaje. En reparaciones o cambios de lona suele ser bastante menos.",
     },
     {
       q: "¿Instaláis toldos para comercios y bares del centro de Reus?",
@@ -65,5 +65,7 @@ export const reus: ZoneData = {
     { label: "Toldos para tu hogar", href: "/servicios/hogar" },
     { label: "Reparación de toldos", href: "/servicios/reparaciones" },
     { label: "Cuánto cuesta un toldo", href: "/consejos/cuanto-cuesta-un-toldo" },
+    { label: "Toldo cofre: ventajas y precios", href: "/consejos/toldo-cofre" },
+    { label: "Cómo es la instalación de un toldo en Tarragona", href: "/consejos/instalacion-toldos-tarragona" },
   ],
 };

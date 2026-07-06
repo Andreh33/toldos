@@ -4,7 +4,7 @@ export const vilaSeca: ZoneData = {
   ciudad: "vila-seca",
   city: "Vila-seca",
   region: "provincia de Tarragona",
-  metaTitle: "Toldos en Vila-seca y La Pineda a medida",
+  metaTitle: "Toldos en Vila-seca y La Pineda: instalación",
   metaDescription:
     "Toldos a medida en Vila-seca y La Pineda: terrazas, chalets, hoteles y bares. Visita técnica y presupuesto gratis, instalación propia. ☎ 681 924 338.",
   heroKicker: "Toldos en Vila-seca",
@@ -49,7 +49,7 @@ export const vilaSeca: ZoneData = {
     },
     {
       q: "¿Podéis instalar antes de que empiece la temporada de verano?",
-      a: "Es lo que más nos piden hoteles, chiringuitos y restaurantes de La Pineda. Lo habitual es entre 1 y 3 semanas desde que aceptas el presupuesto, incluyendo fabricación y montaje, pero si nos avisas con margen antes de temporada lo dejamos listo a tiempo. Coméntanoslo y lo planificamos.",
+      a: "Es lo que más nos piden hoteles, chiringuitos y restaurantes de La Pineda. Lo habitual es entre 2 y 4 semanas desde que aceptas el presupuesto, incluyendo fabricación y montaje, pero si nos avisas con margen antes de temporada lo dejamos listo a tiempo. Coméntanoslo y lo planificamos.",
     },
     {
       q: "¿Trabajáis solo en Vila-seca o también en Salou, Cambrils y Tarragona?",
@@ -65,5 +65,7 @@ export const vilaSeca: ZoneData = {
     { label: "Toldos para tu hogar", href: "/servicios/hogar" },
     { label: "Reparación de toldos", href: "/servicios/reparaciones" },
     { label: "Cómo elegir el toldo de tu terraza", href: "/consejos/como-elegir-toldo-terraza" },
+    { label: "Toldos para hostelería en Tarragona", href: "/consejos/toldos-para-hosteleria-tarragona" },
+    { label: "Toldos en la Costa Dorada", href: "/consejos/toldos-costa-dorada" },
   ],
 };

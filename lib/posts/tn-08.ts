@@ -301,8 +301,8 @@ export const posts: BlogPost[] = [
     readingMinutes: 9,
     keywords: [
       "cuanto dura un toldo",
-      "vida util de un toldo",
-      "duracion lona toldo",
+      "vida útil de un toldo",
+      "duración lona toldo",
       "renovar toldo",
       "cuando cambiar toldo",
       "calidad de toldos"

@@ -5,6 +5,7 @@ import { Footer } from '@/components/Footer';
 import { ContactCTA } from '@/components/ContactCTA';
 import { Button } from '@/components/ui/button';
 import { SITE, PHONE, WHATSAPP } from '@/lib/constants';
+import { ZONES } from '@/lib/zones';
 import type { ZoneData } from '@/lib/zone-types';
 
 const BENEFITS = [
@@ -20,14 +21,21 @@ export function ZoneLanding({ data }: { data: ZoneData }) {
   const serviceLd = {
     '@context': 'https://schema.org',
     '@type': 'Service',
+    '@id': `${url}#service`,
     name: `Toldos en ${data.city}`,
     serviceType: 'Fabricación, instalación y reparación de toldos',
-    areaServed: { '@type': 'City', name: data.city },
+    description: data.metaDescription,
+    areaServed: {
+      '@type': 'City',
+      name: data.city,
+      containedInPlace: { '@type': 'AdministrativeArea', name: data.region },
+    },
     provider: {
       '@type': 'HomeAndConstructionBusiness',
       '@id': `${SITE.url}/#localbusiness`,
       name: 'Toldos Noa',
       telephone: PHONE.e164,
+      url: SITE.url,
     },
     url,
   };
@@ -188,7 +196,7 @@ export function ZoneLanding({ data }: { data: ZoneData }) {
           <h2 className="mt-4 font-display text-3xl font-medium leading-tight tracking-display text-ink-900 sm:text-4xl lg:text-5xl">
             Toldos en {data.city}: dudas habituales
           </h2>
-          <dl className="mt-12 space-y-6">
+          <div className="mt-12 space-y-6">
             {data.faqs.map((f) => (
               <details
                 key={f.q}
@@ -205,10 +213,10 @@ export function ZoneLanding({ data }: { data: ZoneData }) {
                     </span>
                   </div>
                 </summary>
-                <dd className="mt-4 text-base leading-relaxed text-ink-700">{f.a}</dd>
+                <p className="mt-4 text-base leading-relaxed text-ink-700">{f.a}</p>
               </details>
             ))}
-          </dl>
+          </div>
         </div>
       </section>
 
@@ -236,6 +244,28 @@ export function ZoneLanding({ data }: { data: ZoneData }) {
           </div>
         </section>
       )}
+
+      {/* Otras zonas (enlazado lateral entre landings locales) */}
+      <section className="bg-sand-50 py-16">
+        <div className="container">
+          <h2 className="font-display text-2xl font-medium tracking-display text-ink-900 sm:text-3xl">
+            También instalamos toldos en
+          </h2>
+          <ul className="mt-6 flex flex-wrap gap-2.5">
+            {ZONES.filter((z) => z.ciudad !== data.ciudad).map((z) => (
+              <li key={z.ciudad}>
+                <Link
+                  href={`/toldos-en/${z.ciudad}`}
+                  className="inline-flex items-center gap-1.5 rounded-full border border-sand-200 bg-sand-100 px-4 py-2 text-sm text-ink-700 transition-colors hover:border-sun-400 hover:text-ink-900"
+                >
+                  <MapPin className="h-3.5 w-3.5 text-sun-500" aria-hidden />
+                  Toldos en {z.city}
+                </Link>
+              </li>
+            ))}
+          </ul>
+        </div>
+      </section>
 
       <ContactCTA />
       <Footer />

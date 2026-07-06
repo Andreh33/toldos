@@ -4,7 +4,7 @@ export const madrid: ZoneData = {
   ciudad: 'madrid',
   city: 'Madrid',
   region: 'Comunidad de Madrid',
-  metaTitle: 'Toldos en Madrid · Fabricación e instalación a medida',
+  metaTitle: 'Toldos en Madrid: instalación y precios',
   metaDescription:
     'Toldos a medida en Madrid: terrazas, áticos, patios y negocios. Visita técnica y presupuesto gratis, instalación propia y garantía. ☎ 681 924 338.',
   heroKicker: 'Toldos en Madrid',
@@ -45,7 +45,7 @@ export const madrid: ZoneData = {
     },
     {
       q: '¿Cuánto tarda la instalación de un toldo en Madrid?',
-      a: 'Depende del modelo y de si es fabricación a medida, pero lo habitual es entre 1 y 3 semanas desde que aceptas el presupuesto, incluyendo fabricación y montaje. En reparaciones o cambios de lona suele ser bastante menos.',
+      a: 'Depende del modelo y de si es fabricación a medida, pero lo habitual es entre 2 y 4 semanas desde que aceptas el presupuesto, incluyendo fabricación y montaje. En reparaciones o cambios de lona suele ser bastante menos. En plena temporada de verano la agenda se llena rápido: cuanto antes hagamos la visita, antes queda reservada tu fecha de montaje.',
     },
     {
       q: '¿Necesito permiso de la comunidad o del ayuntamiento?',
@@ -65,5 +65,7 @@ export const madrid: ZoneData = {
     { label: 'Toldos para negocios', href: '/servicios/negocios' },
     { label: 'Cuánto cuesta un toldo', href: '/consejos/cuanto-cuesta-un-toldo' },
     { label: 'Cómo elegir el toldo de tu terraza', href: '/consejos/como-elegir-toldo-terraza' },
+    { label: 'Precio de toldos en Madrid', href: '/consejos/precio-toldos-madrid' },
+    { label: 'Toldos para áticos en Madrid', href: '/consejos/toldos-aticos-madrid' },
   ],
 };

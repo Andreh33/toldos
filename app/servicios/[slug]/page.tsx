@@ -25,12 +25,16 @@ export async function generateMetadata({
   const service = getService(slug);
   if (!service) return {};
   return {
-    title: `${service.title} · Toldos en Madrid y Tarragona`,
-    description: service.intro ?? service.description,
+    title: service.seoTitle,
+    description: service.metaDescription,
     alternates: { canonical: `/servicios/${service.slug}` },
     openGraph: {
-      title: `${service.title} | Toldos Noa`,
-      description: service.intro ?? service.description,
+      type: 'website',
+      locale: 'es_ES',
+      siteName: 'Toldos Noa',
+      title: `${service.seoTitle} | Toldos Noa`,
+      description: service.metaDescription,
+      url: `${SITE.url}/servicios/${service.slug}`,
       images: [{ url: service.image }],
     },
   };
@@ -319,6 +323,34 @@ export default async function ServicioPage({
           </dl>
         </div>
       </section>
+
+      {/* Guías relacionadas (enlazado interno hacia /consejos) */}
+      {service.related.length > 0 && (
+        <section className="bg-sand-50 py-16">
+          <div className="container">
+            <p className="text-xs font-medium uppercase tracking-[0.22em] text-sun-500">
+              Guías útiles
+            </p>
+            <h2 className="mt-3 font-display text-2xl font-medium tracking-display text-ink-900 sm:text-3xl">
+              Antes de decidir, resuelve tus dudas
+            </h2>
+            <div className="mt-6 grid gap-4 sm:grid-cols-2">
+              {service.related.map((r) => (
+                <Link
+                  key={r.href}
+                  href={r.href}
+                  className="group flex items-center justify-between gap-4 rounded-2xl border border-sand-200 bg-sand-50 p-5 transition-all hover:border-sun-400 hover:shadow-card"
+                >
+                  <span className="font-display text-base tracking-display text-ink-900">
+                    {r.label}
+                  </span>
+                  <ArrowRight className="h-4 w-4 shrink-0 text-ink-700 transition-transform group-hover:translate-x-0.5" />
+                </Link>
+              ))}
+            </div>
+          </div>
+        </section>
+      )}
 
       {/* Otros servicios */}
       <section className="bg-sand-100 py-20">

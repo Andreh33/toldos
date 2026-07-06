@@ -25,6 +25,8 @@ export const metadata: Metadata = {
     description:
       'Tipos de toldos, instalación en Madrid y Tarragona, mantenimiento y reparación. Guías prácticas de Toldos Noa.',
     type: 'website',
+    locale: 'es_ES',
+    siteName: 'Toldos Noa',
     url: `${SITE.url}/consejos`,
   },
 };

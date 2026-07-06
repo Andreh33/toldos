@@ -4,7 +4,7 @@ export const cambrils: ZoneData = {
   ciudad: "cambrils",
   city: "Cambrils",
   region: "provincia de Tarragona",
-  metaTitle: "Toldos en Cambrils a medida · Costa Dorada",
+  metaTitle: "Toldos en Cambrils: instalación y precios",
   metaDescription:
     "Toldos a medida en Cambrils: terrazas de playa, apartamentos, chalets y hostelería del Port y Vilafortuny. Visita y presupuesto gratis. ☎ 681 924 338.",
   heroKicker: "Toldos en Cambrils",
@@ -46,7 +46,7 @@ export const cambrils: ZoneData = {
     },
     {
       q: "¿Cuánto tarda la instalación de un toldo en Cambrils?",
-      a: "Depende del modelo y de si es fabricación a medida, pero lo habitual es entre 1 y 3 semanas desde que aceptas el presupuesto, fabricación y montaje incluidos. En cambios de lona o reparaciones suele ser bastante menos.",
+      a: "Depende del modelo y de si es fabricación a medida, pero lo habitual es entre 2 y 4 semanas desde que aceptas el presupuesto, fabricación y montaje incluidos. En cambios de lona o reparaciones suele ser bastante menos.",
     },
     {
       q: "¿Qué toldo aguanta mejor el sol y el salitre de la costa?",
@@ -66,5 +66,7 @@ export const cambrils: ZoneData = {
     { label: "Toldos para negocios", href: "/servicios/negocios" },
     { label: "Reparación de toldos", href: "/servicios/reparaciones" },
     { label: "Cómo elegir el toldo de tu terraza", href: "/consejos/como-elegir-toldo-terraza" },
+    { label: "Toldo cofre para casas junto al mar", href: "/consejos/toldo-cofre" },
+    { label: "Toldos en la Costa Dorada", href: "/consejos/toldos-costa-dorada" },
   ],
 };

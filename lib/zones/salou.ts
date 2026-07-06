@@ -4,7 +4,7 @@ export const salou: ZoneData = {
   ciudad: "salou",
   city: "Salou",
   region: "provincia de Tarragona",
-  metaTitle: "Toldos en Salou · A medida en la Costa Dorada",
+  metaTitle: "Toldos en Salou: instalación y precios",
   metaDescription:
     "Toldos a medida en Salou y Costa Dorada: hoteles, bares, terrazas y apartamentos de playa. Lonas que aguantan sol y salitre marino. ☎ 681 924 338.",
   heroKicker: "Toldos en Salou",
@@ -65,5 +65,7 @@ export const salou: ZoneData = {
     { label: "Toldos para tu hogar", href: "/servicios/hogar" },
     { label: "Reparación de toldos", href: "/servicios/reparaciones" },
     { label: "Cómo elegir el toldo de tu terraza", href: "/consejos/como-elegir-toldo-terraza" },
+    { label: "Toldos en la Costa Dorada: sol, brisa y salitre", href: "/consejos/toldos-costa-dorada" },
+    { label: "Toldos para hostelería en Tarragona", href: "/consejos/toldos-para-hosteleria-tarragona" },
   ],
 };

@@ -58,3 +58,84 @@
     outline-offset: 2px;
   }
 }
+
+/*
+ * Animaciones de entrada en CSS puro (sustituyen a framer-motion en el hero
+ * y elementos de layout). Empiezan en el primer paint, sin esperar a la
+ * hidratación de React: clave para que el H1 (elemento LCP) pinte al instante.
+ */
+@layer utilities {
+  @keyframes tn-rise {
+    from {
+      transform: translateY(24px);
+    }
+    to {
+      transform: translateY(0);
+    }
+  }
+  @keyframes tn-fade-up {
+    from {
+      opacity: 0;
+      transform: translateY(20px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+  @keyframes tn-fade-down {
+    from {
+      opacity: 0;
+      transform: translateY(-10px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+  @keyframes tn-fade-in {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+  @keyframes tn-pop-in {
+    from {
+      opacity: 0;
+      transform: scale(0.4);
+    }
+    to {
+      opacity: 1;
+      transform: scale(1);
+    }
+  }
+
+  /* El H1 solo anima transform: visible desde el primer frame (LCP limpio). */
+  .animate-rise {
+    animation: tn-rise 0.8s cubic-bezier(0.16, 1, 0.3, 1) both;
+  }
+  .animate-fade-up {
+    animation: tn-fade-up 0.8s cubic-bezier(0.16, 1, 0.3, 1) both;
+  }
+  .animate-fade-down {
+    animation: tn-fade-down 0.6s cubic-bezier(0.16, 1, 0.3, 1) both;
+  }
+  .animate-fade-in {
+    animation: tn-fade-in 1s ease both;
+  }
+  .animate-pop-in {
+    animation: tn-pop-in 0.5s cubic-bezier(0.16, 1, 0.3, 1) both;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .animate-rise,
+    .animate-fade-up,
+    .animate-fade-down,
+    .animate-fade-in,
+    .animate-pop-in {
+      animation: none;
+    }
+  }
+}

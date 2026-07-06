@@ -29,6 +29,6 @@ export type ZoneData = {
   /** Por que elegirnos, en clave local (2-3 parrafos). */
   why: string[];
   faqs: ZoneFAQ[];
-  /** Enlaces internos a servicios y guias relacionadas. */
+  /** Enlaces internos a servicios y guías relacionadas. */
   related: { label: string; href: string }[];
 };

@@ -4,7 +4,7 @@ export const tarragona: ZoneData = {
   ciudad: "tarragona",
   city: "Tarragona",
   region: "provincia de Tarragona",
-  metaTitle: "Toldos en Tarragona · Fabricación e instalación",
+  metaTitle: "Toldos en Tarragona: instalación y precios",
   metaDescription:
     "Toldos a medida en Tarragona: terrazas, áticos, comercios y hostelería. Aguantan sol, marinada y salitre. Visita y presupuesto gratis. ☎ 681 924 338.",
   heroKicker: "Toldos en Tarragona",
@@ -53,7 +53,7 @@ export const tarragona: ZoneData = {
     },
     {
       q: "¿Cuánto tarda la instalación de un toldo en Tarragona?",
-      a: "Depende del modelo y de si es fabricación a medida, pero lo habitual es entre 1 y 3 semanas desde que aceptas el presupuesto, incluyendo fabricación y montaje. En cambios de lona o reparaciones suele ser bastante menos.",
+      a: "Depende del modelo y de si es fabricación a medida, pero lo habitual es entre 2 y 4 semanas desde que aceptas el presupuesto, incluyendo fabricación y montaje. En cambios de lona o reparaciones suele ser bastante menos. En verano la agenda se llena rápido: cuanto antes hagamos la visita, antes reservas fecha de montaje.",
     },
     {
       q: "¿Trabajáis en todo el Tarragonès?",
@@ -65,5 +65,7 @@ export const tarragona: ZoneData = {
     { label: "Toldos para negocios", href: "/servicios/negocios" },
     { label: "Toldos a medida", href: "/servicios/a-medida" },
     { label: "Cómo elegir el toldo de tu terraza", href: "/consejos/como-elegir-toldo-terraza" },
+    { label: "Instalación de toldos en Tarragona: cómo trabajamos", href: "/consejos/instalacion-toldos-tarragona" },
+    { label: "Toldos para hostelería en Tarragona", href: "/consejos/toldos-para-hosteleria-tarragona" },
   ],
 };

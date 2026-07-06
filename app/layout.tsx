@@ -4,6 +4,7 @@ import { GeistSans } from 'geist/font/sans';
 import { Analytics } from '@vercel/analytics/next';
 import { Toaster } from '@/components/ui/sonner';
 import { WhatsAppFloat } from '@/components/WhatsAppFloat';
+import { MobileCtaBar } from '@/components/MobileCtaBar';
 import { ClickTracker } from '@/components/ClickTracker';
 import { SITE, EMAIL, PHONE } from '@/lib/constants';
 import './globals.css';
@@ -17,8 +18,9 @@ const fraunces = Fraunces({
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE.url),
+  applicationName: 'Toldos Noa',
   title: {
-    default: 'Toldos Noa · Toldos a medida en Madrid y Tarragona',
+    default: 'Toldos a medida en Madrid y Tarragona | Toldos Noa',
     template: '%s | Toldos Noa',
   },
   description:
@@ -40,14 +42,14 @@ export const metadata: Metadata = {
     type: 'website',
     locale: 'es_ES',
     siteName: 'Toldos Noa',
-    title: 'Toldos Noa · Toldos a medida en Madrid y Tarragona',
+    title: 'Toldos a medida en Madrid y Tarragona | Toldos Noa',
     description:
       'Fabricación e instalación de toldos a medida para viviendas y negocios en Madrid y Tarragona.',
     url: SITE.url,
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Toldos Noa · Toldos a medida en Madrid y Tarragona',
+    title: 'Toldos a medida en Madrid y Tarragona | Toldos Noa',
     description:
       'Fabricación e instalación de toldos a medida en Madrid y Tarragona.',
   },
@@ -69,6 +71,7 @@ const ldJson = {
       '@id': `${SITE.url}/#website`,
       url: SITE.url,
       name: 'Toldos Noa',
+      alternateName: ['Toldos NOA', 'toldosnoa.com'],
       inLanguage: 'es-ES',
       publisher: { '@id': `${SITE.url}/#localbusiness` },
     },
@@ -76,14 +79,18 @@ const ldJson = {
       '@type': 'HomeAndConstructionBusiness',
       '@id': `${SITE.url}/#localbusiness`,
       name: 'Toldos Noa',
+      alternateName: 'Toldos NOA',
+      slogan: 'Protegemos tu espacio como si fuera nuestro',
       description:
         'Fabricación, instalación y reparación de toldos a medida para viviendas y negocios en Madrid y Tarragona: toldos cofre, extensibles, verticales, capotas y pérgolas bioclimáticas.',
       telephone: PHONE.e164,
       email: EMAIL,
       url: SITE.url,
-      image: `${SITE.url}/fotos/hero.jpg`,
+      image: [`${SITE.url}/fotos/hero.jpg`, `${SITE.url}/logo/logo.jpg`],
       logo: `${SITE.url}/logo/logo.jpg`,
       priceRange: '€€',
+      currenciesAccepted: 'EUR',
+      knowsLanguage: ['es'],
       areaServed: [
         { '@type': 'AdministrativeArea', name: 'Comunidad de Madrid' },
         { '@type': 'AdministrativeArea', name: 'Provincia de Tarragona' },
@@ -92,6 +99,9 @@ const ldJson = {
         { '@type': 'City', name: 'Reus' },
         { '@type': 'City', name: 'Salou' },
         { '@type': 'City', name: 'Cambrils' },
+        { '@type': 'City', name: 'Vila-seca' },
+        { '@type': 'City', name: 'El Vendrell' },
+        { '@type': 'City', name: 'Valls' },
       ],
       contactPoint: {
         '@type': 'ContactPoint',
@@ -119,6 +129,7 @@ const ldJson = {
         'Reparación de toldos y cambio de lonas',
         'Toldos para hostelería y comercios',
         'Pérgolas bioclimáticas',
+        'Motorización de toldos y sensores de viento',
       ],
       makesOffer: [
         {
@@ -165,7 +176,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
       className={`${fraunces.variable} ${GeistSans.variable}`}
       suppressHydrationWarning
     >
-      <body className="bg-sand-50 text-ink-900 antialiased">
+      <body className="bg-sand-50 text-ink-900 antialiased pb-16 md:pb-0">
         <a href="#contenido" className="skip-link">
           Saltar al contenido principal
         </a>
@@ -175,6 +186,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         />
         <main id="contenido">{children}</main>
         <WhatsAppFloat />
+        <MobileCtaBar />
         <Toaster />
         <ClickTracker />
         <Analytics />

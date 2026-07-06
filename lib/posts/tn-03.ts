@@ -176,7 +176,7 @@ export const posts: BlogPost[] = [
     ],
     internalLinks: [
       { label: "Toldos para el hogar", href: "/servicios/hogar" },
-      { label: "Todos nuestros servicios", href: "/servicios" },
+      { label: "Todos nuestros servicios", href: "/#servicios" },
       { label: "Solicita presupuesto", href: "/contacto" },
       { label: "Consejos sobre toldos", href: "/consejos" }
     ]
@@ -455,7 +455,7 @@ export const posts: BlogPost[] = [
     ],
     internalLinks: [
       { label: "Toldos a medida", href: "/servicios/a-medida" },
-      { label: "Todos nuestros servicios", href: "/servicios" },
+      { label: "Todos nuestros servicios", href: "/#servicios" },
       { label: "Pide tu visita técnica", href: "/contacto" },
       { label: "Más consejos sobre toldos", href: "/consejos" }
     ]

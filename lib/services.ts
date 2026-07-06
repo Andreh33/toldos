@@ -20,6 +20,12 @@ export type ServiceFAQ = {
 export type Service = {
   slug: 'hogar' | 'negocios' | 'reparaciones' | 'a-medida';
   title: string;
+  /** Título SEO orientado a búsqueda (la plantilla añade "| Toldos Noa"). */
+  seoTitle: string;
+  /** Meta description con propuesta de valor, CTA y teléfono. */
+  metaDescription: string;
+  /** Guías de /consejos relacionadas con este servicio (enlazado interno). */
+  related: { label: string; href: string }[];
   intro: string;
   icon: LucideIcon;
   image: string;
@@ -39,6 +45,15 @@ export const SERVICES: Service[] = [
   {
     slug: 'hogar',
     title: 'Para tu Hogar',
+    seoTitle: 'Toldos para terraza y hogar a medida',
+    metaDescription:
+      'Toldos para terraza, balcón, patio y ático en Madrid y Tarragona. Cofre, extensibles y verticales con instalación propia. Presupuesto gratis ☎ 681 924 338.',
+    related: [
+      { label: 'Cómo elegir el toldo de tu terraza', href: '/consejos/como-elegir-toldo-terraza' },
+      { label: 'Toldo cofre: ventajas y precios', href: '/consejos/toldo-cofre' },
+      { label: 'Cuánto cuesta un toldo', href: '/consejos/cuanto-cuesta-un-toldo' },
+      { label: 'El toldo según la orientación de tu terraza', href: '/consejos/toldo-segun-orientacion' },
+    ],
     intro:
       'Toldos para terrazas, patios, ventanas y áticos. Instalaciones cuidadas, materiales que aguantan y trato cercano de principio a fin.',
     icon: Home,
@@ -160,6 +175,15 @@ export const SERVICES: Service[] = [
   {
     slug: 'negocios',
     title: 'Para Negocios',
+    seoTitle: 'Toldos para negocios y hostelería',
+    metaDescription:
+      'Toldos para bares, restaurantes y comercios en Madrid y Tarragona: más terraza útil, imagen de marca y montaje sin parar tu actividad. ☎ 681 924 338.',
+    related: [
+      { label: 'Toldos para hostelería en Madrid', href: '/consejos/toldos-para-hosteleria-madrid' },
+      { label: 'Toldos para hostelería en Tarragona', href: '/consejos/toldos-para-hosteleria-tarragona' },
+      { label: 'Normativa de toldos en terrazas de hostelería', href: '/consejos/toldos-terrazas-hosteleria-normativa' },
+      { label: 'Toldos para comercios en Madrid', href: '/consejos/toldos-para-comercios-madrid' },
+    ],
     intro:
       'Toldos y lonas para hostelería, comercio y oficinas. Imagen profesional, aguante real y plazos que no te paran la actividad.',
     icon: Store,
@@ -287,6 +311,15 @@ export const SERVICES: Service[] = [
   {
     slug: 'reparaciones',
     title: 'Reparaciones',
+    seoTitle: 'Reparación de toldos y cambio de lona',
+    metaDescription:
+      'Reparación de toldos de cualquier marca en Madrid y Tarragona: cambio de lona, brazos, motores y mandos. Diagnóstico honesto y rápido. ☎ 681 924 338.',
+    related: [
+      { label: 'Cambio de lona de toldo: cuándo y cuánto cuesta', href: '/consejos/cambio-de-lona-toldo' },
+      { label: 'Reparar el brazo de un toldo', href: '/consejos/reparar-brazo-toldo' },
+      { label: 'Reparar el motor del toldo', href: '/consejos/reparar-motor-toldo' },
+      { label: 'Mi toldo no sube ni baja: soluciones', href: '/consejos/toldo-no-sube-ni-baja' },
+    ],
     intro:
       'Reparamos lo que tiene arreglo. Cambios de lona, brazos, motores y ajustes de estructura — sin venderte un toldo nuevo si no hace falta.',
     icon: Wrench,
@@ -409,6 +442,15 @@ export const SERVICES: Service[] = [
   {
     slug: 'a-medida',
     title: 'A Medida',
+    seoTitle: 'Toldos a medida y pérgolas bioclimáticas',
+    metaDescription:
+      'Proyectos a medida en Madrid y Tarragona: pérgolas bioclimáticas, velas tensadas, correderos y grandes formatos. Visita técnica gratis ☎ 681 924 338.',
+    related: [
+      { label: 'Pérgolas bioclimáticas: guía completa', href: '/consejos/pergola-bioclimatica' },
+      { label: 'Toldos vela: diseño y montaje', href: '/consejos/toldo-vela' },
+      { label: 'Toldos correderos para patios', href: '/consejos/toldo-corredero-patio' },
+      { label: 'Pérgola o toldo: cuál elegir', href: '/consejos/pergola-vs-toldo' },
+    ],
     intro:
       'Espacios complicados, formas irregulares, proyectos singulares. Diseñamos toldos y cubiertas a medida cuando lo estándar no encaja.',
     icon: Ruler,

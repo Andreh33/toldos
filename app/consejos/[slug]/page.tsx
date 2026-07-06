@@ -31,6 +31,7 @@ export async function generateMetadata({
       title: `${post.title} | Toldos Noa`,
       description: post.metaDescription,
       type: 'article',
+      siteName: 'Toldos Noa',
       publishedTime: post.date,
       locale: 'es_ES',
       url: `${SITE.url}/consejos/${post.slug}`,

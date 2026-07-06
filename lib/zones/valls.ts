@@ -4,7 +4,7 @@ export const valls: ZoneData = {
   ciudad: "valls",
   city: "Valls",
   region: "provincia de Tarragona",
-  metaTitle: "Toldos en Valls · Fabricación e instalación propia",
+  metaTitle: "Toldos en Valls: instalación y precios",
   metaDescription:
     "Toldos a medida en Valls: terrazas, patios, comercios y naves del Alt Camp. Visita técnica y presupuesto gratis, fabricamos e instalamos. ☎ 681 924 338.",
   heroKicker: "Toldos en Valls",
@@ -65,5 +65,7 @@ export const valls: ZoneData = {
     { label: "Toldos para negocios", href: "/servicios/negocios" },
     { label: "Reparación de toldos", href: "/servicios/reparaciones" },
     { label: "Cuánto cuesta un toldo", href: "/consejos/cuanto-cuesta-un-toldo" },
+    { label: "Plazos de fabricación e instalación de un toldo", href: "/consejos/plazos-fabricacion-e-instalacion-toldo" },
+    { label: "Pérgolas bioclimáticas: guía completa", href: "/consejos/pergola-bioclimatica" },
   ],
 };

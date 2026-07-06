@@ -11,6 +11,9 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${SITE.url}/consejos`, lastModified: now, changeFrequency: 'weekly', priority: 0.8 },
     { url: `${SITE.url}/contacto`, lastModified: now, changeFrequency: 'yearly', priority: 0.7 },
     { url: `${SITE.url}/resenas`, lastModified: now, changeFrequency: 'weekly', priority: 0.7 },
+    { url: `${SITE.url}/aviso-legal`, lastModified: now, changeFrequency: 'yearly', priority: 0.2 },
+    { url: `${SITE.url}/privacidad`, lastModified: now, changeFrequency: 'yearly', priority: 0.2 },
+    { url: `${SITE.url}/cookies`, lastModified: now, changeFrequency: 'yearly', priority: 0.2 },
   ];
   const services = SERVICES.map((s) => ({
     url: `${SITE.url}/servicios/${s.slug}`,

@@ -30,5 +30,12 @@ export const ZONES = ['Tarragona (provincia)', 'Madrid'];
 // TODO: reemplazar por la URL real cuando el cliente cree su perfil de Google Business Profile
 export const GOOGLE_REVIEW_URL = 'https://g.page/r/REPLACE_WITH_PLACE_ID/review';
 
+/**
+ * true cuando la URL de reseñas de Google es real. Mientras sea el
+ * placeholder, los botones "Déjanos tu reseña en Google" no se muestran
+ * (evita enviar usuarios y crawlers a un enlace roto).
+ */
+export const HAS_GOOGLE_REVIEW_URL = !GOOGLE_REVIEW_URL.includes('REPLACE_WITH_PLACE_ID');
+
 // TODO: reemplazar por el email real del cliente
 export const EMAIL = 'info@toldosnoa.es';

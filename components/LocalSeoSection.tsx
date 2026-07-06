@@ -19,30 +19,33 @@ const TOLDO_TYPES = [
   },
 ];
 
-const ZONES_MADRID = [
-  'Madrid capital',
-  'Alcalá de Henares',
-  'Getafe',
-  'Leganés',
-  'Móstoles',
-  'Fuenlabrada',
-  'Alcorcón',
-  'Las Rozas',
-  'Pozuelo de Alarcón',
-  'Rivas-Vaciamadrid',
+/** Localidades destacadas; las que tienen landing propia llevan href. */
+type ZoneChip = { name: string; href?: string };
+
+const ZONES_MADRID: ZoneChip[] = [
+  { name: 'Madrid capital', href: '/toldos-en/madrid' },
+  { name: 'Alcalá de Henares' },
+  { name: 'Getafe' },
+  { name: 'Leganés' },
+  { name: 'Móstoles' },
+  { name: 'Fuenlabrada' },
+  { name: 'Alcorcón' },
+  { name: 'Las Rozas' },
+  { name: 'Pozuelo de Alarcón' },
+  { name: 'Rivas-Vaciamadrid' },
 ];
 
-const ZONES_TARRAGONA = [
-  'Tarragona capital',
-  'Reus',
-  'Salou',
-  'Cambrils',
-  'El Vendrell',
-  'Torredembarra',
-  'Valls',
-  'Calafell',
-  'Vila-seca',
-  'Tortosa',
+const ZONES_TARRAGONA: ZoneChip[] = [
+  { name: 'Tarragona capital', href: '/toldos-en/tarragona' },
+  { name: 'Reus', href: '/toldos-en/reus' },
+  { name: 'Salou', href: '/toldos-en/salou' },
+  { name: 'Cambrils', href: '/toldos-en/cambrils' },
+  { name: 'El Vendrell', href: '/toldos-en/el-vendrell' },
+  { name: 'Torredembarra' },
+  { name: 'Valls', href: '/toldos-en/valls' },
+  { name: 'Calafell' },
+  { name: 'Vila-seca', href: '/toldos-en/vila-seca' },
+  { name: 'Tortosa' },
 ];
 
 export function LocalSeoSection() {
@@ -125,11 +128,19 @@ export function LocalSeoSection() {
             </h4>
             <ul className="mt-3 flex flex-wrap gap-2">
               {ZONES_MADRID.map((z) => (
-                <li
-                  key={z}
-                  className="rounded-full bg-sand-50 px-4 py-1.5 text-sm text-ink-700 shadow-card"
-                >
-                  {z}
+                <li key={z.name}>
+                  {z.href ? (
+                    <Link
+                      href={z.href}
+                      className="inline-block rounded-full bg-sand-50 px-4 py-1.5 text-sm text-ink-900 underline decoration-sun-400 decoration-2 underline-offset-4 shadow-card transition-colors hover:text-ink-700"
+                    >
+                      {z.name}
+                    </Link>
+                  ) : (
+                    <span className="inline-block rounded-full bg-sand-50 px-4 py-1.5 text-sm text-ink-700 shadow-card">
+                      {z.name}
+                    </span>
+                  )}
                 </li>
               ))}
             </ul>
@@ -140,11 +151,19 @@ export function LocalSeoSection() {
             </h4>
             <ul className="mt-3 flex flex-wrap gap-2">
               {ZONES_TARRAGONA.map((z) => (
-                <li
-                  key={z}
-                  className="rounded-full bg-sand-50 px-4 py-1.5 text-sm text-ink-700 shadow-card"
-                >
-                  {z}
+                <li key={z.name}>
+                  {z.href ? (
+                    <Link
+                      href={z.href}
+                      className="inline-block rounded-full bg-sand-50 px-4 py-1.5 text-sm text-ink-900 underline decoration-sun-400 decoration-2 underline-offset-4 shadow-card transition-colors hover:text-ink-700"
+                    >
+                      {z.name}
+                    </Link>
+                  ) : (
+                    <span className="inline-block rounded-full bg-sand-50 px-4 py-1.5 text-sm text-ink-700 shadow-card">
+                      {z.name}
+                    </span>
+                  )}
                 </li>
               ))}
             </ul>

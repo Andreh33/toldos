@@ -329,7 +329,7 @@ export const posts: BlogPost[] = [
     ],
     internalLinks: [
       { label: "Reparaciones de toldos", href: "/servicios/reparaciones" },
-      { label: "Nuestros servicios", href: "/servicios" },
+      { label: "Nuestros servicios", href: "/#servicios" },
       { label: "Toldos para el hogar", href: "/servicios/hogar" },
       { label: "Contacto y presupuesto", href: "/contacto" },
     ],
@@ -438,7 +438,7 @@ export const posts: BlogPost[] = [
     ],
     internalLinks: [
       { label: "Reparaciones de toldos", href: "/servicios/reparaciones" },
-      { label: "Nuestros servicios", href: "/servicios" },
+      { label: "Nuestros servicios", href: "/#servicios" },
       { label: "Toldos para negocios", href: "/servicios/negocios" },
       { label: "Contacto y presupuesto", href: "/contacto" },
     ],

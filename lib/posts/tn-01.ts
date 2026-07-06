@@ -231,7 +231,7 @@ export const posts: BlogPost[] = [
     keywords: [
       "toldo vertical",
       "toldo corredero",
-      "toldo con guias",
+      "toldo con guías",
       "privacidad terraza",
       "control solar lateral",
       "toldo hosteleria",

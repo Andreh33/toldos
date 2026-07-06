@@ -4,7 +4,7 @@ import Link from 'next/link';
 import { motion } from 'framer-motion';
 import { Star, Quote, ArrowRight } from 'lucide-react';
 import { Button } from '@/components/ui/button';
-import { GOOGLE_REVIEW_URL } from '@/lib/constants';
+import { GOOGLE_REVIEW_URL, HAS_GOOGLE_REVIEW_URL } from '@/lib/constants';
 import type { Review } from '@/lib/reviews-seed';
 
 type Props = {
@@ -85,17 +85,19 @@ export function ReviewsSection({ reviews, variant = 'home' }: Props) {
                 <ArrowRight className="h-4 w-4" />
               </Link>
             </Button>
-            <Button
-              asChild
-              size="lg"
-              variant="outline"
-              className="border-sun-400 bg-sand-50 text-ink-900 hover:bg-sand-50/70"
-            >
-              <a href={GOOGLE_REVIEW_URL} target="_blank" rel="noopener noreferrer">
-                <Star className="h-4 w-4 fill-sun-400 stroke-sun-500" />
-                Déjanos tu reseña en Google
-              </a>
-            </Button>
+            {HAS_GOOGLE_REVIEW_URL && (
+              <Button
+                asChild
+                size="lg"
+                variant="outline"
+                className="border-sun-400 bg-sand-50 text-ink-900 hover:bg-sand-50/70"
+              >
+                <a href={GOOGLE_REVIEW_URL} target="_blank" rel="noopener noreferrer">
+                  <Star className="h-4 w-4 fill-sun-400 stroke-sun-500" />
+                  Déjanos tu reseña en Google
+                </a>
+              </Button>
+            )}
           </div>
         )}
       </div>

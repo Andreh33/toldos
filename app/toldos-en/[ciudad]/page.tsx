@@ -25,7 +25,10 @@ export async function generateMetadata({
     description: zone.metaDescription,
     alternates: { canonical: `/toldos-en/${zone.ciudad}` },
     openGraph: {
-      title: zone.metaTitle,
+      type: 'website',
+      locale: 'es_ES',
+      siteName: 'Toldos Noa',
+      title: `${zone.metaTitle} | Toldos Noa`,
       description: zone.metaDescription,
       url: `${SITE.url}/toldos-en/${zone.ciudad}`,
     },
