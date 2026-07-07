@@ -104,7 +104,17 @@ export function Footer() {
         </div>
 
         <div className="mt-12 flex flex-col items-start justify-between gap-3 border-t border-sand-200 pt-6 text-xs text-ink-600 sm:flex-row sm:items-center">
-          <p>© {new Date().getFullYear()} Toldos Noa. Todos los derechos reservados.</p>
+          <p>
+            © {new Date().getFullYear()} Toldos Noa. Todos los derechos reservados. · Diseño web por{' '}
+            <a
+              href="https://serviciosonlineweb.com"
+              target="_blank"
+              rel="noopener"
+              className="underline-offset-2 hover:text-sun-500 hover:underline"
+            >
+              Latech
+            </a>
+          </p>
           <p className="font-display italic tracking-display text-ink-700">
             Protege tu espacio con estilo y calidad
           </p>
