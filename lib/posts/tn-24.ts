@@ -9,6 +9,7 @@ export const posts: BlogPost[] = [
     excerpt:
       "Cerrar la terraza para ganar horas de uso tiene dos grandes caminos: el toldo vertical y la cortina de cristal. Te contamos en qué se diferencian en sombra, viento, lluvia, privacidad y precio, y cómo acertar según tu terraza.",
     date: "2026-07-01",
+    updated: "2026-07-08",
     category: "Tipos de toldos",
     readingMinutes: 16,
     keywords: [
@@ -24,6 +25,7 @@ export const posts: BlogPost[] = [
       {
         heading: "En qué consiste cerrar la terraza y por qué surge la duda",
         paragraphs: [
+          "Respuesta rápida: para un cerramiento de terraza, elige el toldo vertical si tu problema es el sol, el calor y la privacidad; elige la cortina de cristal si lo que quieres es cerrar frente al viento, la lluvia y el frío conservando las vistas. Ninguno aísla como una ventana, y la solución más completa para usar la terraza todo el año es combinar ambos: cristal para cerrar y toldo para dar sombra.",
           "Cerrar la terraza no siempre significa levantar una obra ni instalar ventanas fijas. En la mayoría de los casos, lo que buscas es ganar horas y meses de uso: que el sol de media tarde no te eche, que el viento no te vuele la servilleta y que una tarde fresca de otoño siga siendo agradable. Para eso hay dos soluciones que se repiten en casi todas las consultas que recibimos: el toldo vertical y la cortina de cristal.",
           "Son sistemas muy distintos que a veces se comparan como si fueran lo mismo, y no lo son. Un toldo vertical es una pantalla de lona que baja desde arriba y frena sobre todo el sol, las miradas y el viento ligero. Una cortina de cristal es un cerramiento de hojas de vidrio que se pliegan a un lado y que crea una barrera física frente al viento, el frío y la lluvia. Elegir bien depende de qué problema te molesta más.",
           "En este artículo comparamos los dos sistemas sin humo, con criterio de taller. Verás en qué gana cada uno en sombra, viento, lluvia, privacidad, precio, estética y mantenimiento, y cuándo tiene sentido combinarlos. La idea es que, cuando termines de leer, tengas claro hacia dónde tirar antes de pedir presupuesto. Trabajamos a diario con estas dudas en terrazas de Madrid y de la provincia de Tarragona, y casi nunca hay una única respuesta buena: hay una respuesta buena para tu terraza.",
@@ -52,14 +54,19 @@ export const posts: BlogPost[] = [
         paragraphs: [
           "Antes de entrar en el detalle de cada aspecto, esta comparativa rápida te sirve de mapa. Ninguno es mejor en términos absolutos: cada uno resuelve bien unas necesidades y regular otras. La clave es identificar qué es lo que más te molesta hoy en tu terraza y qué uso quieres darle a partir de mañana.",
         ],
-        bullets: [
-          "Frente al sol y el calor: gana el toldo vertical, que filtra la radiación antes de que caliente; el cristal deja pasar el sol y necesita protección añadida.",
-          "Frente al viento fuerte, la lluvia y el frío: gana la cortina de cristal, que hace de barrera física; el toldo vertical solo frena el viento flojo y la lluvia ligera.",
-          "Privacidad: gana el toldo vertical, que tapa las miradas según el tejido; el cristal transparente no aísla la vista.",
-          "Vistas despejadas cuando está cerrado: gana la cortina de cristal, que mantiene el paisaje casi intacto; el toldo cerrado tapa o difumina.",
-          "Reversibilidad y terraza diáfana: empate, porque los dos se recogen y liberan el hueco cuando el día acompaña.",
-          "Precio de partida: suele ser más contenido el toldo vertical; la cortina de cristal es una inversión mayor por el vidrio y los herrajes.",
-        ],
+        table: {
+          headers: ["Qué buscas", "Toldo vertical", "Cortina de cristal"],
+          rows: [
+            ["Sol y calor", "Gana: frena la radiación por fuera", "Deja pasar el sol; pide protección extra"],
+            ["Viento, lluvia y frío", "Frena viento flojo y lluvia ligera", "Gana: barrera física, cierra de verdad"],
+            ["Privacidad", "Gana: tapa las miradas según el tejido", "Transparente; no aísla la vista"],
+            ["Vistas al cerrar", "Difumina o tapa el paisaje", "Gana: mantiene las vistas casi intactas"],
+            ["Terraza diáfana al abrir", "Se enrolla arriba", "Se pliega a un lateral (empate)"],
+            ["Precio de partida", "Inversión más contenida", "Mayor por el vidrio templado y los herrajes"],
+          ],
+          caption:
+            "Ninguno es mejor en absoluto: cada uno resuelve un problema distinto y en muchas terrazas se combinan (cristal para cerrar + toldo para la sombra).",
+        },
       },
       {
         heading: "Protección frente al sol y el calor",

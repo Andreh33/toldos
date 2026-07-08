@@ -41,7 +41,18 @@ export const posts: BlogPost[] = [
           "La orientación de la terraza es uno de los factores que más influye en la elección del toldo. No es lo mismo una terraza que da al sur, que recibe sol durante casi todo el día, que una orientada al este, donde el sol pega por la mañana, o al oeste, donde el calor más molesto llega por la tarde.",
           "Para una terraza orientada al sur o al oeste, donde el sol es más intenso y duradero, conviene un toldo que cubra bien la superficie y que ofrezca buena protección frente a la radiación. En estos casos, los toldos cofre y las pérgolas suelen funcionar muy bien por su mayor resistencia y cobertura.",
           "En terrazas orientadas al este, donde el sol pega por la mañana, a veces basta con un toldo de brazo más sencillo. Y cuando el problema es el sol bajo de la tarde, que entra de forma casi horizontal, los toldos verticales o cortinas complementan muy bien al toldo principal. En la visita técnica analizamos la orientación concreta de tu terraza para acertar con la solución."
-        ]
+        ],
+        table: {
+          headers: ["Orientación", "Sol que recibe", "Toldo recomendado en Madrid"],
+          rows: [
+            ["Sur", "Casi todo el día, muy intenso", "Cofre o pérgola, con buena cobertura"],
+            ["Oeste", "Sol de tarde, bajo y caluroso", "Brazo extensible + vertical para el sol rasante"],
+            ["Este", "Sol de mañana, más suave", "Brazo extensible sencillo"],
+            ["Norte", "Poco sol directo", "Protección ligera o vertical de privacidad"],
+          ],
+          caption:
+            "Orientación como primer criterio; en áticos se prioriza la resistencia al viento (sensor automático) y se respeta la normativa de comunidad. Se concreta en la visita técnica.",
+        },
       },
       {
         heading: "Áticos y chalets: necesidades distintas",

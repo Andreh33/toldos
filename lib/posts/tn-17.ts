@@ -167,6 +167,7 @@ export const posts: BlogPost[] = [
     excerpt:
       "Un sensor de viento puede salvar tu toldo de una racha traicionera, y uno de sol te da sombra sin mover un dedo. Te explicamos cómo funcionan los toldos con sensores y domótica y qué puedes automatizar en casa.",
     date: "2026-06-17",
+    updated: "2026-07-08",
     category: "Tipos de toldos",
     readingMinutes: 15,
     keywords: [
@@ -182,6 +183,7 @@ export const posts: BlogPost[] = [
       {
         heading: "Qué es un toldo con sensores y domótica",
         paragraphs: [
+          "Respuesta rápida: un toldo domótico es un toldo motorizado con sensores que reacciona solo al tiempo y se controla desde el móvil o la voz. El sensor de viento lo recoge ante rachas y evita la avería más cara; el de sol despliega la sombra según la radiación. La mayoría se instala por radio, sin obra, y un toldo manual existente se puede automatizar motorizándolo primero.",
           "Un toldo con sensores es, en esencia, un toldo motorizado al que se le añaden pequeños dispositivos capaces de leer lo que pasa alrededor, sobre todo el viento y el sol, y de dar órdenes al motor en consecuencia. En lugar de que seas tú quien decide abrir o recoger la lona, el propio toldo reacciona a las condiciones del tiempo, incluso cuando no estás en casa.",
           "Cuando hablamos de domótica del toldo nos referimos a un paso más: integrar ese toldo en el sistema inteligente de la vivienda, de modo que puedas controlarlo desde el móvil, con la voz o dentro de escenas junto a otros elementos como las persianas o las luces. Los sensores automatizan la respuesta al tiempo; la domótica te da el mando de todo desde un mismo sitio.",
           "Detrás de estas dos ideas hay dos objetivos muy claros: proteger el toldo de los daños que causa el viento y ganar comodidad, teniendo la sombra a punto sin estar pendiente. En esta guía vemos qué hace cada sensor, cómo se integra en casa, si puedes automatizar un toldo que ya tienes y qué esperar de forma realista de esta tecnología.",
@@ -227,6 +229,18 @@ export const posts: BlogPost[] = [
           "Sensores de viento y sol: miden las condiciones y envían la orden correspondiente, casi siempre de forma inalámbrica.",
           "Mando, móvil o central: los puntos desde los que tú controlas el toldo y desde donde se configuran los umbrales.",
         ],
+        table: {
+          headers: ["Automatismo", "Qué hace", "Prioridad"],
+          rows: [
+            ["Sensor de viento", "Recoge el toldo ante rachas y evita la avería más cara", "Imprescindible en zonas expuestas"],
+            ["Sensor de sol", "Despliega o recoge la sombra según la radiación", "Confort; ahorra aire acondicionado"],
+            ["Sensor de lluvia", "Recoge (toldo textil) o cierra (pérgola) al detectar agua", "Opcional, según el tipo de toldo"],
+            ["Mando y app móvil", "Control manual desde casa o desde fuera", "Base del sistema"],
+            ["Voz y escenas domóticas", "Órdenes por voz y horarios junto a persianas y luces", "Para hogar conectado"],
+          ],
+          caption:
+            "Regla de oro: el viento manda sobre el sol. Si hay racha, el toldo se recoge aunque el sensor de sol pida sombra. Se empieza por el motor y se amplía con sensores cuando haga falta.",
+        },
       },
       {
         heading: "Integración con el hogar inteligente: mando, móvil y voz",
