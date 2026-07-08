@@ -58,14 +58,13 @@ export default async function ConsejoPage({ params }: { params: Promise<Params> 
     headline: post.title,
     description: post.metaDescription,
     datePublished: post.date,
-    dateModified: post.date,
+    // Fecha del último cambio real del contenido (coherente con el sitemap).
+    dateModified: post.updated ?? post.date,
     inLanguage: 'es-ES',
-    author: { '@type': 'Organization', name: 'Toldos Noa' },
-    publisher: {
-      '@type': 'Organization',
-      name: 'Toldos Noa',
-      logo: { '@type': 'ImageObject', url: `${SITE.url}/logo/logo.jpg` },
-    },
+    // Referencias por @id al nodo del @graph global (layout): autor y editor
+    // resuelven a la misma entidad HomeAndConstructionBusiness.
+    author: { '@id': `${SITE.url}/#localbusiness` },
+    publisher: { '@id': `${SITE.url}/#localbusiness` },
     mainEntityOfPage: { '@type': 'WebPage', '@id': `${SITE.url}/consejos/${post.slug}` },
     keywords: post.keywords.join(', '),
   };
@@ -126,6 +125,41 @@ export default async function ConsejoPage({ params }: { params: Promise<Params> 
                     <li key={b.slice(0, 40)}>{b}</li>
                   ))}
                 </ul>
+              )}
+              {section.table && (
+                <div className="overflow-x-auto rounded-2xl border border-sand-200">
+                  <table className="w-full min-w-[560px] border-collapse text-left text-sm">
+                    <thead>
+                      <tr className="bg-sand-100">
+                        {section.table.headers.map((h) => (
+                          <th
+                            key={h}
+                            scope="col"
+                            className="px-4 py-3 font-semibold text-ink-900"
+                          >
+                            {h}
+                          </th>
+                        ))}
+                      </tr>
+                    </thead>
+                    <tbody>
+                      {section.table.rows.map((row) => (
+                        <tr key={row[0]} className="border-t border-sand-200">
+                          {row.map((cell, i) => (
+                            <td key={i} className="px-4 py-3 align-top text-ink-700">
+                              {cell}
+                            </td>
+                          ))}
+                        </tr>
+                      ))}
+                    </tbody>
+                  </table>
+                  {section.table.caption && (
+                    <p className="border-t border-sand-200 bg-sand-50/60 px-4 py-2.5 text-xs text-ink-600">
+                      {section.table.caption}
+                    </p>
+                  )}
+                </div>
               )}
             </div>
           </section>

@@ -2,6 +2,7 @@ import type { ZoneData } from "@/lib/zone-types";
 
 export const reus: ZoneData = {
   ciudad: "reus",
+  updated: "2026-07-08",
   city: "Reus",
   region: "provincia de Tarragona",
   metaTitle: "Toldos en Reus: instalación y precios",

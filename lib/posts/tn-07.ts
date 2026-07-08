@@ -125,6 +125,7 @@ export const posts: BlogPost[] = [
     excerpt:
       "Cuando la lona se decolora, se rasga o deja pasar el agua, suele compensar cambiarla antes que comprar un toldo nuevo. Te explicamos cómo reconocer las señales, medir bien, elegir el tejido y entender de qué depende el precio del cambio.",
     date: "2026-05-16",
+    updated: "2026-07-08",
     category: "Mantenimiento y reparación",
     readingMinutes: 9,
     keywords: [
@@ -139,6 +140,7 @@ export const posts: BlogPost[] = [
       {
         heading: "Cambiar la lona o cambiar el toldo entero",
         paragraphs: [
+          "Respuesta rápida: si los brazos, el eje y el motor están sanos, compensa cambiar solo la lona. Como referencia, una lona de 4×3 metros con desmontaje y montaje incluidos suele moverse entre 350 y 600 € según el tejido, una fracción de lo que cuesta un toldo nuevo, y deja el conjunto funcional durante años.",
           "Una de las dudas más frecuentes cuando un toldo empieza a fallar es si merece la pena cambiar solo la lona o si conviene sustituir el conjunto completo. La respuesta depende del estado de la estructura. Si los brazos, el soporte, el eje y, en su caso, el motor están en buen estado y funcionan con normalidad, casi siempre compensa cambiar únicamente la lona. Es una solución más económica y rápida que renovar todo el toldo.",
           "Por el contrario, si la estructura también está deteriorada, con brazos doblados, óxido importante o mecanismos que dan problemas, puede que tenga más sentido plantear un toldo nuevo. La forma más fiable de decidirlo es con una visita técnica en la que se valore tanto el tejido como la estructura.",
           "La lona es, en realidad, la parte que más sufre. Está expuesta de lleno al sol, la lluvia y la suciedad, así que es lógico que se desgaste antes que el resto. Por eso el cambio de lona es uno de los trabajos de mantenimiento más habituales.",
@@ -192,16 +194,20 @@ export const posts: BlogPost[] = [
       {
         heading: "De qué depende el coste del cambio de lona",
         paragraphs: [
-          "El precio de cambiar la lona no es fijo, porque depende de varios factores que cambian de un toldo a otro. No vamos a inventar cifras, pero sí podemos explicarte qué elementos hacen que un cambio de lona sea más sencillo o más costoso, para que entiendas el presupuesto que recibas.",
-          "Estos son los principales factores que influyen en el coste:",
+          "El precio de cambiar la lona no es fijo, porque depende de varios factores que cambian de un toldo a otro. Más allá de la referencia orientativa de 350 a 600 € para una lona tipo de 4×3 metros, estos son los elementos que hacen que un cambio sea más sencillo o más costoso, para que entiendas el presupuesto que recibas.",
         ],
-        bullets: [
-          "El tamaño del toldo: a más metros de lona, mayor cantidad de tejido.",
-          "El tipo y la calidad del tejido elegido.",
-          "El tipo de toldo y de fijación de la lona, que condiciona la mano de obra.",
-          "La altura y accesibilidad del toldo, que puede requerir medios especiales.",
-          "Extras como faldón, rotulación o cambio de piezas pequeñas a la vez.",
-        ],
+        table: {
+          headers: ["Factor", "Cómo influye en el precio", "Qué mirar en tu toldo"],
+          rows: [
+            ["Tamaño de la lona", "A más metros cuadrados, más tejido y más coste", "Ancho del eje y saliente con el toldo abierto"],
+            ["Tejido elegido", "El acrílico teñido en masa cuesta más y dura muchos más años", "Orientación, horas de sol y color deseado"],
+            ["Tipo de fijación", "Jareta, keder o atornillada condicionan la mano de obra", "Cómo va sujeta la lona actual al eje y a la barra"],
+            ["Altura y acceso", "Trabajos en altura pueden requerir medios de elevación", "Piso alto, patio interior o fachada despejada"],
+            ["Extras", "Faldón, rotulación o piezas pequeñas suman al total", "Aprovechar el cambio para renovar herrajes gastados"],
+          ],
+          caption:
+            "El presupuesto exacto sale de la medición en la visita técnica gratuita; la referencia de 350-600 € corresponde a una lona estándar de 4×3 m con montaje incluido.",
+        },
       },
       {
         heading: "Cómo es el proceso con Toldos Noa",

@@ -191,6 +191,7 @@ export const posts: BlogPost[] = [
     metaDescription: "Pérgolas bioclimáticas con lamas orientables y motorización. Confort todo el año en terraza y hostelería. Visita técnica con Toldos Noa.",
     excerpt: "Las pérgolas bioclimáticas regulan luz, sombra y ventilación con lamas orientables motorizadas, ofreciendo confort durante todo el año. Te contamos cómo funcionan, sus usos en terraza y hostelería y cómo elegirla en Madrid o Tarragona.",
     date: "2026-06-08",
+    updated: "2026-07-08",
     category: "Tipos de toldos",
     readingMinutes: 10,
     keywords: ["pergola bioclimatica", "lamas orientables", "pergola motorizada", "terraza", "hosteleria", "confort exterior"],
@@ -198,6 +199,7 @@ export const posts: BlogPost[] = [
       {
         heading: "Qué es una pérgola bioclimática",
         paragraphs: [
+          "Respuesta rápida: una pérgola bioclimática es una estructura de aluminio con lamas orientables motorizadas que regulan sol, ventilación y lluvia, así que la terraza se usa todo el año. Parte de unos 2.500-3.000 € y sube según medidas, motorización y cerramientos; en hostelería se amortiza alargando la temporada de terraza.",
           "Una pérgola bioclimática es una estructura de aluminio con una cubierta formada por lamas orientables que giran sobre su eje. A diferencia de una pérgola tradicional de cubierta fija, las lamas se inclinan para dejar pasar más o menos sol, ventilar el espacio o cerrarse por completo cuando llueve. De ahí el término bioclimático: la estructura ayuda a regular el microclima del espacio que cubre.",
           "El resultado es un espacio exterior utilizable prácticamente todo el año. En verano, con las lamas abiertas, el aire circula y la sombra refresca; al cerrarlas se crea una cubierta que protege del sol intenso o de la lluvia. En invierno, cerradas y orientadas para captar luz, mantienen el espacio más resguardado.",
           "En Toldos Noa instalamos pérgolas bioclimáticas tanto en viviendas particulares como en negocios de hostelería que quieren ampliar su superficie útil al exterior. Damos servicio en Madrid y en la provincia de Tarragona, con fabricación a medida según cada terraza."
@@ -217,7 +219,18 @@ export const posts: BlogPost[] = [
           "La promesa de la pérgola bioclimática es alargar la temporada de uso del exterior. Donde un toldo da sombra en verano, la pérgola permite disfrutar la terraza también en primavera, otoño e incluso en días de invierno templados, ajustando las lamas a cada momento del día y a la posición del sol.",
           "Este confort se puede ampliar con accesorios. Los laterales acristalados o con cortinas técnicas cierran el espacio frente al viento; la iluminación led integrada en la estructura permite cenar al aire libre; y los sistemas de calefacción por infrarrojos hacen utilizable la terraza en las noches frías. Cada elemento se añade según el uso que busques.",
           "Para una vivienda, esto significa ganar una estancia más. Para un negocio de hostelería, supone aumentar el aforo útil y ofrecer un espacio agradable que invita a quedarse. En ambos casos, la inversión se traduce en aprovechar el exterior muchos más días al año."
-        ]
+        ],
+        table: {
+          headers: ["Solución", "Protege de", "Temporada de uso y precio orientativo"],
+          rows: [
+            ["Pérgola bioclimática", "Sol, lluvia y viento (lamas + canales de desagüe)", "Todo el año · desde 2.500-3.000 €"],
+            ["Toldo cofre motorizado", "Sol y lluvia ligera", "Primavera a otoño · 1.300-2.800 €"],
+            ["Toldo extensible de brazos", "Sol", "Primavera a verano · 400-1.600 €"],
+            ["Vela o corredero", "Sol (sombra puntual)", "Verano · según proyecto"],
+          ],
+          caption:
+            "Comparativa orientativa 2026 para elegir nivel de protección; el presupuesto real depende de medidas y accesorios (laterales, iluminación, sensores).",
+        },
       },
       {
         heading: "Motorización, sensores y domótica",
@@ -283,6 +296,7 @@ export const posts: BlogPost[] = [
     metaDescription: "Toldos motorizados con motor tubular, mando, sensores de sol y viento e integración domótica. Te asesora y los instala Toldos Noa.",
     excerpt: "Un toldo motorizado se abre y cierra con un botón, se protege solo con sensores de sol y viento y puede integrarse en tu hogar conectado. Vemos motores, mandos, automatización y domótica para elegir bien en Madrid o Tarragona.",
     date: "2026-06-07",
+    updated: "2026-07-08",
     category: "Tipos de toldos",
     readingMinutes: 9,
     keywords: ["toldo motorizado", "motor tubular", "sensor de viento", "sensor de sol", "domotica", "automatizacion toldo"],
@@ -290,6 +304,7 @@ export const posts: BlogPost[] = [
       {
         heading: "Por qué motorizar un toldo",
         paragraphs: [
+          "Respuesta rápida: la mayoría de toldos manuales se pueden motorizar sin cambiar la estructura, sustituyendo el eje por uno con motor tubular; se maneja con mando, sensores o desde el móvil y se instala en una sola visita. Como referencia de 2026, un toldo de brazos nuevo pasa de 400-900 € manual a 700-1.600 € motorizado.",
           "Motorizar un toldo es, para muchos clientes, el salto de calidad que más se nota en el día a día. Olvidarse de la manivela y abrir o cerrar la lona con un simple botón aporta una comodidad enorme, sobre todo en toldos grandes o situados en lugares poco accesibles, como ventanas altas o terrazas amplias.",
           "Pero la motorización no es solo comodidad. Un toldo motorizado se puede automatizar para que se proteja por sí mismo ante el viento, se recoja a una hora concreta o reaccione a la intensidad del sol. Esa inteligencia alarga la vida del toldo y evita los daños típicos de olvidarse la lona desplegada en un día de rachas fuertes.",
           "En Toldos Noa motorizamos toldos nuevos y también adaptamos algunos manuales existentes. Trabajamos en Madrid y en la provincia de Tarragona, asesorando sobre el motor y el nivel de automatización que mejor encaja con cada caso."
@@ -309,7 +324,19 @@ export const posts: BlogPost[] = [
           "El control más habitual es el mando a distancia por radiofrecuencia, que permite manejar el toldo sin cables desde cualquier punto de la estancia. Un mismo mando puede gobernar varios toldos por canales independientes, algo práctico en viviendas o negocios con varias unidades.",
           "También existen pulsadores de pared, que ofrecen un control fijo y sencillo, ideal como complemento del mando o para quien prefiere un botón siempre en el mismo sitio. Y, cada vez más, el control desde el móvil mediante una aplicación, que añade la posibilidad de manejar el toldo incluso fuera de casa.",
           "La elección del tipo de control depende de tus hábitos. Hay quien quiere lo más sencillo posible y hay quien busca gestionarlo todo desde el teléfono. En la visita técnica valoramos qué sistema de mando se ajusta a tu forma de usar el toldo."
-        ]
+        ],
+        table: {
+          headers: ["Accionamiento", "Qué aporta", "Cuándo compensa"],
+          rows: [
+            ["Manivela (manual)", "Sencillez y fiabilidad sin electrónica", "Toldos medianos de uso ocasional"],
+            ["Motor + mando a distancia", "Apertura y cierre con un botón", "Toldos grandes, altos o de uso diario"],
+            ["Motor + sensor de viento", "Se recoge solo ante rachas; evita la avería más cara", "Terrazas expuestas, áticos y segundas residencias"],
+            ["Motor + sensor de sol", "Sombra automática según la radiación", "Proteger muebles e interior sin estar pendiente"],
+            ["Integración domótica", "Control desde el móvil, voz, escenas y horarios", "Hogares conectados y automatización completa"],
+          ],
+          caption:
+            "Cada nivel se puede añadir después sin cambiar la estructura: se empieza por el motor y se amplía con sensores o domótica cuando haga falta.",
+        },
       },
       {
         heading: "Sensores de sol y de viento: protección automática",

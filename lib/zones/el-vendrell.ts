@@ -2,6 +2,7 @@ import type { ZoneData } from "@/lib/zone-types";
 
 export const elVendrell: ZoneData = {
   ciudad: "el-vendrell",
+  updated: "2026-07-08",
   city: "El Vendrell",
   region: "provincia de Tarragona",
   metaTitle: "Toldos en El Vendrell: instalación y precios",

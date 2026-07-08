@@ -2,6 +2,7 @@ import type { ZoneData } from "@/lib/zone-types";
 
 export const vilaSeca: ZoneData = {
   ciudad: "vila-seca",
+  updated: "2026-07-08",
   city: "Vila-seca",
   region: "provincia de Tarragona",
   metaTitle: "Toldos en Vila-seca y La Pineda: instalación",

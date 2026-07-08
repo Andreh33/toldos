@@ -2,6 +2,7 @@ import type { ZoneData } from "@/lib/zone-types";
 
 export const tarragona: ZoneData = {
   ciudad: "tarragona",
+  updated: "2026-07-08",
   city: "Tarragona",
   region: "provincia de Tarragona",
   metaTitle: "Toldos en Tarragona: instalación y precios",

@@ -2,6 +2,7 @@ import type { ZoneData } from '@/lib/zone-types';
 
 export const madrid: ZoneData = {
   ciudad: 'madrid',
+  updated: '2026-07-08',
   city: 'Madrid',
   region: 'Comunidad de Madrid',
   metaTitle: 'Toldos en Madrid: instalación y precios',

@@ -2,6 +2,7 @@ import type { ZoneData } from "@/lib/zone-types";
 
 export const salou: ZoneData = {
   ciudad: "salou",
+  updated: "2026-07-08",
   city: "Salou",
   region: "provincia de Tarragona",
   metaTitle: "Toldos en Salou: instalación y precios",

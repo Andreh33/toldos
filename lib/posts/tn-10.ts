@@ -9,6 +9,7 @@ export const posts: BlogPost[] = [
     excerpt:
       "Un toldo puede costar desde poco más de cien euros hasta varios miles, según el tipo, el tamaño, la lona y la motorización. Te damos rangos orientativos por modelo y por metro cuadrado y te explicamos qué hace subir el precio.",
     date: "2026-07-02",
+    updated: "2026-07-08",
     category: "Guías y precios",
     readingMinutes: 16,
     keywords: [
@@ -25,6 +26,7 @@ export const posts: BlogPost[] = [
       {
         heading: "Cuánto cuesta un toldo: la respuesta sincera",
         paragraphs: [
+          "Respuesta rápida: un toldo instalado cuesta entre 150 y 2.800 euros en 2026 según tipo y medidas. Un punto recto de balcón va de 150 a 450 €; un extensible de brazos motorizado, el más habitual en terrazas, de 700 a 1.600 €; un cofre total de 1.300 a 2.800 €; y una pérgola bioclimática parte de 2.500-3.000 €.",
           "Cuando alguien nos pregunta cuánto cuesta un toldo, la respuesta honesta es la que menos gusta escuchar: depende. Un toldo pequeño y manual para una ventana puede quedarse en poco más de cien euros, mientras que una pérgola bioclimática motorizada para una terraza grande puede superar con holgura los tres o cuatro mil. Entre esos dos extremos hay un mundo de posibilidades, y el precio final se decide por la combinación de decisiones que tomes en cada paso.",
           "Esto no es una evasiva comercial, es la realidad de un producto que se fabrica a medida. Un toldo no es un electrodoméstico que sale de fábrica siempre igual: se diseña para un hueco concreto, con unas dimensiones concretas, una lona concreta y un tipo de accionamiento concreto. Cambia cualquiera de esas variables y el presupuesto se mueve. Por eso conviene desconfiar de quien te da un precio cerrado por teléfono sin haber visto tu terraza.",
           "Lo que sí podemos darte son rangos orientativos, franjas de precio realistas para el mercado español en 2026 que te sirvan para hacerte una idea antes de pedir presupuesto. Son cifras aproximadas, pensadas para que sepas si lo que tienes en mente encaja con tu bolsillo, no para cerrar una compra. El precio real de tu toldo solo se concreta con una medición sobre el terreno.",
@@ -54,16 +56,21 @@ export const posts: BlogPost[] = [
           "Vamos con las cifras que has venido a buscar, con una advertencia por delante: son rangos orientativos para 2026, no presupuestos. Incluyen una idea de fabricación e instalación estándar, pero pueden variar mucho según el tamaño exacto, la lona elegida y las particularidades de tu casa. Tómalos como una brújula, no como un mapa cerrado.",
           "Ordenados de menor a mayor precio, estos son los tipos de toldo más habituales y su horquilla aproximada. Verás que los saltos entre unos y otros responden a la complejidad del mecanismo y al grado de protección que ofrecen a la lona.",
         ],
-        bullets: [
-          "Toldo de punto recto para balcón o ventana: horquilla orientativa de 150 a 450 euros. Es el más sencillo y económico.",
-          "Toldo vertical o corredero: entre 200 y 700 euros según tamaño, tejido y si lleva guías laterales.",
-          "Toldo capota para ventana o escaparate: entre 250 y 800 euros, muy condicionado por la rotulación y los laterales.",
-          "Toldo de brazo invisible manual de tamaño medio: entre 400 y 900 euros, la opción clásica de terraza con manivela.",
-          "Toldo de brazo invisible motorizado: entre 700 y 1.600 euros, según salida, lona y motor.",
-          "Toldo semicofre: entre 900 y 1.900 euros, ya con protección parcial de la lona al recogerse.",
-          "Toldo cofre total motorizado: entre 1.300 y 2.800 euros, con la lona totalmente protegida dentro de la carcasa.",
-          "Pérgola bioclimática: desde unos 2.500 o 3.000 euros y subiendo mucho según medidas y prestaciones.",
-        ],
+        table: {
+          headers: ["Tipo de toldo", "Precio orientativo 2026", "Ideal para"],
+          rows: [
+            ["Punto recto", "150 – 450 €", "Balcones y ventanas; el más sencillo y económico"],
+            ["Vertical o corredero", "200 – 700 €", "Cortar el sol lateral y ganar privacidad"],
+            ["Capota", "250 – 800 €", "Ventanas y escaparates, con o sin rotulación"],
+            ["Brazo invisible manual", "400 – 900 €", "Terrazas medianas de uso ocasional (manivela)"],
+            ["Brazo invisible motorizado", "700 – 1.600 €", "Terrazas de uso diario; el más vendido"],
+            ["Semicofre", "900 – 1.900 €", "Lona protegida parcialmente al recogerse"],
+            ["Cofre total motorizado", "1.300 – 2.800 €", "Fachadas muy expuestas; máxima durabilidad"],
+            ["Pérgola bioclimática", "desde 2.500 – 3.000 €", "Uso todo el año en hogar y hostelería"],
+          ],
+          caption:
+            "Rangos orientativos del mercado español en 2026 con fabricación e instalación estándar. El precio real depende de medidas, lona y fachada: se concreta en la visita técnica gratuita.",
+        },
       },
       {
         heading: "El precio del toldo por metro cuadrado",

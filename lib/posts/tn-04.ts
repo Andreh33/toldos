@@ -7,6 +7,7 @@ export const posts: BlogPost[] = [
     metaDescription: "Toldos para terrazas en Madrid: tipos, orientación y normativa de comunidad. Soluciones a medida para áticos y chalets. Visita técnica sin compromiso.",
     excerpt: "Una terraza de ático o un porche de chalet en Madrid solo se disfruta de verdad con la sombra adecuada. Repasamos los tipos de toldo, cómo influye la orientación y qué tener en cuenta con la normativa de comunidad.",
     date: "2026-05-26",
+    updated: "2026-07-08",
     category: "Toldos por zona",
     readingMinutes: 9,
     keywords: ["toldos para terrazas Madrid", "toldos áticos Madrid", "tipos de toldos", "orientación terraza", "normativa comunidad toldos", "toldos a medida"],
@@ -14,6 +15,7 @@ export const posts: BlogPost[] = [
       {
         heading: "La terraza, el espacio más valorado en Madrid",
         paragraphs: [
+          "Respuesta rápida: para una terraza en Madrid, el toldo de brazo extensible es la opción estándar; en áticos expuestos al viento conviene un cofre con sensor automático, y en porches de chalet, una pérgola o un toldo plano de gran superficie. La orientación (sur y oeste piden más protección) y la normativa de tu comunidad definen el modelo exacto.",
           "En Madrid, una terraza es oro. En una ciudad donde el verano aprieta y el espacio escasea, contar con un ático con terraza o un chalet con porche es un auténtico privilegio. Pero ese espacio solo se disfruta de verdad si está bien protegido del sol, porque sin sombra se vuelve inhabitable durante las horas centrales del día.",
           "El sol madrileño es intenso y constante en verano. Una terraza orientada al sur o al oeste puede alcanzar temperaturas muy altas a partir del mediodía, hasta el punto de que nadie quiere salir a ella. Un buen toldo cambia por completo esa situación y permite usar la terraza por la mañana, por la tarde y durante la cena.",
           "Por eso, elegir bien el toldo para una terraza no es un detalle menor. Hay que pensar en el tipo de toldo, en la orientación, en el viento de las plantas altas y, en el caso de los pisos, en la normativa de la comunidad. En este artículo repasamos todo lo que conviene tener en cuenta."

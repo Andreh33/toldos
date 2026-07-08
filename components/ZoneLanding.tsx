@@ -79,11 +79,15 @@ export function ZoneLanding({ data }: { data: ZoneData }) {
             {data.heroTitle}
           </h1>
           <p className="mt-6 text-lg text-ink-700">{data.heroLead}</p>
+          <p className="mt-4 text-sm font-medium text-ink-800">
+            En temporada alta (junio–septiembre) la agenda de instalación se llena rápido:
+            cuanto antes hagamos la visita técnica, antes disfrutas de la sombra.
+          </p>
           <div className="mt-10 flex flex-col gap-3 sm:flex-row">
             <Button asChild variant="whatsapp" size="lg">
-              <a href={WHATSAPP.default} target="_blank" rel="noopener noreferrer">
+              <a href={WHATSAPP.forZone(data.city)} target="_blank" rel="noopener noreferrer">
                 <MessageCircle className="h-5 w-5" />
-                Pedir presupuesto
+                Pedir presupuesto en {data.city}
               </a>
             </Button>
             <Button asChild size="lg" variant="outline">

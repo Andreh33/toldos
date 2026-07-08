@@ -132,10 +132,13 @@ const ldJson = {
         'Motorización de toldos y sensores de viento',
       ],
       makesOffer: [
+        // Los @id enlazan con el nodo Service que emite cada página de
+        // servicio: Organization <-> Service quedan unidos en un solo grafo.
         {
           '@type': 'Offer',
           itemOffered: {
             '@type': 'Service',
+            '@id': `${SITE.url}/servicios/hogar#service`,
             name: 'Toldos para el hogar',
             url: `${SITE.url}/servicios/hogar`,
           },
@@ -144,6 +147,7 @@ const ldJson = {
           '@type': 'Offer',
           itemOffered: {
             '@type': 'Service',
+            '@id': `${SITE.url}/servicios/negocios#service`,
             name: 'Toldos para negocios',
             url: `${SITE.url}/servicios/negocios`,
           },
@@ -152,6 +156,7 @@ const ldJson = {
           '@type': 'Offer',
           itemOffered: {
             '@type': 'Service',
+            '@id': `${SITE.url}/servicios/reparaciones#service`,
             name: 'Reparación de toldos',
             url: `${SITE.url}/servicios/reparaciones`,
           },
@@ -160,7 +165,8 @@ const ldJson = {
           '@type': 'Offer',
           itemOffered: {
             '@type': 'Service',
-            name: 'Toldos a medida',
+            '@id': `${SITE.url}/servicios/a-medida#service`,
+            name: 'Toldos a medida y pérgolas bioclimáticas',
             url: `${SITE.url}/servicios/a-medida`,
           },
         },

@@ -84,13 +84,40 @@ export function getPostsSorted(): BlogPost[] {
   return [...POSTS].sort((a, b) => (a.date < b.date ? 1 : -1));
 }
 
-/** Posts relacionados: misma categoría primero, luego el resto, sin el actual. */
+/**
+ * Posts relacionados en anillo por fecha dentro de la categoría.
+ *
+ * Antes se devolvían siempre los primeros posts del array: las guías nuevas
+ * no recibían ningún enlace entrante desde "Sigue leyendo" y quedaban
+ * huérfanas ("Descubierta: sin indexar" en Search Console). Con el anillo,
+ * cada guía enlaza a las `limit` siguientes de su categoría ordenadas por
+ * fecha (circular), de modo que TODAS reciben el mismo número de enlaces
+ * entrantes. Si la categoría es pequeña, se completa con el anillo global.
+ */
 export function getRelatedPosts(slug: string, limit = 3): BlogPost[] {
   const current = getPostBySlug(slug);
   if (!current) return [];
-  const others = POSTS.filter((p) => p.slug !== slug);
-  return [
-    ...others.filter((p) => p.category === current.category),
-    ...others.filter((p) => p.category !== current.category),
-  ].slice(0, limit);
+  const sorted = getPostsSorted();
+
+  const nextInRing = (list: BlogPost[], count: number): BlogPost[] => {
+    const idx = list.findIndex((p) => p.slug === slug);
+    if (idx === -1) return [];
+    const out: BlogPost[] = [];
+    for (let step = 1; step < list.length && out.length < count; step++) {
+      out.push(list[(idx + step) % list.length]);
+    }
+    return out;
+  };
+
+  const related = nextInRing(
+    sorted.filter((p) => p.category === current.category),
+    limit
+  );
+  if (related.length < limit) {
+    const fill = nextInRing(sorted, limit + related.length).filter(
+      (p) => !related.some((r) => r.slug === p.slug)
+    );
+    related.push(...fill.slice(0, limit - related.length));
+  }
+  return related;
 }

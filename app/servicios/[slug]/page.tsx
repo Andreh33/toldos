@@ -55,6 +55,9 @@ export default async function ServicioPage({
   const serviceLd = {
     '@context': 'https://schema.org',
     '@type': 'Service',
+    // Mismo @id que referencia el makesOffer del @graph global (layout):
+    // une Organization <-> Service en una sola entidad para Google y LLMs.
+    '@id': `${SITE.url}/servicios/${service.slug}#service`,
     name: service.title,
     serviceType: service.description,
     description: service.intro,

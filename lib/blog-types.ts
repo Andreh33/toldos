@@ -13,6 +13,17 @@ export interface PostSection {
   paragraphs: string[];
   /** Lista opcional de puntos (se renderiza como <ul>) */
   bullets?: string[];
+  /**
+   * Tabla opcional de datos (precios, medidas, comparativas). Se renderiza
+   * como <table> real: es el formato que Google extrae para featured
+   * snippets y el que citan los asistentes de IA.
+   */
+  table?: {
+    headers: string[];
+    rows: string[][];
+    /** Nota al pie de la tabla (p.ej. "Rangos orientativos 2026, IVA incluido"). */
+    caption?: string;
+  };
 }
 
 export interface InternalLink {
@@ -30,6 +41,12 @@ export interface BlogPost {
   excerpt: string;
   /** Fecha ISO de publicación (se usa en JSON-LD y <time>) */
   date: string;
+  /**
+   * Fecha ISO de la última revisión REAL del contenido. Alimenta el lastmod
+   * del sitemap y el dateModified del JSON-LD; solo debe cambiar cuando el
+   * texto cambia de verdad (nunca en cada build).
+   */
+  updated?: string;
   category: string;
   readingMinutes: number;
   keywords: string[];

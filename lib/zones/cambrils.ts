@@ -2,6 +2,7 @@ import type { ZoneData } from "@/lib/zone-types";
 
 export const cambrils: ZoneData = {
   ciudad: "cambrils",
+  updated: "2026-07-08",
   city: "Cambrils",
   region: "provincia de Tarragona",
   metaTitle: "Toldos en Cambrils: instalación y precios",

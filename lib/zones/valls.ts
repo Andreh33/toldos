@@ -2,6 +2,7 @@ import type { ZoneData } from "@/lib/zone-types";
 
 export const valls: ZoneData = {
   ciudad: "valls",
+  updated: "2026-07-08",
   city: "Valls",
   region: "provincia de Tarragona",
   metaTitle: "Toldos en Valls: instalación y precios",

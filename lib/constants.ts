@@ -19,10 +19,18 @@ export const WHATSAPP = {
   )}`,
   hogar: `${waBase}?text=${encodeURIComponent('Hola, quiero información para mi hogar')}`,
   negocios: `${waBase}?text=${encodeURIComponent(
-    'Hola, tengo un negocio en [Madrid/Tarragona] y quiero presupuesto'
+    'Hola, tengo un negocio y quiero presupuesto para un toldo'
   )}`,
   reparaciones: `${waBase}?text=${encodeURIComponent('Hola, necesito reparar un toldo')}`,
   aMedida: `${waBase}?text=${encodeURIComponent('Hola, quiero un toldo a medida')}`,
+  /**
+   * Mensaje pre-rellenado con la ciudad de la landing local: el lead llega
+   * ya cualificado por zona y se puede atribuir a la página que convirtió.
+   */
+  forZone: (city: string) =>
+    `${waBase}?text=${encodeURIComponent(
+      `Hola, quiero presupuesto para un toldo en ${city}`
+    )}`,
 };
 
 export const ZONES = ['Tarragona (provincia)', 'Madrid'];

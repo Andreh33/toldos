@@ -9,6 +9,11 @@ export type ZoneData = {
   ciudad: string;
   /** Nombre para mostrar, p.ej. "Madrid" */
   city: string;
+  /**
+   * Fecha ISO del último cambio REAL de contenido de la landing (alimenta el
+   * lastmod del sitemap; no debe moverse en cada build).
+   */
+  updated: string;
   /** Ambito administrativo, p.ej. "Comunidad de Madrid" */
   region: string;
   metaTitle: string;

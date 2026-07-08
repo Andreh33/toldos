@@ -215,6 +215,7 @@ export const posts: BlogPost[] = [
     metaDescription: "Qué factores marcan el precio de un toldo en Madrid: tamaño, tipo, lona, motor e instalación. Aprende a pedir y comparar presupuestos con criterio.",
     excerpt: "El precio de un toldo no sale de una tabla fija: depende del tamaño, el tipo, la lona, si lleva motor y de cómo sea tu fachada. Te explicamos cada factor para que sepas qué pagas y cómo pedir un presupuesto justo en Madrid.",
     date: "2026-05-19",
+    updated: "2026-07-08",
     category: "Toldos por zona",
     readingMinutes: 9,
     keywords: ["precio toldos Madrid", "presupuesto toldos", "cuanto cuesta un toldo", "factores precio toldo", "toldos a medida precio", "presupuesto toldo Madrid"],
@@ -222,10 +223,22 @@ export const posts: BlogPost[] = [
       {
         heading: "Por qué no hay un precio único",
         paragraphs: [
+          "Respuesta rápida: en Madrid, un toldo de brazos de tamaño medio instalado se mueve entre 400 y 900 € si es manual y entre 700 y 1.600 € motorizado. Un cofre total va de 1.300 a 2.800 € y una pérgola bioclimática parte de 2.500-3.000 €. Son rangos orientativos de 2026: el presupuesto exacto depende de medidas, lona y fachada.",
           "La primera pregunta de casi todo el mundo es cuánto cuesta un toldo. Es una pregunta lógica, pero no tiene una respuesta de una sola cifra, igual que no la tiene cuánto cuesta un coche o reformar una cocina. Un toldo es un producto a medida, y su precio se construye sumando varios factores que cambian de un proyecto a otro.",
           "Por eso, en lugar de inventarte un número que luego no se ajuste a la realidad, en este artículo te explicamos qué influye en el presupuesto. Si entiendes las variables, podrás pedir presupuestos con criterio, comparar ofertas de forma justa y saber por qué dos toldos aparentemente parecidos pueden tener precios distintos.",
           "En Toldos Noa trabajamos en Madrid y su provincia con toldos a medida, y la única manera seria de darte un precio es ver tu caso concreto en una visita técnica. Aun así, conocer los factores de antemano te da una idea de rango y te ayuda a decidir dónde merece la pena invertir y dónde no."
-        ]
+        ],
+        table: {
+          headers: ["Toldo en Madrid", "Rango orientativo 2026", "Lo más habitual en"],
+          rows: [
+            ["Brazo invisible manual", "400 – 900 €", "Balcones y terrazas medianas"],
+            ["Brazo invisible motorizado", "700 – 1.600 €", "Terrazas de uso diario"],
+            ["Cofre total motorizado", "1.300 – 2.800 €", "Áticos y fachadas expuestas"],
+            ["Pérgola bioclimática", "desde 2.500 – 3.000 €", "Porches y terrazas de chalet"],
+          ],
+          caption:
+            "Rangos orientativos con instalación estándar incluida. El presupuesto cerrado sale de la visita técnica gratuita en Madrid y su provincia.",
+        },
       },
       {
         heading: "El tamaño y el tipo de toldo",
