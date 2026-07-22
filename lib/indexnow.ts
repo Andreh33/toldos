@@ -11,12 +11,13 @@ export function normalizeSubmittedUrls(
   values: string[],
   siteUrl: string
 ): string[] {
-  if (values.length === 0) {
+  const submittedValues = values.filter((value) => value !== '--');
+  if (submittedValues.length === 0) {
     throw new Error('Debes indicar al menos una URL nueva o modificada');
   }
 
   const site = new URL(siteUrl);
-  const normalized = values.map((value) => {
+  const normalized = submittedValues.map((value) => {
     const url = new URL(value, `${site.origin}/`);
 
     if (url.origin !== site.origin) {

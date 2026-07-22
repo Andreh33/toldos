@@ -16,6 +16,14 @@ test('normaliza rutas y elimina URLs duplicadas', () => {
   );
 });
 
+
+test('ignora el separador -- que transmite pnpm', () => {
+  assert.deepEqual(
+    normalizeSubmittedUrls(['--', '/consejos'], SITE.url),
+    ['https://toldosnoa.com/consejos']
+  );
+});
+
 test('rechaza URLs de otro host', () => {
   assert.throws(
     () => normalizeSubmittedUrls(['https://example.com/ajena'], SITE.url),
