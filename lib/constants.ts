@@ -46,4 +46,4 @@ export const GOOGLE_REVIEW_URL = 'https://g.page/r/REPLACE_WITH_PLACE_ID/review'
 export const HAS_GOOGLE_REVIEW_URL = !GOOGLE_REVIEW_URL.includes('REPLACE_WITH_PLACE_ID');
 
 // TODO: reemplazar por el email real del cliente
-export const EMAIL = 'info@toldosnoa.es';
+export const EMAIL = 'info@toldosnoa.com';

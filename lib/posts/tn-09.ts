@@ -436,6 +436,7 @@ export const posts: BlogPost[] = [
       { label: "Reparación y tensado de toldos", href: "/servicios/reparaciones" },
       { label: "Toldos para el hogar", href: "/servicios/hogar" },
       { label: "Pide tu presupuesto", href: "/contacto" },
+      { label: "Toldo torcido o descuadrado", href: "/consejos/toldo-descuadrado-o-torcido-solucion" },
       { label: "Más consejos sobre toldos", href: "/consejos" },
     ],
   },

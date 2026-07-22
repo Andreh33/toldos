@@ -49,6 +49,41 @@ for (const slug of REQUIRED_SLUGS) {
   );
 }
 
+const pricePost = POSTS.find((post) => post.slug === 'cuanto-cuesta-un-toldo');
+assert.equal(pricePost?.updated, '2026-07-22');
+assert.match(pricePost?.title ?? '', /Precios de toldos en 2026/);
+assert.ok(pricePost?.metaDescription.includes('presupuesto'));
+assert.ok(
+  pricePost?.internalLinks?.some(
+    (link) => link.href === '/consejos/toldo-a-medida-o-estandar'
+  )
+);
+
+const motorPost = POSTS.find((post) => post.slug === 'reparar-motor-toldo');
+assert.ok(
+  motorPost?.internalLinks?.some(
+    (link) => link.href === '/consejos/toldo-no-sube-ni-baja'
+  )
+);
+
+const tensionPost = POSTS.find(
+  (post) => post.slug === 'tensar-lona-toldo-descolgada'
+);
+assert.ok(
+  tensionPost?.internalLinks?.some(
+    (link) => link.href === '/consejos/toldo-descuadrado-o-torcido-solucion'
+  )
+);
+
+const crookedPost = POSTS.find(
+  (post) => post.slug === 'toldo-descuadrado-o-torcido-solucion'
+);
+assert.ok(
+  crookedPost?.internalLinks?.some(
+    (link) => link.href === '/consejos/tensar-lona-toldo-descolgada'
+  )
+);
+
 console.log(
   `Catalogo SEO validado: ${POSTS.length} articulos, ${REQUIRED_SLUGS.length} nuevos`
 );

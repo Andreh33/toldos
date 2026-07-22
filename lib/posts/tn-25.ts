@@ -177,6 +177,7 @@ export const posts: BlogPost[] = [
       { label: "Toldos a medida", href: "/servicios/a-medida" },
       { label: "Toldos para el hogar", href: "/servicios/hogar" },
       { label: "Pide tu presupuesto", href: "/contacto" },
+      { label: "Cómo tensar una lona descolgada", href: "/consejos/tensar-lona-toldo-descolgada" },
     ],
   },
   {

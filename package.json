@@ -10,7 +10,9 @@
     "seed": "tsx scripts/seed.ts",
     "seo:audit-live": "node scripts/seo-live-audit.mjs",
     "seo:validate-blog": "tsx scripts/validate-blog.ts",
-    "indexnow": "tsx scripts/indexnow-submit.ts"
+    "seo:validate-discovery": "tsx scripts/validate-discovery.ts",
+    "indexnow": "tsx scripts/indexnow-submit.ts",
+    "test:indexnow": "tsx --test scripts/indexnow-submit.test.ts"
   },
   "dependencies": {
     "@libsql/client": "^0.14.0",

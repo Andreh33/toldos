@@ -447,6 +447,7 @@ export const posts: BlogPost[] = [
       { label: "Nuestros servicios", href: "/#servicios" },
       { label: "Toldos para negocios", href: "/servicios/negocios" },
       { label: "Contacto y presupuesto", href: "/contacto" },
+      { label: "Por qué el toldo no sube ni baja", href: "/consejos/toldo-no-sube-ni-baja" },
     ],
   },
 ];

@@ -3,13 +3,13 @@ import type { BlogPost } from "@/lib/blog-types";
 export const posts: BlogPost[] = [
   {
     slug: "cuanto-cuesta-un-toldo",
-    title: "Cuánto cuesta un toldo en 2026: precios por tipo y m²",
+    title: "Precios de toldos en 2026: cuánto cuesta cada tipo",
     metaDescription:
-      "¿Cuánto cuesta un toldo en 2026? Precios orientativos por tipo y por metro cuadrado, qué encarece el presupuesto y cómo ahorrar sin perder calidad.",
+      "Precios de toldos en 2026 por tipo y m²: compara opciones, motores e instalación y pide un presupuesto a medida en Madrid o Tarragona.",
     excerpt:
       "Un toldo puede costar desde poco más de cien euros hasta varios miles, según el tipo, el tamaño, la lona y la motorización. Te damos rangos orientativos por modelo y por metro cuadrado y te explicamos qué hace subir el precio.",
     date: "2026-07-02",
-    updated: "2026-07-08",
+    updated: "2026-07-22",
     category: "Guías y precios",
     readingMinutes: 16,
     keywords: [
@@ -195,6 +195,7 @@ export const posts: BlogPost[] = [
       { label: "Toldos a medida", href: "/servicios/a-medida" },
       { label: "Toldos para el hogar", href: "/servicios/hogar" },
       { label: "Pide tu presupuesto", href: "/contacto" },
+      { label: "Toldo a medida o estándar", href: "/consejos/toldo-a-medida-o-estandar" },
       { label: "Más consejos sobre toldos", href: "/consejos" },
     ],
   },
