@@ -40,7 +40,7 @@ export async function GET() {
       'SELECT id, author, location, rating, body, service, created_at FROM reviews WHERE approved = 1 ORDER BY created_at DESC'
     );
     return NextResponse.json({ reviews: result.rows });
-  } catch (err) {
+  } catch {
     return NextResponse.json({ error: 'database_error' }, { status: 500 });
   }
 }

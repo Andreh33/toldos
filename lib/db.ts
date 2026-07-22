@@ -9,7 +9,6 @@ function makeClient(): Client {
     // build before secrets are wired). Anything that touches the DB throws so
     // callers can fall back to seed data.
     return {
-      // eslint-disable-next-line @typescript-eslint/no-explicit-any
       execute: async () => {
         throw new Error('TURSO_DATABASE_URL not configured');
       },

@@ -6,8 +6,10 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint",
+    "lint": "eslint .",
     "seed": "tsx scripts/seed.ts",
+    "seo:audit-live": "node scripts/seo-live-audit.mjs",
+    "seo:validate-blog": "tsx scripts/validate-blog.ts",
     "indexnow": "tsx scripts/indexnow-submit.ts"
   },
   "dependencies": {

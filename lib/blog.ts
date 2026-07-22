@@ -34,6 +34,7 @@ import { posts as tn22 } from '@/lib/posts/tn-22';
 import { posts as tn23 } from '@/lib/posts/tn-23';
 import { posts as tn24 } from '@/lib/posts/tn-24';
 import { posts as tn25 } from '@/lib/posts/tn-25';
+import { posts as tn26 } from '@/lib/posts/tn-26';
 
 export type { BlogPost, PostSection, InternalLink } from '@/lib/blog-types';
 
@@ -63,6 +64,7 @@ export const POSTS: BlogPost[] = [
   ...tn23,
   ...tn24,
   ...tn25,
+  ...tn26,
 ];
 
 /** Categorías en el orden en que deben mostrarse en el listado. */
