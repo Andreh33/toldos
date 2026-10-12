@@ -165,6 +165,23 @@ export default async function ConsejoPage({ params }: { params: Promise<Params> 
           </section>
         ))}
 
+        {post.sources && post.sources.length > 0 && (
+          <section className="mb-11">
+            <h2 className="font-display text-2xl font-medium tracking-display text-ink-900 sm:text-3xl">
+              Fuentes consultadas
+            </h2>
+            <ul className="mt-5 list-disc space-y-2.5 pl-6 text-ink-700 marker:text-sun-400">
+              {post.sources.map((source) => (
+                <li key={source.href}>
+                  <a href={source.href} className="underline underline-offset-4 hover:text-sun-500">
+                    {source.label}
+                  </a>
+                </li>
+              ))}
+            </ul>
+          </section>
+        )}
+
         {/* Enlaces internos */}
         {post.internalLinks && post.internalLinks.length > 0 && (
           <aside className="mt-12 rounded-3xl border border-sand-200 bg-sand-50/60 p-7">

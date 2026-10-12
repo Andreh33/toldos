@@ -53,4 +53,6 @@ export interface BlogPost {
   sections: PostSection[];
   /** Enlaces internos hacia páginas de conversión. */
   internalLinks?: InternalLink[];
+  /** Fuentes primarias consultadas para este artículo. */
+  sources?: { label: string; href: string }[];
 }

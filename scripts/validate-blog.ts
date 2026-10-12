@@ -11,7 +11,7 @@ const REQUIRED_SLUGS = [
 const slugs = POSTS.map((post) => post.slug);
 const titles = POSTS.map((post) => post.title);
 
-assert.equal(POSTS.length, 72, 'El catalogo debe contener 72 articulos');
+assert.equal(POSTS.length, 77, 'El catalogo debe contener 77 articulos');
 assert.equal(new Set(slugs).size, slugs.length, 'No puede haber slugs duplicados');
 assert.equal(new Set(titles).size, titles.length, 'No puede haber titulos duplicados');
 
@@ -85,5 +85,5 @@ assert.ok(
 );
 
 console.log(
-  `Catalogo SEO validado: ${POSTS.length} articulos, ${REQUIRED_SLUGS.length} nuevos`
+  `Catalogo SEO validado: ${POSTS.length} articulos, ${REQUIRED_SLUGS.length} guias de referencia comprobadas`
 );
