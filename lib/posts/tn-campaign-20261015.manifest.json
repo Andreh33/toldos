@@ -40,5 +40,19 @@
     "bodyWords": 4115,
     "bodyHash": "ac1f7c55d0b7f3af8981a7f8ac8a104aab3d642f7efd3d408b4b212bbcfd503e",
     "date": "2026-10-15"
+  },
+  {
+    "id": "noa-07",
+    "slug": "toldos-en-hortaleza-para-jardines",
+    "bodyWords": 4215,
+    "bodyHash": "ed2956c88bac41da31645d13864eaba022f63ec227832b3539d1046cba8643e0",
+    "date": "2026-10-15"
+  },
+  {
+    "id": "noa-08",
+    "slug": "toldos-en-fuencarral-para-viviendas-unifamiliares",
+    "bodyWords": 4070,
+    "bodyHash": "573ff59c6fd037972168d25f5107c6742b1c692a3ab66ad93fa8df55e6d5aa23",
+    "date": "2026-10-15"
   }
 ]
