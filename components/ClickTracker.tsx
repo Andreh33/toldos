@@ -17,6 +17,12 @@ export function ClickTracker() {
       if (!link) return;
       const href = link.getAttribute('href') ?? '';
       const path = window.location.pathname;
+      try {
+        const destination = new URL(href, window.location.origin);
+        if (destination.origin === window.location.origin && ['/contacto', '/servicios/hogar', '/servicios/negocios', '/servicios/reparaciones', '/servicios/a-medida'].includes(destination.pathname)) {
+          track('commercial_navigation', { path, destination: destination.pathname });
+        }
+      } catch { /* Optional measurement never interrupts navigation. */ }
       if (/wa\.me|api\.whatsapp\.com|wa\.link/i.test(href)) {
         track('whatsapp_click', { path });
       } else if (href.startsWith('tel:')) {

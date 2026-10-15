@@ -7,6 +7,7 @@ import { Footer } from '@/components/Footer';
 import { Button } from '@/components/ui/button';
 import { SITE, PHONE, WHATSAPP } from '@/lib/constants';
 import { POSTS, getPostBySlug, getRelatedPosts } from '@/lib/blog';
+import { SERVICES } from '@/lib/services';
 
 type Params = { slug: string };
 
@@ -51,6 +52,13 @@ export default async function ConsejoPage({ params }: { params: Promise<Params> 
   if (!post) notFound();
 
   const related = getRelatedPosts(post.slug);
+  const serviceSlug = /repar|manten|lona|motor/i.test(post.title) ? 'reparaciones' : /restaurante|negocio|comercio|hosteler/i.test(post.title) ? 'negocios' : 'hogar';
+  const service = SERVICES.find((item) => item.slug === serviceSlug)!;
+  const usefulLinks = [...new Map([
+    ...(post.internalLinks ?? []),
+    { label: service.seoTitle, href: `/servicios/${service.slug}` },
+    { label: 'Solicitar visita y presupuesto', href: '/contacto' },
+  ].map((link) => [link.href, link])).values()];
 
   const blogPostingLd = {
     '@context': 'https://schema.org',
@@ -183,13 +191,13 @@ export default async function ConsejoPage({ params }: { params: Promise<Params> 
         )}
 
         {/* Enlaces internos */}
-        {post.internalLinks && post.internalLinks.length > 0 && (
+        {usefulLinks.length > 0 && (
           <aside className="mt-12 rounded-3xl border border-sand-200 bg-sand-50/60 p-7">
             <h2 className="font-display text-xl font-medium tracking-display text-ink-900">
               Enlaces útiles
             </h2>
             <ul className="mt-4 space-y-2">
-              {post.internalLinks.map((link) => (
+              {usefulLinks.map((link) => (
                 <li key={link.href}>
                   <Link
                     href={link.href}
