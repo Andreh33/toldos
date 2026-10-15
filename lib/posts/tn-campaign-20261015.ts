@@ -2774,5 +2774,228 @@ export const posts: BlogPost[] = [
         "href": "/contacto"
       }
     ]
+  },
+  {
+    "slug": "toldos-en-vallecas-para-terrazas-familiares",
+    "title": "Toldos en Vallecas para terrazas familiares",
+    "metaDescription": "Elige toldos en Vallecas para terrazas familiares según la mesa, los juegos y el paso. Criterios prácticos para aprovechar la sombra y solicitar una visita técnica.",
+    "excerpt": "Elige toldos en Vallecas para terrazas familiares según la mesa, los juegos y el paso. Criterios prácticos para aprovechar la sombra y solicitar una visita técnica.",
+    "date": "2026-10-15",
+    "category": "Toldos por zona",
+    "readingMinutes": 19,
+    "keywords": [
+      "toldos en vallecas para terrazas familiares"
+    ],
+    "sections": [
+      {
+        "heading": "1. Elige el toldo pensando en una tarde en familia",
+        "paragraphs": [
+          "Para elegir toldos en Vallecas para terrazas familiares, empieza por una escena concreta: alguien sale con una bandeja, otra persona aparta una silla y los niños utilizan una mesa pequeña. La propuesta debe encajar con esos movimientos. Una terraza puede parecer despejada en una fotografía y resultar incómoda cuando todos están sentados. Por eso, antes de decidir qué superficie cubrir, conviene saber dónde quieres comer, descansar y entrar o salir sin tener que reorganizarlo todo.",
+          "La primera decisión consiste en fijar una actividad principal y otra secundaria. Si coméis fuera habitualmente, el comedor merece la mejor posición. Si la terraza sirve sobre todo para leer mientras los pequeños dibujan, puede interesar una distribución con dos rincones próximos. Intentar dedicar el mismo espacio a comedor grande, tumbonas, juegos y almacenamiento suele producir renuncias que ningún toldo resolverá por sí solo.",
+          "Toldos Noa anuncia instalación de toldos a medida en la Comunidad de Madrid, además de visita técnica y presupuesto gratuitos. Esa cobertura permite plantear una consulta sobre una vivienda en Vallecas sin atribuir al negocio una oficina local. Puedes comprobarlo en su página oficial.",
+          "Este artículo se centra en la convivencia entre sombra, muebles y acceso. Para conocer las familias de producto tienes la guía general de toldos para terrazas en Madrid. Aquí la pregunta es más precisa: qué configuración permite utilizar tu terraza con la mesa ocupada, la puerta funcionando y los objetos cotidianos en su sitio. Resolverla primero ayuda a elegir después con un propósito claro."
+        ]
+      },
+      {
+        "heading": "2. Dibuja la terraza con las sillas ocupadas",
+        "paragraphs": [
+          "Haz un croquis sencillo con la puerta, los límites de la terraza y los muebles que realmente conservarás. No hace falta dibujar bien: basta con representar cada objeto en su posición habitual. Añade también el tendedero, el armario exterior, las jardineras y cualquier elemento que solo aparezca algunos días. La distribución necesita reflejar una vivienda en uso, porque una mesa perfectamente centrada puede dejar de ser una buena elección cuando se despliega el tendedero.",
+          "Después coloca las sillas como quedan durante una comida. Una silla recogida bajo el tablero ocupa una posición distinta de la que utiliza una persona sentada o levantándose. Dibuja ambas situaciones y sigue el recorrido desde la puerta hasta el asiento más alejado. Si para llegar necesitas pedir a alguien que se levante, esa disposición merece una alternativa antes de decidir la cobertura.",
+          "Prueba dos versiones: mesa centrada y mesa desplazada hacia un lateral. La primera puede repartir los asientos de forma equilibrada; la segunda puede dejar un recorrido más continuo. Elige según el uso real. Si una persona entra y sale repetidamente con platos, ese trayecto puede tener más valor que una composición simétrica vista desde el salón.",
+          "Incluye un pequeño espacio de descarga cerca del acceso para apoyar una bandeja o dejar temporalmente un juguete. No lo conviertas en otro mueble obligatorio: a veces basta con aprovechar una superficie existente. El objetivo del plano es descubrir conflictos, no llenar todos los huecos. Una terraza familiar bien resuelta conserva espacio disponible para movimientos que no aparecen en las fotografías de catálogo."
+        ]
+      },
+      {
+        "heading": "3. Decide qué lugares necesitan sombra y a qué hora",
+        "paragraphs": [
+          "La petición «quiero sombra en toda la terraza» puede esconder necesidades distintas. Tal vez molesta el sol sobre dos asientos durante la comida, mientras que el resto se utiliza al final de la tarde. Divide el espacio en puntos concretos: cabecera de la mesa, asiento junto a la puerta, rincón de lectura y zona de dibujo. Después asigna a cada uno un horario de uso. Así podrás describir el problema con más precisión que indicando únicamente la orientación.",
+          "Observa esos lugares en distintos momentos de una jornada representativa de vuestra rutina. Anota dónde aparece el sol directo, sobre qué parte del asiento incide y si obliga a cambiar de posición. Una observación hecha en octubre no describe por sí sola una comida de verano: sirve para explicar la situación observada, mientras que la previsión para otras fechas requiere una valoración específica.",
+          "Distingue también entre una molestia fija y otra que puede resolverse cambiando un objeto. Si el reflejo afecta únicamente a una pantalla, quizá puedas girar el asiento. Si todos los comensales de un lateral acaban desplazándose, la distribución o la protección merecen una revisión más amplia. Esa diferencia evita pedir una solución grande para un inconveniente pequeño.",
+          "Redacta el objetivo como una frase comprobable: «queremos mantener esta mesa en esta posición durante la comida» o «priorizamos estos dos asientos después de merendar». Añade qué zonas aceptáis dejar descubiertas. Esa renuncia deliberada puede simplificar el proyecto y preservar una parte abierta para plantas, vistas o usos ocasionales, sin perseguir una cobertura que no aporta utilidad a la familia."
+        ]
+      },
+      {
+        "heading": "4. Compara alternativas por lo que dejan hacer",
+        "paragraphs": [
+          "Una comparación útil relaciona cada alternativa con los movimientos y actividades de la terraza. La web oficial de Toldos Noa describe los extensibles de brazos como soluciones sin apoyos en el suelo y distingue opciones con cofre y toldos verticales. Puedes consultar esas familias en su presentación de tipos de toldos. A partir de ahí, conviene valorar qué cambia en vuestra distribución, sin dar por elegido un modelo concreto.",
+          "Alternativa que estudiar: Extensible de brazos; Prioridad familiar: Mantener el suelo disponible alrededor de la mesa; Comprobación práctica: Recorrido de acceso y posición de los asientos",
+          "Alternativa que estudiar: Extensible con cofre; Prioridad familiar: Añadir recogida dentro de una carcasa; Comprobación práctica: Encaje visual y espacio del conjunto recogido",
+          "Alternativa que estudiar: Pantalla vertical complementaria; Prioridad familiar: Tratar una molestia en un lateral concreto; Comprobación práctica: Paso, vistas y utilización con la pantalla bajada",
+          "Alternativa que estudiar: Redistribuir los muebles antes de ampliar; Prioridad familiar: Concentrar el uso en una zona más sencilla; Comprobación práctica: Si conserva suficientes plazas y comodidad",
+          "La cuarta alternativa merece atención. Si desplazar el comedor permite atender la actividad principal con una propuesta más sencilla, puede ser una decisión mejor para vuestra rutina. Si obliga a renunciar al asiento que utiliza una persona a diario, el ahorro de espacio quizá no compense.",
+          "No compares únicamente dibujos con todos los sistemas abiertos. Mira también cómo queda la terraza cuando están recogidos y cuando solo utilizáis una parte. Una solución que parece perfecta para una comida multitudinaria puede resultar incómoda para desayunar dos personas. La configuración preferible será la que resuelva bien el uso frecuente y admita el ocasional sin exigir una reorganización completa cada vez."
+        ]
+      },
+      {
+        "heading": "5. La mesa manda más que el número de metros",
+        "paragraphs": [
+          "Para organizar un comedor exterior, empieza por las personas que se sientan habitualmente. Una mesa con capacidad para muchas visitas puede consumir el espacio que necesitáis cada día para circular. Antes de conservarla como condición inamovible, prueba una mesa más pequeña, una extensible o una disposición diferente. La elección del toldo debería acompañar una distribución razonable, no consolidar un problema de mobiliario que ya existe.",
+          "Compara una mesa rectangular con otra redonda mediante siluetas de papel en el plano. La rectangular permite distinguir cabeceras y laterales; la redonda modifica cómo se reparten los asientos. Ninguna gana siempre. Lo que debes observar es dónde queda cada persona respecto a la puerta y qué sucede cuando alguien se levanta mientras otra persona pasa con algo en las manos.",
+          "Los bancos también exigen una prueba realista. Pueden encajar visualmente bajo una mesa, pero la persona situada en el extremo interior necesita una forma cómoda de entrar y salir. Si el banco queda contra un límite, analiza esa secuencia antes de considerarlo una solución definitiva. No cuentes plazas dibujadas que después nadie utiliza con comodidad.",
+          "Incluye además las dimensiones del tablero extendido si celebráis comidas familiares. Puedes aceptar que, en esas ocasiones, una parte del comedor quede fuera de la zona prioritaria, o preferir una propuesta que contemple esa ampliación. Ambas decisiones son válidas cuando se toman conscientemente. Lo importante es separar el comedor cotidiano del excepcional y evitar que una celebración poco frecuente determine todo el proyecto, especialmente si compromete el acceso durante el resto del año."
+        ]
+      },
+      {
+        "heading": "6. Resuelve la puerta como una secuencia completa",
+        "paragraphs": [
+          "No basta con comprobar que una puerta puede abrirse. Reproduce la secuencia de salir, girarse, cerrar si procede y avanzar hacia la mesa. Hazlo con el mobiliario colocado y con un objeto cotidiano en las manos. Esta prueba permite descubrir si el primer asiento está demasiado cerca del acceso, si una jardinera obliga a dar un rodeo o si falta un lugar donde detenerse antes de incorporarse al comedor.",
+          "Cuando la puerta abre hacia fuera, representa su recorrido en el plano y evita utilizar ese espacio como almacenamiento habitual. Si es corredera, observa igualmente la zona inmediata de llegada: que la hoja se desplace de lado no significa que cualquier mueble pueda colocarse delante. El acceso necesita funcionar con personas entrando y saliendo, no solo con la carpintería en movimiento.",
+          "Piensa también en quién utiliza la terraza. Si alguien sale con un andador, una silla de ruedas o un carrito infantil, prueba el recorrido con ese elemento concreto y con ayuda de la persona usuaria cuando sea posible. Las necesidades de maniobra merecen una evaluación individual; no se resuelven asignando una medida universal a todas las viviendas.",
+          "La parte del toldo próxima a la puerta debe revisarse en relación con persianas, hojas, luminarias y otros elementos existentes. Esa compatibilidad corresponde a la valoración técnica, pero tú puedes aportar la secuencia de uso que debe conservarse. Una buena petición sería: «queremos salir sin mover esta silla y acceder a ambos lados de la mesa». Expresa una necesidad observable y permite estudiar alternativas sin convertir el croquis doméstico en una instrucción de montaje."
+        ]
+      },
+      {
+        "heading": "7. Niños y juegos: separa actividades y mecanismos",
+        "paragraphs": [
+          "En una terraza familiar, el espacio de juego cambia según la actividad. Dibujar exige una superficie estable y sitio para sentarse; construir con piezas necesita una zona donde no pasen continuamente los adultos; sacar juguetes voluminosos requiere después un lugar de recogida. Elige qué actividad quieres favorecer y colócala en el plano. Una zona infantil indefinida suele terminar ocupando el recorrido entre la puerta y la mesa.",
+          "Como criterio de organización doméstica, sitúa los juegos de forma que un adulto pueda atenderlos desde el lugar donde permanece habitualmente. Comprueba la vista sentado, porque una jardinera o un respaldo pueden ocultar lo que se veía perfectamente de pie. Esta elección facilita la supervisión cotidiana, aunque ninguna distribución ni ningún toldo sustituye la atención de los adultos.",
+          "Reserva los mandos y la manivela para el manejo adulto y decide dónde se guardarán. Evita incorporarlos a una cesta compartida con juguetes o dejarlos como entretenimiento sobre la mesa infantil. Si hay varios adultos, conviene que todos conozcan el funcionamiento indicado para el equipo elegido y que no existan órdenes simultáneas desde distintos controles.",
+          "Considera también el mobiliario próximo al perímetro. No utilices la búsqueda de sombra como motivo para desplazar juegos o asientos a una posición que os resulte inadecuada junto a una barandilla. Si el rincón previsto no ofrece una organización satisfactoria, cambia la actividad o su ubicación. El toldo debe adaptarse al uso familiar razonable del espacio; la familia no debería aceptar una distribución incómoda solo para permanecer debajo de la lona."
+        ]
+      },
+      {
+        "heading": "8. Manual o motorizado: decide quién lo utilizará",
+        "paragraphs": [
+          "La elección del accionamiento empieza por una pregunta práctica: quién abrirá y recogerá el toldo en un día normal. Si la respuesta es una sola persona, analiza su recorrido hasta el control y la comodidad de la maniobra. Si lo utilizan varios adultos, busca una forma de manejo que todos puedan comprender y repetir. La decisión debe apoyarse en el equipo propuesto y en sus instrucciones, además de las preferencias personales.",
+          "Como referencia de fabricante, la ficha de LLAZA para STORBOX-400 recoge accionamiento manual, motorizado y automatizado. Es un ejemplo documental para entender que un modelo puede contemplar distintas opciones; no acredita que Toldos Noa lo suministre. La ficha oficial del STORBOX-400 permite distinguir el nombre comercial de la configuración de accionamiento.",
+          "Para una alternativa manual, representa dónde estaría la persona durante la maniobra y qué muebles pueden interferir. Para una motorizada, piensa dónde conviene realizar la orden observando la zona de movimiento. Si una persona necesita levantarse y apartar varias sillas para manejar el sistema, merece la pena estudiar otra ubicación del control o una opción diferente.",
+          "No equipares motorización con resolución automática de todos los usos. Una familia puede preferir una orden sencilla frente a funciones que no necesita, mientras otra prioriza controlar varios equipos por separado. Pide una explicación basada en situaciones: abrir para desayunar, recoger antes de salir o mover únicamente una protección lateral. Esa demostración revela mejor la utilidad del accionamiento que una lista de accesorios sin relación con vuestra terraza."
+        ]
+      },
+      {
+        "heading": "9. No conviertas la pantalla lateral en una barrera cotidiana",
+        "paragraphs": [
+          "Si estudias una protección vertical complementaria, dibújala bajada y utiliza mentalmente la terraza en ese estado. Observa si corta el recorrido hacia una jardinera, separa a una persona del resto de la mesa o cambia demasiado la relación visual con el exterior. Su interés debe responder a una molestia localizada, como un lateral que interfiere en el uso de un asiento, y valorarse con la solución concreta propuesta.",
+          "Prueba primero alternativas de mobiliario: girar la mesa, intercambiar el comedor y el rincón de lectura o modificar la posición de un asiento. Si esas opciones resuelven el problema sin perjudicar otros usos, quizá no necesites añadir otro elemento. Si no lo hacen, tendrás una razón más precisa para estudiar la pantalla, junto con las implicaciones que introduce cuando permanece desplegada.",
+          "La privacidad también necesita una definición concreta. Puede que quieras evitar una línea de visión hacia la mesa, pero mantener abierta la vista desde el sofá. Marca ambos puntos en un dibujo. Pedir privacidad en todo el perímetro puede conducir a una configuración distinta de la que realmente deseas y alterar la sensación de terraza abierta que os gusta.",
+          "Evita tratar una protección lateral como una ampliación automática de la vivienda. Si tu objetivo real es disponer de una estancia cerrada para otras condiciones de uso, estás planteando un proyecto diferente que requiere su propia valoración. Para una terraza familiar, centra esta decisión en qué lateral interesa tratar, durante qué actividad y cómo queda el acceso cuando se utiliza. Una mejora puntual debería conservar la facilidad de entrar, salir y compartir el espacio."
+        ]
+      },
+      {
+        "heading": "10. Elige la apariencia desde dentro y desde los asientos",
+        "paragraphs": [
+          "Una lona se elige a menudo mirando una muestra pequeña sobre una mesa. Amplía la evaluación: observa los tonos disponibles junto a la carpintería, el pavimento y los muebles que conservarás. Después míralos desde el interior de la vivienda. El toldo formará parte de la vista desde el salón incluso cuando nadie esté usando la terraza, por lo que esa perspectiva merece tanto cuidado como la fotografía exterior.",
+          "Distingue la preferencia estética de una prestación técnica. Puedes preferir un tono porque combina con las sillas, pero no deducir de esa elección una temperatura interior, una protección concreta o una duración determinada. Si una propiedad del tejido resulta decisiva, debe evaluarse mediante la información correspondiente al tejido exacto. El nombre del color o una impresión visual no sustituyen esa información.",
+          "Para comparar diseños lisos y de rayas, piensa en la cantidad de elementos que ya hay en la escena. Si el pavimento y los cojines tienen dibujos, una muestra lisa puede ayudarte a simplificar la composición. Si el mobiliario es muy uniforme, puedes preferir una trama que aporte carácter. Se trata de una elección visual personal, que además deberá encajar con las condiciones aplicables a la fachada.",
+          "Incluye en la decisión el conjunto recogido, los perfiles visibles y cualquier faldón propuesto. Un acabado que gusta con el toldo abierto puede resultar menos convincente frente al hueco del salón cuando está cerrado. Pide ver ambas situaciones en la explicación de la propuesta. Así podrás elegir una apariencia coherente con vuestro hogar sin atribuir al color ventajas que no se han demostrado para esa configuración."
+        ]
+      },
+      {
+        "heading": "11. Viento y lluvia: establece qué uso estás comprando",
+        "paragraphs": [
+          "Una terraza familiar puede utilizarse con actividades distintas según el tiempo. Para la compra, separa el objetivo de disponer de sombra del deseo de mantener siempre los muebles preparados en el exterior. Si necesitas una respuesta para condiciones meteorológicas concretas, esa necesidad debe examinarse con las prestaciones e instrucciones del sistema elegido. No deduzcas un uso admisible porque la lona parezca gruesa o porque un vecino tenga un toldo parecido.",
+          "La ficha del STORBOX-400 de LLAZA contiene apartados específicos de clasificación frente al viento y configuración. Su utilidad aquí es mostrar que esas características pertenecen a un producto definido, no a todos los toldos cofre. Puedes consultar la documentación del fabricante. No traslades sus valores a otra instalación ni los uses como instrucciones generales para tu terraza.",
+          "En la organización familiar, prevé qué ocurre cuando el equipo debe recogerse conforme a sus indicaciones. Los juegos pueden pasar al interior, los cojines tener un lugar de guardado y la comida continuar en otra mesa. Esta alternativa evita que la necesidad de terminar una actividad se convierta en la razón para mantener un sistema funcionando fuera del uso indicado.",
+          "Haz lo mismo al estudiar automatismos: pregunta qué función concreta incorpora la propuesta y cómo debe utilizarse. Un accesorio no permite asumir cualquier condición de servicio. La decisión comercial debería dejar claro qué problema resuelve el conjunto y qué actividades quedan fuera de ese objetivo. Comprar con ese alcance definido resulta más útil que esperar de un toldo de sombra el comportamiento de una cubierta destinada a otros usos."
+        ]
+      },
+      {
+        "heading": "12. Un caso hipotético: comedor diario y rincón de dibujo",
+        "paragraphs": [
+          "Lucía y Marcos viven con dos hijos y quieren recuperar su terraza para comer juntos. Este caso es hipotético. Tienen una mesa rectangular, seis sillas, un baúl y dos jardineras. La puerta queda próxima a uno de los extremos de la mesa. Su primera idea es mantener todos los muebles y pedir la mayor cobertura posible, porque consideran que así podrán utilizar cualquier rincón.",
+          "Al reproducir una comida descubren que la silla más cercana a la puerta obliga a entrar de lado y que el baúl solo puede abrirse desplazando otra silla. Estudian tres alternativas: conservar seis plazas permanentes, reducir el comedor cotidiano a cuatro plazas o girar la mesa y trasladar el baúl. Descartan la primera porque mantiene el conflicto de acceso, aunque una lona mayor pudiera cubrirla.",
+          "La segunda deja espacio para dibujar cerca del comedor, pero exige guardar las sillas adicionales cuando no hay visitas. La tercera mantiene seis plazas, aunque ocupa el rincón donde los niños suelen trabajar con papel y pinturas. Como las visitas son ocasionales y el dibujo forma parte de la rutina, eligen estudiar la segunda distribución, con asientos adicionales almacenados y una mesa infantil que puede retirarse.",
+          "A partir de esa elección, la petición deja de ser «cubrirlo todo». Quieren priorizar el comedor de cuatro personas, conservar el recorrido desde la puerta y valorar por separado el asiento que recibe la molestia lateral. El ejemplo no determina un modelo: muestra cómo una decisión de mobiliario permite formular un proyecto más útil. También deja una renuncia explícita: durante las comidas con invitados, la terraza tendrá una organización distinta de la cotidiana."
+        ]
+      },
+      {
+        "heading": "13. Casos límite que merecen cambiar el planteamiento",
+        "paragraphs": [
+          "En un balcón estrecho, una mesa convencional puede ser el origen de casi todos los conflictos. Antes de ampliar la protección, prueba una superficie abatible o un uso centrado en dos asientos. Si la prioridad es desayunar juntos, quizá esa distribución responda mejor que intentar reproducir un comedor completo. La renuncia a algunas plazas puede devolver un recorrido que se había perdido entre muebles demasiado grandes.",
+          "En una terraza profunda, el problema puede ser el contrario: querer atender simultáneamente un comedor y una zona de descanso alejados. Decide si ambos necesitan la misma prioridad o si podéis concentrar la actividad familiar en uno. Una propuesta por zonas puede estudiarse, pero su conveniencia depende del espacio y del sistema concreto. No presupongas que dos equipos pequeños mejorarán siempre la experiencia respecto a uno mayor.",
+          "Si el tendedero es imprescindible, representa su estado desplegado y la operación de tender. Puede interesar mantenerlo en una zona separada del comedor, utilizar otro formato o aceptar horarios diferentes. Lo que conviene evitar es descubrir después que la distribución elegida solo funciona los días en que no se lava ropa. El uso doméstico incluye estas tareas, aunque no formen parte de la imagen ideal de la terraza.",
+          "Cuando ya existe un toldo, no organices la renovación únicamente alrededor de repetir sus dimensiones. Pregúntate qué parte de su uso funcionaba y cuál no: acceso incómodo, asiento desaprovechado o control difícil de alcanzar. La revisión profesional del equipo y sus apoyos es independiente de este análisis doméstico. Tú puedes aportar la experiencia acumulada para que conservar una distribución antigua sea una elección razonada y no una costumbre."
+        ]
+      },
+      {
+        "heading": "14. Reúne una sola carpeta para la viabilidad y el presupuesto",
+        "paragraphs": [
+          "Concentra la documentación en una carpeta breve: dirección, fotografías generales, croquis de uso, objetivo prioritario y datos disponibles sobre la fachada. Añade la información de la comunidad relativa a la solución exterior que queréis estudiar. Esta preparación debe permitir evaluar una propuesta concreta, sin convertir la compra en una recopilación interminable de papeles ni dar por supuesto que una solución vecina sirve para vuestra vivienda.",
+          "Para cuestiones urbanísticas vinculadas al inmueble, el Ayuntamiento dispone de una Consulta General de Urbanismo por dirección. La sede municipal también ofrece la consulta urbanística común, que permite preguntar por normativa y procedimiento aplicables a una actuación. Esa consulta no equivale a obtener una licencia. No puede establecerse aquí el trámite de una vivienda concreta solo por estar en Vallecas.",
+          "Para revisar el presupuesto, relaciona cada partida con una decisión: equipo identificado, tejido, accionamiento, accesorios y trabajos incluidos. Si aparecen dos alternativas, compara qué cambia en el uso de la mesa, el acceso o la recogida. Una diferencia económica tiene más sentido cuando sabes qué función añade o elimina.",
+          "Cierra esta fase con las instrucciones y condiciones correspondientes a la propuesta elegida, además del resultado de la valoración técnica del lugar. Evita convertir una fotografía, un catálogo genérico o una conversación informal en aprobación del proyecto. Una vez resuelta esta carpeta, el resto de la decisión puede volver a lo esencial: si la configuración elegida encaja con las personas, los muebles y la actividad para la que la estás contratando."
+        ]
+      },
+      {
+        "heading": "15. Haz una revisión final con la terraza preparada",
+        "paragraphs": [
+          "Antes de dar por cerrada la elección, vuelve a colocar los muebles como estarán durante el uso principal. Recorre la terraza con las sillas ocupadas y reproduce una entrada con una bandeja. Mira desde cada asiento hacia la zona de juego y comprueba cómo accederías al baúl o al tendedero. Esta revisión doméstica no evalúa anclajes ni sustituye comprobaciones profesionales; sirve para validar la distribución que has pedido.",
+          "Utiliza una lista corta durante esa prueba:",
+          "La puerta y su zona de llegada quedan utilizables.",
+          "El recorrido funciona con las sillas en posición de uso.",
+          "La actividad prioritaria tiene una ubicación definida.",
+          "El control puede manejarse desde una posición adecuada.",
+          "Los objetos de uso frecuente siguen siendo accesibles.",
+          "Existe una alternativa cuando el toldo está recogido.",
+          "Detente especialmente en los cambios que introduce una visita. Añadir dos comensales puede desplazar una silla hacia el acceso o llevar el juego infantil a un rincón poco conveniente. Decide de antemano qué mueble se retira y dónde se guarda. Una distribución ocasional preparada resulta más llevadera que improvisar cada vez que llega alguien.",
+          "Evita tres errores al terminar: aumentar la cobertura para compensar una mesa mal colocada, comprar un accesorio sin asignarle una función y evaluar el conjunto únicamente abierto. Incluye también su estado recogido y el uso parcial. Si una opción obliga a demasiadas maniobras para una actividad diaria, vuelve a la distribución antes de sumar elementos. La prueba final debería permitir explicar con sencillez dónde se sienta cada persona, por dónde se pasa y qué se hace al terminar."
+        ]
+      },
+      {
+        "heading": "¿Necesito cubrir toda la terraza si somos cuatro?",
+        "paragraphs": [
+          "El número de personas no determina por sí solo la cobertura. Importan la posición de los asientos, el horario y el recorrido desde la vivienda. Puedes priorizar el comedor y dejar una zona abierta. Empieza por dibujar cuatro personas sentadas, en lugar de convertir toda la superficie disponible en un objetivo obligatorio."
+        ]
+      },
+      {
+        "heading": "¿Conviene cambiar los muebles antes de elegir?",
+        "paragraphs": [
+          "Si ya pensabas sustituirlos, estudia ambas decisiones juntas. Una mesa distinta puede modificar por completo el espacio prioritario. Si vas a conservarlos, utiliza sus dimensiones y posiciones reales. Comprar el toldo alrededor de muebles provisionales puede llevarte a resolver una distribución que después no utilizarás."
+        ]
+      },
+      {
+        "heading": "¿Un cofre resuelve el problema de paso?",
+        "paragraphs": [
+          "El nombre de esa categoría no permite responder. El paso depende de la configuración propuesta, los elementos existentes y los muebles. Revisa el conjunto abierto y recogido, además de la puerta y los asientos. La elección debe basarse en cómo queda tu terraza concreta."
+        ]
+      },
+      {
+        "heading": "¿Y si un familiar necesita más espacio para moverse?",
+        "paragraphs": [
+          "Incluye su forma de desplazarse desde el principio. Prueba el recorrido con los elementos de apoyo que utilice y estudia la distribución con esa persona. Si hace falta una valoración específica de accesibilidad, intégrala antes de cerrar el proyecto, sin asumir que una solución estándar responderá a todas las necesidades.",
+          "Para avanzar, piensa qué actividad quieres recuperar y cuál es hoy el obstáculo principal: una mesa incómoda, un lateral molesto o un acceso ocupado. Puedes solicitar por WhatsApp una visita técnica y presupuesto a Toldos Noa. Cuéntales cómo utiliza tu familia la terraza de Vallecas y pide información sobre una propuesta adaptada a ese caso."
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "Toldos Noa",
+        "href": "https://toldosnoa.com/"
+      },
+      {
+        "label": "Toldos Noa: consejos",
+        "href": "https://toldosnoa.com/consejos/toldos-madrid-terrazas"
+      },
+      {
+        "label": "Toldos Noa: consejos",
+        "href": "https://toldosnoa.com/consejos/toldos-para-hosteleria-madrid"
+      },
+      {
+        "label": "Toldos Noa: consejos",
+        "href": "https://toldosnoa.com/consejos/toldos-terrazas-hosteleria-normativa"
+      },
+      {
+        "label": "Toldos Noa: consejos",
+        "href": "https://toldosnoa.com/consejos"
+      },
+      {
+        "label": "llaza.com — TROQUEL_STORBOX_ES_tr_low 1",
+        "href": "https://www.llaza.com/wp-content/uploads/2023/12/TROQUEL_STORBOX_ES_tr_low-1.pdf"
+      },
+      {
+        "label": "geoportal.madrid.es — consultaGeneral.iam",
+        "href": "https://geoportal.madrid.es/IDEAM_WBGEOPORTAL/consultaGeneral.iam?clave=INFO_010"
+      },
+      {
+        "label": "sede.madrid.es — menuitem.62876cb64654a55e2dbd7003a8a409a0",
+        "href": "https://sede.madrid.es/portal/site/tramites/menuitem.62876cb64654a55e2dbd7003a8a409a0/?vgnextchannel=7d7d5d53be9a0210VgnVCM100000171f5a0aRCRD&vgnextoid=335007a863247210VgnVCM2000000c205a0aRCRD"
+      }
+    ],
+    "internalLinks": [
+      {
+        "label": "Solicitar visita y presupuesto",
+        "href": "/contacto"
+      }
+    ]
   }
 ];
