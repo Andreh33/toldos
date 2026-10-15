@@ -2086,5 +2086,220 @@ export const posts: BlogPost[] = [
         "href": "/contacto"
       }
     ]
+  },
+  {
+    "slug": "toldos-en-carabanchel-para-comercios",
+    "title": "Toldos en Carabanchel para comercios",
+    "metaDescription": "Cómo elegir toldos en Carabanchel para comercios: criterios para sombrear el escaparate, mantener despejada la entrada y valorar alternativas en una visita técnica.",
+    "excerpt": "Cómo elegir toldos en Carabanchel para comercios: criterios para sombrear el escaparate, mantener despejada la entrada y valorar alternativas en una visita técnica.",
+    "date": "2026-10-15",
+    "category": "Toldos por zona",
+    "readingMinutes": 20,
+    "keywords": [
+      "toldos en carabanchel para comercios"
+    ],
+    "sections": [
+      {
+        "heading": "1. Elegir desde el escaparate y la entrada",
+        "paragraphs": [
+          "Si buscas toldos en Carabanchel para comercios, empieza por una decisión concreta: qué parte de tu fachada necesita sombra y qué recorrido debe seguir despejado cuando el toldo esté abierto. Comprar únicamente por el ancho del escaparate deja fuera cuestiones decisivas. Puedes cubrir todo el vidrio y seguir teniendo el producto principal al sol, o conseguir sombra delante del local a costa de ocultar la entrada desde un lateral.",
+          "Conviene distinguir tres objetivos: sombrear la exposición, facilitar que alguien se detenga a mirar y conservar una entrada fácil de reconocer. Ordénalos según tu actividad. En una tienda donde el escaparate presenta novedades, la visibilidad del producto puede mandar. En un establecimiento con recogidas frecuentes, quizá pese más que la puerta se encuentre inmediatamente. El toldo elegido debe responder a esa prioridad sin perjudicar las otras dos.",
+          "Toldos Noa anuncia fabricación e instalación a medida para negocios en la Comunidad de Madrid, además de visita técnica y presupuesto gratuitos. Ese servicio permite trasladar la decisión a la fachada concreta, sin suponer que todos los locales necesitan la misma solución. Puedes consultar su presentación en la web oficial de Toldos Noa.",
+          "Para formatos, imagen corporativa y rotulación, tienes la guía general de toldos para comercios en Madrid. Aquí el criterio será más preciso: elegir una configuración que proteja la exposición durante las horas relevantes y mantenga una relación clara entre escaparate, puerta y acera. Antes de pensar en acabados, escribe qué problema quieres resolver durante una jornada normal de apertura y qué parte del escaparate deseas que siga viéndose desde cada sentido de llegada."
+        ]
+      },
+      {
+        "heading": "2. Localizar la franja que realmente necesita protección",
+        "paragraphs": [
+          "Observa primero dónde aparece el problema, sin asumir que ocupa toda la cristalera. Divide visualmente el escaparate en zona superior, zona de exposición principal y parte baja. Después separa izquierda, centro y derecha. Esta cuadrícula sencilla ayuda a describir situaciones distintas: luz directa sobre una balda, una franja que cruza el maniquí o un reflejo que dificulta leer las etiquetas desde la calle.",
+          "Repite la observación al abrir, en una hora intermedia y durante el tramo de tarde que te interese. Hazlo desde fuera y desde dentro. La pregunta comercial es concreta: ¿qué deja de verse o qué zona prefieres mantener fuera del sol directo? No hace falta convertir esta primera revisión en un estudio técnico; basta con identificar el lugar, la hora y el efecto observado sin adjudicarle causas todavía.",
+          "Añade una referencia estable a cada fotografía, como el marco de la puerta o una esquina del vidrio. Así podrás reconocer si el problema cambia de posición. Evita imágenes tomadas únicamente de frente cuando el cliente suele acercarse caminando desde un lado. Una propuesta que funciona en la fotografía central puede resultar poco satisfactoria desde el recorrido habitual de aproximación.",
+          "Finalmente, distingue entre exposición permanente y exposición cambiante. Si renuevas cada semana la composición, no diseñes la sombra alrededor de un único objeto colocado hoy. Define una banda útil donde puedan convivir varias presentaciones. Si mantienes una pieza protagonista siempre en el mismo sitio, podrás priorizar esa posición. Esta diferencia orienta la elección entre cubrir un frente completo o concentrar la intervención sobre un hueco determinado, dejando el resto de la fachada visualmente más abierto."
+        ]
+      },
+      {
+        "heading": "3. Dibujar el paso antes de ampliar la sombra",
+        "paragraphs": [
+          "Mira la acera como un recorrido continuo. Señala la puerta del comercio, el portal vecino, los elementos existentes y las zonas donde alguien necesita girar o cruzarse con otra persona. El objetivo de este dibujo es detectar conflictos de uso: una espera delante del acceso, una entrega que interrumpe el paso o una maniobra de apertura que coincide con el lugar donde se detienen los clientes.",
+          "Para revisar el toldo, pide que se represente abierto y recogido, además de su movimiento entre ambas posiciones. En ese esquema deben aparecer sus elementos inferiores y laterales, no solo la tela vista desde arriba. Si el pavimento cambia de nivel a lo largo de la fachada, esa variación también merece aparecer en la revisión profesional. Una fotografía frontal puede disimular diferencias que resultan relevantes sobre el terreno.",
+          "Como referencia urbanística, el artículo 6.10.11 del compendio municipal de septiembre de 2025 recoge para toldos móviles una altura mínima de 2,25 metros en todos sus puntos, incluida la estructura, y limita el saliente según la anchura de acera, con un máximo de tres metros y respeto al arbolado. Son condiciones recogidas en un documento informativo, cuya aplicación al emplazamiento debe revisar el profesional. Véase el compendio del Ayuntamiento de Madrid.",
+          "No conviertas esos valores en una orden de fabricación. Utilízalos para entender por qué la salida deseada puede necesitar ajustes. La decisión comercial consiste en encontrar una sombra útil dentro de las condiciones aplicables, manteniendo legible el acceso y evitando que el diseño dependa de desplazar obstáculos ajenos al establecimiento."
+        ]
+      },
+      {
+        "heading": "4. Comparar brazos extensibles, capota y protección vertical",
+        "paragraphs": [
+          "Compara las alternativas según el problema observado. Si necesitas alternar entre un escaparate abierto visualmente y una superficie superior desplegada, incluye una solución extensible entre las opciones que revisar. Si buscas enmarcar un hueco concreto, incorpora una capota a la comparación. Si la molestia se concentra frente al vidrio, estudia una protección vertical, prestando especial atención a lo que ocurrirá con la exposición cuando esté bajada.",
+          "No valores cada formato solo por su apariencia. Pide un dibujo de la zona que se pretende sombrear en la hora problemática. Frente a un escaparate ancho, interesa saber si la propuesta responde a toda la composición o únicamente al centro. Frente a una puerta próxima al extremo, importa comprobar que la solución no haga que el acceso parezca secundario o quede visualmente separado del negocio.",
+          "La documentación oficial de LLAZA permite ver que un modelo concreto puede ofrecer distintas formas de accionamiento: la ficha de producto del Arond-350 enumera opciones manuales, motorizadas y automatizadas. Es una referencia para entender qué variables examinar, sin atribuir ese modelo al catálogo de Toldos Noa. Puedes consultar las características publicadas por el fabricante.",
+          "Para decidir, utiliza tres preguntas diferentes. ¿La forma propuesta resuelve la franja de exposición prioritaria? ¿Permite reconocer la puerta desde ambos sentidos de llegada? ¿Encaja su uso diario con la persona que atenderá el establecimiento? Una alternativa puede resultar atractiva en dos aspectos y poco conveniente en el tercero. Ese desacuerdo ayuda a descartar con criterio, antes de dedicar tiempo a colores o detalles que no corregirán una elección de base equivocada."
+        ]
+      },
+      {
+        "heading": "5. Diferenciar anchura, salida y sombra aprovechable",
+        "paragraphs": [
+          "En una propuesta comercial, la anchura del toldo describe cuánto frente ocupa; la salida se refiere a su proyección hacia el exterior. Para ti hay una tercera cuestión: qué parte del escaparate quedaría sombreada en el momento que necesitas. No trates las dos primeras dimensiones como una garantía de la tercera. Solicita que la propuesta relacione su geometría con el problema observado en tu fachada.",
+          "Puedes preparar un croquis de lectura fácil. Dibuja el vidrio, la puerta y los límites laterales; destaca la banda donde colocas el producto principal. Sobre ese dibujo, representa cada alternativa con un color distinto. El croquis no sirve para calcular ni para montar, sino para discutir prioridades: una opción puede cubrir más frente y otra centrar mejor la intervención en la exposición realmente importante.",
+          "Presta atención a los extremos. Si el conjunto se plantea centrado respecto a la fachada completa, comprueba qué sucede en el escaparate que queda junto al portal o en el rincón más alejado de la puerta. No presupongas que la simetría exterior coincide con la distribución comercial interior. El negocio puede tener una entrada desplazada, una zona expositiva desigual o un paño de vidrio que apenas utiliza.",
+          "Tampoco conviertas la mayor salida disponible en el objetivo del pedido. Pide valorar una salida contenida y otra mayor cuando ambas sean viables. Compara qué necesidad adicional resuelve la segunda y qué cambia en la percepción del frente. Si el beneficio se concentra en una zona que no utilizas, quizá prefieras otra distribución. El tamaño debe tener una función reconocible, no actuar como sustituto de una decisión sobre el escaparate."
+        ]
+      },
+      {
+        "heading": "6. Tratar por separado el sol lateral y el sol frontal",
+        "paragraphs": [
+          "Cuando revises las fotografías, clasifica el problema por su entrada aparente: desde arriba, desde un lateral o de frente al vidrio. Esta clasificación es una herramienta para explicar lo que ves, no un diagnóstico definitivo. Evita pedir directamente más tela en todas las direcciones. Primero identifica si la dificultad aparece siempre en la misma esquina o recorre la exposición durante la jornada.",
+          "Para una molestia lateral, compara dos caminos comerciales: cambiar la posición del producto protagonista o estudiar una configuración exterior que responda a esa zona. La primera alternativa puede encajar cuando la composición es flexible. La segunda merece atención cuando existe una distribución estable que quieres conservar. La elección dependerá del valor de esa exposición y del efecto que tendría la solución sobre las vistas desde la calle.",
+          "Una protección vertical requiere una prueba visual especialmente clara. Representa sobre una fotografía cuánto escaparate quedaría por delante y por detrás de ella. Después evalúa qué información necesita seguir viendo quien pasa: el producto, el interior, la puerta o una indicación de acceso. Si para resolver una hora de molestia la propuesta oculta durante toda la jornada el principal atractivo del local, revisa la forma de utilizarla.",
+          "También puedes definir usos por franjas. Una posición puede reservarse para un momento concreto y otra para el resto de la apertura, siempre dentro del funcionamiento previsto para el sistema elegido. Lo importante es no imaginar una posición intermedia sin que el profesional la valore. Tu aportación consiste en expresar cuándo necesitas cada resultado; la selección técnica debe establecer qué configuraciones permiten conseguirlo y cuáles conviene descartar."
+        ]
+      },
+      {
+        "heading": "7. Evaluar la lona desde ambos lados del vidrio",
+        "paragraphs": [
+          "Elige la muestra pensando en dos observadores: quien mira el negocio desde la acera y quien trabaja detrás del escaparate. Colócala junto a los colores habituales de tu exposición, sin apoyar la decisión únicamente en una pantalla. Un acabado que te gusta aislado puede competir demasiado con un producto de tonos discretos o resultar poco coherente con una fachada que ya contiene varios materiales.",
+          "Separa el juicio visual de las prestaciones técnicas. Puedes decidir si prefieres una superficie lisa, una composición sobria o un contraste concreto. En cambio, las prestaciones de protección solar, transmisión de luz, comportamiento frente al agua o mantenimiento deben asociarse a la referencia exacta del tejido y a su documentación. No deduzcas esos resultados por el color ni por una etiqueta genérica como lona premium.",
+          "Para tu decisión estética, prepara una pequeña escena con elementos reales: una etiqueta, un envase, una prenda o una fotografía del producto. Sitúa la muestra en el entorno donde se verá y comprueba si deseas que el toldo destaque o acompañe. Si tu escaparate cambia entre campañas de colores muy diferentes, una selección menos protagonista puede facilitarte las composiciones posteriores, como criterio de diseño.",
+          "Valora también cómo encajará la elección cuando el negocio esté cerrado. Observa la combinación con la persiana y con el rótulo existente. El toldo pertenece a una fachada que tiene varios estados, no únicamente al escaparate iluminado de una fotografía promocional. La decisión final debería resultar convincente con el local abierto, durante una entrega y al terminar la jornada, sin exigir que toda la exposición mantenga siempre la misma paleta."
+        ]
+      },
+      {
+        "heading": "8. Mantener reconocible la puerta del comercio",
+        "paragraphs": [
+          "Haz una prueba sencilla de lectura: mira la fachada desde cada sentido de aproximación y comprueba dónde dirigirías los pasos si no conocieras el establecimiento. El acceso debe poder distinguirse del escaparate y del portal vecino. En la propuesta del toldo, revisa si las líneas y los volúmenes ayudan a encontrar la puerta o producen un frente visualmente uniforme que obliga a buscarla.",
+          "Presta atención al borde frontal y a cualquier franja de tela que quieras añadir. Antes de escogerla por su presencia, dibújala sobre una fotografía tomada a la altura habitual de observación. Evalúa qué partes del comercio oculta desde cierta distancia. Una composición que queda equilibrada desde enfrente puede tapar la parte superior del acceso cuando alguien se acerca por el lado más próximo a la fachada.",
+          "La sombra y la información comercial deben convivir. Para este artículo, interesa especialmente que el toldo no dependa de añadir después flechas, carteles provisionales o mensajes para explicar dónde entrar. Si la puerta ya está retranqueada, incorpora ese retranqueo al dibujo. Si hay dos hojas o una entrada compartida visualmente con otro hueco, representa la situación completa antes de elegir una alineación exterior.",
+          "Ensaya también el recorrido con una bolsa, un carrito de compra o una entrega habitual, sin ocupar ni señalizar la vía pública para hacer la prueba. Piensa dónde te detendrías para abrir y qué zona necesitas ver. Esta observación cotidiana permite explicar al instalador conflictos que una medida aislada no describe. El resultado buscado es una fachada donde mirar, acercarse y entrar formen una secuencia comprensible para quien llega por primera vez."
+        ]
+      },
+      {
+        "heading": "9. Elegir entre un frente continuo y varios módulos",
+        "paragraphs": [
+          "Cuando hay varios escaparates, un conjunto continuo puede ser una preferencia de diseño, mientras que varios módulos permiten plantear cada hueco por separado. Para compararlos, empieza dibujando las divisiones existentes: pilares, puerta, portal y cambios de plano. Así evitarás escoger una solución únicamente porque parece más uniforme en una imagen frontal que simplifica la fachada real.",
+          "La pregunta principal es si todos los huecos comparten la misma necesidad durante la jornada. Quizá una zona presenta producto y otra permite ver el interior; quizá una permanece despejada y otra recibe los cambios de campaña. Si los usos son distintos, estudia cómo se gestionaría cada opción. Una sola unidad de accionamiento puede resultar cómoda para ciertas rutinas; varias unidades pueden encajar mejor con prioridades separadas.",
+          "No presupongas que dividir elimina cualquier dificultad. Revisa visualmente las juntas entre conjuntos, su relación con los pilares y el lugar donde quedaría cada borde frontal. Pregunta qué ocurriría si un módulo estuviera recogido y el contiguo abierto. Esa combinación debería formar parte de la comparación cuando pretendas utilizarlos de manera independiente. No basta con ver una representación donde todos aparecen perfectamente alineados.",
+          "Por otra parte, evita forzar una unidad continua sobre zonas que pertenecen a accesos distintos solo para crear una banda visual larga. Tu comercio debe reconocerse sin confundir su entrada con la del edificio. Entre ambas alternativas, elige la que resuelva mejor los usos identificados y admita una composición clara en sus posiciones previstas. La continuidad estética tiene valor, pero necesita una correspondencia con el funcionamiento cotidiano del frente comercial y con la propuesta técnica viable."
+        ]
+      },
+      {
+        "heading": "10. Encajar el accionamiento en la jornada de trabajo",
+        "paragraphs": [
+          "Antes de decidir entre accionamiento manual o motorizado, describe quién abrirá y recogerá el toldo y desde dónde lo hará. Piensa en una jornada con una sola persona atendiendo, en el cambio de turno y en el cierre. Una solución adecuada debe poder integrarse en esas situaciones reales. La comodidad se valora mejor al representar tareas concretas que al enumerar accesorios disponibles.",
+          "Con una alternativa manual, revisa dónde se guardaría el elemento de accionamiento y cómo se realizaría la maniobra sin interferir con los clientes. Con una alternativa motorizada, piensa en la ubicación del mando y en quién tendría acceso a él. Estas son decisiones de organización. Las condiciones de alimentación, instalación y funcionamiento corresponden a la configuración técnica que se seleccione para el establecimiento.",
+          "Si se propone automatización, pide una explicación del comportamiento previsto: qué orden inicia la apertura, cuál provoca la recogida y cómo interactúan los controles disponibles. Una ficha comercial que menciona automatismos no describe por sí sola todas las combinaciones posibles. Para entender el sistema necesitas una demostración aplicable al equipo elegido, especialmente si varias personas podrán utilizarlo durante el mismo día.",
+          "Prepara una rutina breve que pueda seguir alguien que sustituya al responsable habitual. Debe identificar los controles y remitir a las instrucciones de uso entregadas, sin inventar umbrales ni posiciones permitidas. No confundas disponer de automatización con delegar todas las decisiones. Tu elección comercial consiste en buscar una operación comprensible, mientras que los límites de utilización y la respuesta ante incidencias deben proceder del fabricante y de la configuración instalada, explicados de forma accesible al personal del negocio."
+        ]
+      },
+      {
+        "heading": "11. Revisar viento, lluvia y exposición sin pedir garantías irreales",
+        "paragraphs": [
+          "Un escaparate puede necesitar sombra en momentos en los que el toldo no deba permanecer desplegado según sus instrucciones. Por eso la comparación debe incluir qué harás cuando no puedas utilizarlo. Puedes reorganizar temporalmente la exposición, cambiar la posición de una pieza o reservar determinados productos para otra zona. Tener esa alternativa evita diseñar toda la actividad alrededor de una disponibilidad exterior permanente.",
+          "Las prestaciones deben leerse para el modelo y la configuración concretos. No conviertas un dato de resistencia publicado en una autorización universal de uso para cualquier fachada. Tampoco traslades cifras de una fotografía de catálogo a otra instalación. Para decidir, interesa que el profesional explique la correspondencia entre el conjunto propuesto, sus dimensiones, la documentación aplicable y las instrucciones que recibirá el usuario.",
+          "En cuanto a la lluvia, distingue entre buscar sombra y pretender un espacio exterior utilizable bajo cualquier precipitación. Si la entrada necesita otra clase de protección, exprésalo como una necesidad adicional desde el principio. Evita añadir después cierres, pesos o accesorios improvisados para conseguir un comportamiento que la propuesta inicial no contemplaba. Esa improvisación cambia el problema sin resolver su valoración técnica.",
+          "Delimita también el objetivo sobre el producto expuesto. Puedes querer reducir su exposición directa, pero no deducir que el toldo garantizará su conservación o sustituirá las condiciones específicas de almacenamiento. Para el comercio, la medida razonable es integrar la sombra dentro de una organización más amplia del escaparate. Selecciona qué piezas ocupan la primera línea, qué información necesita verse y qué alternativa utilizarás cuando corresponda recoger el sistema por sus condiciones de uso."
+        ]
+      },
+      {
+        "heading": "12. Un caso práctico: una tienda con puerta lateral",
+        "paragraphs": [
+          "Consideremos un ejemplo hipotético. Marta prepara una tienda de complementos en Carabanchel con un escaparate principal y la puerta a su derecha. Quiere destacar una colección en el centro del vidrio, pero observa una franja de sol sobre la exposición durante parte de la tarde. Además, al acercarse desde la izquierda, la puerta resulta menos evidente porque queda detrás del plano principal del escaparate.",
+          "Marta compara tres alternativas: un toldo extensible sobre todo el frente, dos conjuntos separados y una protección vertical delante de la zona expositiva. Su primera preferencia es cubrir cuanto más espacio mejor. Sin embargo, al dibujar las opciones advierte que necesita resolver dos cuestiones diferentes: la sombra de la colección y la lectura del acceso. Decide evaluar cada alternativa desde ambos sentidos de llegada.",
+          "La solución continua ofrece la composición que más le gusta, pero quiere comprobar su efecto sobre la puerta. La modular permite estudiar por separado exposición y entrada, aunque introduce una división que debe encajar con el pilar existente. La vertical responde a su interés por actuar delante del vidrio, pero en la simulación oculta demasiado la colección cuando se representa completamente bajada. Marta descarta esta última por esa consecuencia comercial.",
+          "Su decisión razonada es llevar a la visita técnica las dos propuestas superiores y priorizar la que conserve visible la puerta mientras responde a la franja problemática. También mueve la pieza protagonista hacia una zona de exposición alternativa para los momentos en que no utilice el toldo. El ejemplo no termina eligiendo más accesorios: termina definiendo una prioridad y descartando una opción por un efecto observable sobre el negocio, antes de cerrar el modelo y las dimensiones."
+        ]
+      },
+      {
+        "heading": "13. Evitar errores frecuentes y reconocer los casos límite",
+        "paragraphs": [
+          "Un error habitual de planteamiento consiste en copiar el toldo del local vecino. Aunque el resultado te guste, utiliza esa referencia solo para explicar preferencias de forma o acabado. Tu puerta, la división del vidrio y la exposición pueden necesitar otra relación entre anchura y salida. Copiar la apariencia sin revisar esas diferencias puede dejar sin resolver precisamente la zona que motivó la compra.",
+          "Otro error es evaluar únicamente la posición totalmente desplegada. Incluye el aspecto recogido, porque el establecimiento seguirá necesitando una fachada legible cuando el toldo no esté en uso. Mira qué volumen queda sobre el hueco y cómo se relaciona con el rótulo y el cierre. Si el negocio depende visualmente de una configuración que solo funciona abierto, la propuesta necesita una segunda revisión de diseño.",
+          "Entre los casos límite están la puerta muy próxima al portal, el escaparate en esquina, una fachada con planos distintos y un frente donde el pavimento cambia de nivel. No son motivos automáticos para elegir un formato concreto. Son razones para representar más de una vista. En una esquina, por ejemplo, examina cada frente por separado y después su encuentro, sin dar por hecho que ambos deben compartir el mismo funcionamiento.",
+          "Si existe un toldo anterior, evita decidir que bastará con cambiar la lona antes de que se valore el conjunto. Distingue la renovación estética de la revisión de su estado y adecuación. También descarta la idea de corregir cualquier molestia bajando progresivamente el borde frontal: esa preferencia afecta al espacio inferior y necesita valoración profesional. Un buen descarte identifica el conflicto concreto y permite desarrollar otra alternativa útil."
+        ]
+      },
+      {
+        "heading": "14. Concentrar la revisión técnica y municipal en una visita útil",
+        "paragraphs": [
+          "La visita será más productiva si reúne en un solo momento las cuestiones pendientes. Prepara fotografías de las horas problemáticas, un croquis de escaparate y puerta, y tu orden de prioridades. Añade las limitaciones de funcionamiento del comercio, como las entregas habituales o la persona que manejará el toldo. No necesitas elaborar un proyecto para solicitar ayuda; necesitas explicar el resultado comercial que buscas.",
+          "Para la revisión del emplazamiento, el Ayuntamiento ofrece un Visor Urbanístico como herramienta de consulta de información de la ciudad. La sede municipal también dispone de información sobre declaración responsable urbanística. La vía que corresponda debe determinarse para la actuación concreta; la existencia de esa ficha no permite clasificar automáticamente cualquier instalación.",
+          "Como lista de comprobación para cerrar la propuesta, reúne estos puntos:",
+          "Zona del escaparate prioritaria y horas que motivan la intervención.",
+          "Dibujo del conjunto abierto y recogido, con la puerta claramente identificada.",
+          "Revisión profesional del soporte, interferencias y condiciones del emplazamiento.",
+          "Modelo, tejido y accionamiento identificados por sus referencias.",
+          "Alcance económico definido, incluyendo los elementos que se hayan seleccionado.",
+          "Instrucciones de uso, mantenimiento y atención de incidencias previstas en la entrega.",
+          "Concentra aquí las autorizaciones o condiciones que puedan afectar al edificio y las gestiones municipales pertinentes. El valor de esta revisión está en resolver dependencias antes de fabricar. Después, la decisión comercial puede centrarse en elegir entre propuestas viables, con una explicación clara de qué necesidad satisface cada una y qué aspectos quedan fuera de su alcance."
+        ]
+      },
+      {
+        "heading": "¿Me interesa cubrir también la puerta?",
+        "paragraphs": [
+          "Depende de la función que quieras darle a esa zona. Si la prioridad es reconocer el acceso, revisa primero su visibilidad desde los laterales. Si buscas tratar escaparate y entrada como una unidad visual, pide representar el frente completo. No deduzcas que prolongar la cobertura siempre mejora la solución: comprueba qué aporta sobre el recorrido real de quien llega."
+        ]
+      },
+      {
+        "heading": "¿Y si solo me molesta el sol durante una hora?",
+        "paragraphs": [
+          "Compara una solución de uso puntual con la reorganización de la exposición durante esa franja. Para decidir, considera qué producto ocupa la zona y cuánto cambia tu trabajo al moverlo. Una necesidad breve puede justificar una intervención si afecta a una parte esencial del escaparate; también puede resolverse comercialmente con otra composición. La duración, por sí sola, no determina la respuesta."
+        ]
+      },
+      {
+        "heading": "¿Puedo usar la zona sombreada para colocar un expositor?",
+        "paragraphs": [
+          "La propuesta de sombra no decide por sí misma el uso del espacio exterior. No incluyas ese expositor como parte asumida del resultado. Representa primero la fachada sin añadir objetos a la acera y plantea su posible colocación como una cuestión separada que requiere revisar las condiciones aplicables. Así evitarás que la elección dependa de una ocupación que todavía no has resuelto."
+        ]
+      },
+      {
+        "heading": "¿Necesito el mismo sistema en todos los huecos?",
+        "paragraphs": [
+          "Empieza por comprobar si los usos son iguales. Un hueco destinado a mostrar producto y otro pensado para ver el interior pueden merecer prioridades distintas. Puedes buscar coherencia estética sin exigir idéntico funcionamiento. La comparación útil debe mostrar cómo se verá el conjunto cuando cada parte adopte las posiciones que realmente pretendes utilizar durante el horario del comercio."
+        ]
+      },
+      {
+        "heading": "16. Valorar el resultado y dar el siguiente paso",
+        "paragraphs": [
+          "Al recibir la instalación, evalúa el resultado mediante las mismas escenas que motivaron el pedido. Mira el escaparate en la franja prioritaria, acércate desde ambos sentidos y comprueba cómo reconoces la puerta. Revisa las posiciones previstas con la persona responsable de explicar el funcionamiento. Esta observación debe relacionar la solución entregada con el objetivo acordado, además de familiarizar al personal con sus controles.",
+          "Reserva una explicación práctica para quienes abrirán y cerrarán el negocio. Cada persona debería saber identificar el accionamiento, consultar las instrucciones y comunicar una anomalía sin improvisar ajustes. Organiza también el acceso a las indicaciones de mantenimiento del conjunto y del tejido seleccionados. La atención cotidiana funciona mejor cuando forma parte de la rutina de apertura y cierre, con responsabilidades comprensibles para todo el equipo.",
+          "Después, adapta el escaparate con intención. No coloques automáticamente el producto más importante donde estaba antes: aprovecha la distribución que hayas elegido y observa su lectura desde la calle. Mantén una composición alternativa para los periodos en que el toldo permanezca recogido. El valor de la intervención está en ayudarte a gestionar la exposición y la entrada con más criterio, sin depender de promesas de ventas ni de condiciones exteriores constantes.",
+          "Para tu comercio en Carabanchel, el siguiente paso es estudiar esa relación concreta entre vidrio, producto, puerta y recorrido peatonal. Puedes solicitar una visita técnica y presupuesto por WhatsApp a Toldos Noa. Explica qué zona quieres sombrear y en qué momento aparece el problema; con esa información será más fácil conversar sobre alternativas específicas para tu fachada y pedir información sobre la solución que mejor encaje con este caso."
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "Toldos Noa",
+        "href": "https://toldosnoa.com/"
+      },
+      {
+        "label": "Toldos Noa: consejos",
+        "href": "https://toldosnoa.com/consejos/toldos-para-comercios-madrid"
+      },
+      {
+        "label": "transparencia.madrid.es — COMPENDIO_MPG_NNUU_24_09_2025",
+        "href": "https://transparencia.madrid.es/UnidadesDescentralizadas/UDCUrbanismo/PGOUM/CompendioNNUU/ficheros/COMPENDIO_MPG_NNUU_24_09_2025.pdf"
+      },
+      {
+        "label": "llaza.com — arond 350",
+        "href": "https://llaza.com/toldos/arond-350/"
+      },
+      {
+        "label": "Ayuntamiento de Madrid: licencias urbanísticas",
+        "href": "https://www.madrid.es/portales/munimadrid/es/Inicio/Vivienda-urbanismo-y-obras/Urbanismo/Licencias-Urbanisticas/Visor-Urbanistico-del-Geoportal/?idCapitulo=11433739&vgnextchannel=41fbc8eb248fe410VgnVCM1000000b205a0aRCRD&vgnextfmt=default&vgnextoid=29d62fc5b1a8a710VgnVCM2000001f4a900aRCRD"
+      },
+      {
+        "label": "sede.madrid.es — menuitem.62876cb64654a55e2dbd7003a8a409a0",
+        "href": "https://sede.madrid.es/portal/site/tramites/menuitem.62876cb64654a55e2dbd7003a8a409a0/?vgnextchannel=534737c190180210VgnVCM100000c90da8c0RCRD&vgnextfmt=pd&vgnextoid=0e615339c8bf8310VgnVCM2000000c205a0aRCRD"
+      },
+      {
+        "label": "wa.me — 34681924338",
+        "href": "https://wa.me/34681924338"
+      }
+    ],
+    "internalLinks": [
+      {
+        "label": "Solicitar visita y presupuesto",
+        "href": "/contacto"
+      }
+    ]
   }
 ];
