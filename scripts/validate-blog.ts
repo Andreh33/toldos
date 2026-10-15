@@ -1,5 +1,6 @@
 import assert from 'node:assert/strict';
 import { POSTS } from '../lib/blog';
+import { posts as campaignPosts } from '../lib/posts/tn-campaign-20261015';
 
 const REQUIRED_SLUGS = [
   'engranaje-torno-toldo-manual',
@@ -11,7 +12,7 @@ const REQUIRED_SLUGS = [
 const slugs = POSTS.map((post) => post.slug);
 const titles = POSTS.map((post) => post.title);
 
-assert.equal(POSTS.length, 77, 'El catalogo debe contener 77 articulos');
+assert.equal(POSTS.length, 77 + campaignPosts.length, 'Se conservan77 artículos y se añaden los artículos revisados de campaña');
 assert.equal(new Set(slugs).size, slugs.length, 'No puede haber slugs duplicados');
 assert.equal(new Set(titles).size, titles.length, 'No puede haber titulos duplicados');
 

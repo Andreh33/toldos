@@ -1,3 +1,4 @@
+import { posts as campaignPosts } from '@/lib/posts/tn-campaign-20261015';
 /**
  * Toldos Noa — Blog "Consejos" (ensamblaje).
  *
@@ -40,6 +41,7 @@ import { posts as tn27 } from '@/lib/posts/tn-27';
 export type { BlogPost, PostSection, InternalLink } from '@/lib/blog-types';
 
 export const POSTS: BlogPost[] = [
+  ...campaignPosts,
   ...tn01,
   ...tn02,
   ...tn03,
