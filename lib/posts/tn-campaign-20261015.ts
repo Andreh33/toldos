@@ -3455,5 +3455,225 @@ export const posts: BlogPost[] = [
         "href": "/contacto"
       }
     ]
+  },
+  {
+    "slug": "toldos-en-getafe-para-terrazas-de-restaurantes",
+    "title": "Toldos en Getafe para terrazas de restaurantes",
+    "metaDescription": "Cómo elegir toldos para terrazas de restaurantes en Getafe: consulta municipal, alternativas de cobertura y circulación de clientes antes de decidir el pedido.",
+    "excerpt": "Cómo elegir toldos para terrazas de restaurantes en Getafe: consulta municipal, alternativas de cobertura y circulación de clientes antes de decidir el pedido.",
+    "date": "2026-10-15",
+    "category": "Toldos por zona",
+    "readingMinutes": 19,
+    "keywords": [
+      "toldos en getafe para terrazas de restaurantes"
+    ],
+    "sections": [
+      {
+        "heading": "1. Elegir el toldo desde la terraza que necesitas atender",
+        "paragraphs": [
+          "Si buscas toldos en Getafe para terrazas de restaurantes, empieza por una decisión concreta: qué parte del servicio quieres proteger y qué recorridos deben seguir funcionando cuando la terraza esté ocupada. Elegir primero una cubierta y encajar después las mesas puede dejar una entrada incómoda, un puesto difícil de atender o un apoyo justo donde necesitas pasar con una bandeja. La propuesta debe partir del restaurante en funcionamiento.",
+          "Dibuja tres capas sobre una misma planta: las mesas con sus sillas ocupadas, los recorridos de servicio y la cobertura deseada. Añade la puerta del local y los accesos próximos. Así podrás distinguir entre una mesa que cabe geométricamente y una mesa que realmente puede utilizarse. El espacio detrás de una silla también participa en el servicio, aunque no aparezca en la fotografía de una terraza vacía.",
+          "Define después tu prioridad. Un restaurante que concentra su trabajo en comidas puede buscar sombra sobre una fila determinada. Otro puede preferir una cobertura dividida para atender por separado dos zonas. Un tercero necesitará despejar el frente al recoger. Estas preferencias orientan la comparación sin atribuir a cualquier toldo una utilidad universal ni convertir la superficie cubierta en una previsión de ingresos.",
+          "La web oficial de Toldos Noa incluye Getafe entre sus zonas de servicio y anuncia visita técnica y presupuesto gratuitos. Puedes utilizar esa visita para estudiar el encaje concreto. El objetivo de este artículo es ayudarte a llegar con una distribución razonada: dónde quieres sombra, cómo se accederá a cada mesa y qué alternativas merece la pena valorar antes del pedido."
+        ]
+      },
+      {
+        "heading": "2. Ordenanza, ocupación y planeamiento: tres preguntas distintas",
+        "paragraphs": [
+          "La consulta municipal debe resolver el encaje de la propuesta en su ubicación. La sede electrónica de Getafe publica un procedimiento de autorización de ocupación de vía pública con terrazas de hostelería y restauración. Distingue documentación de terrazas, toldos autoportantes y cerramientos, y recoge planos y documentación técnica según el supuesto. Esa distinción merece atención antes de tratar todas las soluciones como una misma compra.",
+          "La primera pregunta es qué espacio y elementos contempla la autorización de tu terraza. La segunda, cómo se considera la instalación que propones. La tercera, qué condiciones urbanísticas corresponden al emplazamiento y a la fachada. El Ayuntamiento ofrece acceso a la normativa urbanística y al planeamiento. No conviene deducir el tratamiento de una dirección observando únicamente la terraza vecina.",
+          "Para concentrar esta revisión, prepara un único expediente de partida: autorización disponible, distribución propuesta, fotografías generales y descripción del sistema. Formula dudas concretas sobre apoyos, vuelo, laterales y relación con los accesos. El texto íntegro de la ordenanza enlazada no ha podido verificarse para este artículo; por eso no se presentan cifras de antiguas noticias municipales como requisitos vigentes ni se presupone el resultado del caso.",
+          "La guía general sobre normativa de terrazas de hostelería sirve como contexto. Aquí la decisión es más específica: elegir una configuración que pueda revisarse junto con la circulación real del restaurante. Resolver ese encaje al principio permite descartar alternativas mal planteadas antes de dedicar tiempo a colores, complementos o acabados."
+        ]
+      },
+      {
+        "heading": "3. Levantar una planta útil para decidir",
+        "paragraphs": [
+          "Para estudiar la circulación, una planta debe representar lo que condiciona el uso. Empieza por la fachada y la puerta del restaurante; continúa con portales, esquinas, alcorques, bancos, señales y otros elementos presentes. Diferencia los obstáculos permanentes del mobiliario que colocas cada jornada. Esta separación ayuda a reconocer qué problema puedes resolver cambiando mesas y cuál exige replantear por completo la cobertura.",
+          "Representa las sillas en posición de uso y también el espacio que necesitan al retirarse de la mesa. En una primera comparación puedes emplear figuras sencillas del mobiliario real, sin convertirlas en un plano técnico. Lo importante es evitar el error de medir únicamente tableros. Una mesa aparentemente alejada de un soporte puede resultar incómoda cuando alguien se levanta o acerca otra silla.",
+          "Añade flechas para tres movimientos: salir desde el local, llegar a cada mesa y regresar con vajilla usada. Marca además dónde espera una persona que busca sitio. Si todas las flechas se cruzan delante de la puerta, la dificultad principal está en la distribución. Un toldo de mayor superficie no resolverá ese cruce; puede incluso consolidar una disposición que luego resulte costosa de cambiar.",
+          "Trabaja con dos versiones del dibujo. La primera muestra la terraza cotidiana; la segunda, una ocupación intensa con todas las sillas utilizadas. Compara ambas antes de elegir la posición de apoyos o líneas de división. La propuesta más clara será aquella cuyos recorridos sigan siendo reconocibles en las dos situaciones. Este ejercicio organiza necesidades comerciales y de uso; las cotas y condiciones aplicables deben resolverse en la revisión profesional y municipal correspondiente."
+        ]
+      },
+      {
+        "heading": "4. Separar el paso exterior del recorrido de servicio",
+        "paragraphs": [
+          "No todos los espacios vacíos cumplen la misma función. El paso de quienes circulan por la calle y el recorrido del personal entre mesas deben estudiarse por separado. Si los dibujas como una única franja, puedes terminar utilizando el tránsito exterior como solución habitual para servir platos. La terraza parecerá despejada sobre el papel, pero su funcionamiento dependerá de entrar y salir continuamente de su propia organización.",
+          "Busca un recorrido interior comprensible desde la puerta hasta las mesas. Puede ser lateral, central o dividido, según la forma del espacio. Ninguna de estas opciones es mejor por definición. Un corredor central facilita reconocer dos bandas de mesas; uno lateral puede concentrar el servicio junto al local. La elección debe responder al mobiliario, a los accesos y a los puntos donde se producen encuentros.",
+          "Comprueba especialmente las mesas del fondo. A veces la primera fila funciona bien y la última obliga a pasar detrás de clientes sentados. Otra señal de mal encaje aparece cuando hay que mover una silla para llevar una bandeja. En esos casos, considera girar una mesa, cambiar su formato o retirar una posición del dibujo. La mejora consiste en obtener una distribución atendible, sin asumir que cada hueco debe ocuparse.",
+          "La cobertura debería acompañar esa organización. Sitúa sus límites conceptuales de manera que no sugieran una ampliación informal del área de mesas. Si una zona queda sin cubrir, decide expresamente si seguirá teniendo uso y cómo se atenderá. Así evitarás que el personal reconstruya la terraza de forma improvisada buscando sombra durante cada servicio y desplace el problema hacia el paso exterior."
+        ]
+      },
+      {
+        "heading": "5. Brazos extensibles o solución con apoyos: comparar la huella",
+        "paragraphs": [
+          "La comparación entre alternativas debe comenzar por su presencia en planta. Un sistema proyectado desde fachada y otro con apoyos propios plantean repartos diferentes del espacio. Para tu restaurante, la pregunta útil es dónde quedan los elementos de cada propuesta respecto a sillas, entradas y recorridos. Después llegará la selección técnica del equipo y de su forma de sustentación, que corresponde al profesional responsable.",
+          "Toldos Noa describe en su página oficial los extensibles de brazos invisibles como soluciones sin postes y recoge también otras familias de cobertura. Esa información permite iniciar la conversación comercial, pero no determina qué sistema resulta admisible o adecuado para una fachada concreta. Tampoco acredita una marca o modelo para tu proyecto. Conviene pedir alternativas representadas sobre la misma distribución de mesas.",
+          "En una propuesta con apoyos, dibuja la huella completa de cada elemento, incluidas las bases que contemple el diseño. Coloca después las sillas ocupadas. Un apoyo puede parecer discreto visto de frente y cortar el recorrido hacia una mesa cuando se representa desde arriba. Si coincide con una esquina de paso, prueba otra modulación o una distribución distinta antes de aceptar el obstáculo como inevitable.",
+          "En una propuesta desde fachada, estudia la relación entre el frente cubierto, la puerta y las zonas que deseas mantener abiertas. No des por hecho que una sola pieza debe abarcar todo el local. La comparación gana precisión cuando ambas opciones responden al mismo objetivo: proteger unas mesas determinadas manteniendo sus recorridos. Así podrás valorar una diferencia real de uso y no solamente dos imágenes comerciales atractivas."
+        ]
+      },
+      {
+        "heading": "6. Una cobertura continua frente a varios módulos",
+        "paragraphs": [
+          "Una cubierta continua puede resultar visualmente sencilla, mientras que varios módulos permiten plantear zonas diferenciadas. Para decidir, divide primero el servicio: mesas próximas a la puerta, banda central y extremo de terraza, si esa organización encaja con tu espacio. Después identifica cuáles necesitan funcionar juntas. La división del toldo debería tener una razón operativa reconocible, además de una composición agradable vista desde la calle.",
+          "Estudia dónde caerían las uniones o separaciones entre módulos. Evita elegirlas únicamente por simetría de fachada. Si una división coincide con la mesa más solicitada o con el corredor principal, puede crear una organización incómoda. Desplazar la alineación de mesas puede resolverlo mejor que añadir complejidad a la cobertura. También cabe aceptar dos zonas distintas cuando el restaurante ya trabaja de esa manera.",
+          "Imagina dos momentos: apertura con pocas mesas ocupadas y servicio completo. Pregúntate qué zonas querrías desplegar en cada uno y desde dónde se accionarían. Si todos los módulos se utilizarían siempre a la vez, la división necesita otra justificación. Si tienen usos diferentes, identifica quién decide su apertura para evitar órdenes contradictorias cuando varios trabajadores comparten la atención de la terraza.",
+          "No presupongas que cualquier combinación está disponible para cualquier modelo. La modularidad comercial debe concretarse mediante una propuesta técnica. Como herramienta de decisión, prepara dos dibujos con idénticas mesas: uno con cobertura continua y otro dividido. Anota debajo un beneficio y una renuncia de cada alternativa. Por ejemplo, continuidad visual frente a gestión independiente de zonas. Esa comparación obliga a elegir por prioridades reales y evita sumar módulos sin un propósito definido."
+        ]
+      },
+      {
+        "heading": "7. Situar la sombra donde aporta utilidad al servicio",
+        "paragraphs": [
+          "La superficie de lona y la zona que deseas sombrear no son conceptos intercambiables. Para expresar tu necesidad sin promesas de rendimiento, observa directamente la terraza en los horarios que importan al restaurante. Señala qué mesas reciben luz, desde qué lado y durante qué parte del servicio. Registra situaciones concretas: un respaldo expuesto, una mesa parcialmente sombreada o una entrada donde se concentran clientes esperando.",
+          "Es preferible trabajar con observaciones propias que trasladar una orientación genérica a todas las calles de Getafe. La relación con edificios próximos y con la propia fachada debe estudiarse en el lugar. Puedes fotografiar desde un mismo punto durante varios momentos de una jornada y marcar las mesas que quieres priorizar. Ese material expresa el problema sin convertir una fotografía aislada en una garantía para todo el año.",
+          "Establece una jerarquía. Quizá te interese proteger primero las mesas donde se sirven comidas completas y después una zona auxiliar. O prefieras concentrar la sombra en una banda para evitar mover mobiliario a mitad de servicio. La decisión no exige cubrir cada centímetro disponible: exige relacionar el área deseada con una distribución que permanezca estable y con las posibilidades del sistema seleccionado.",
+          "Cuando compares propuestas, pide que se explique qué parte de tu necesidad aborda cada una. Si la molestia llega desde un lateral, ampliar solamente la proyección frontal puede no responder al problema planteado. Antes de añadir un cierre, estudia también cambiar la orientación o posición de determinadas mesas. Esta alternativa puede ser comercialmente más sencilla, siempre dentro de la distribución y condiciones que correspondan al emplazamiento."
+        ]
+      },
+      {
+        "heading": "8. Laterales y cerramientos: revisar también las entradas",
+        "paragraphs": [
+          "Añadir un lateral cambia la manera de entrar, salir y reconocer la terraza. Por eso merece una decisión propia, incluso cuando se ofrece como complemento de una cobertura superior. Dibuja cada paño en su posición de uso y marca qué abertura queda para acceder a las mesas. Después repite el dibujo con la terraza llena: el acceso debe poder identificarse sin depender de un hueco accidental entre sillas.",
+          "Una pantalla colocada en el extremo puede parecer útil desde una mesa y resultar incómoda para quien llega desde la calle. Observa la dirección habitual de aproximación y la visibilidad de la entrada del restaurante. Evita diseñar un recorrido que obligue al cliente a rodear toda la terraza para descubrir por dónde pasar. También interesa que el personal pueda reconocer con facilidad a quienes esperan atención.",
+          "Valora alternativas específicas antes de cerrar un lado completo: modificar la posición de una mesa, cambiar la orientación de una fila o dejar libre una esquina de acceso. Son opciones de organización, cuya utilidad puede probarse con el mobiliario. Si ninguna responde al problema, la propuesta de lateral deberá incorporar su relación con los recorridos y con la configuración global, además de su apariencia.",
+          "La clasificación y documentación de una solución con cerramientos deben resolverse para el caso; no basta con llamarla accesorio. En términos de uso, compara la terraza abierta, parcialmente delimitada y recogida. Cada estado debe tener una organización comprensible. El error sería evaluar únicamente la imagen del conjunto desplegado y descubrir después que la apertura diaria, el acceso del personal o la recogida requieren mover varias mesas."
+        ]
+      },
+      {
+        "heading": "9. Leer una ficha de fabricante sin confundir catálogo y proyecto",
+        "paragraphs": [
+          "Una ficha técnica aporta datos del producto, pero debes leerla con una pregunta concreta: qué configuración está describiendo. La documentación oficial del STORBOX-400 de LLAZA distingue línea y salida, recoge posibilidades de accionamiento y presenta opciones de fijación e inclinación. Se utiliza aquí como ejemplo de lectura, sin atribuir su comercialización a Toldos Noa ni proponerlo para una terraza determinada.",
+          "Empieza por separar línea y salida en el dibujo. Expresa qué dimensión sigue la fachada y cuál se proyecta hacia el exterior. Después relaciona ambas con las mesas que buscas proteger. Esta lectura evita pedir un producto simplemente por su denominación o elegirlo porque una cifra máxima parece suficiente. La propuesta debe identificar la combinación prevista, no dejar que el cliente reúna valores de apartados distintos.",
+          "Continúa con el accionamiento y los accesorios. Distingue lo que forma parte de la configuración ofertada de lo que aparece como posibilidad en el catálogo. Si hay varios modos de uso, pide una explicación centrada en tu servicio: dónde estará el mando, quién lo utilizará y qué operaciones deberá conocer el equipo. Una prestación anunciada no debe convertirse por suposición en un elemento incluido.",
+          "Por último, relaciona las condiciones de utilización con la gestión del restaurante. Las instrucciones del modelo concreto deben guiar su uso y mantenimiento. No traslades prestaciones de una referencia a otra ni interpretes una clasificación como permiso para mantener cualquier toldo desplegado en cualquier situación. Para decidir comercialmente, necesitas conocer tanto la configuración propuesta como las obligaciones prácticas que supondrá atenderla cada día."
+        ]
+      },
+      {
+        "heading": "10. Puertas, esquinas y cambios de dirección",
+        "paragraphs": [
+          "La zona delante de la puerta merece una revisión independiente. Allí coinciden clientes que entran, personal que sale y personas que esperan indicaciones. Aunque las mesas estén ordenadas, colocar una silla o un elemento de cobertura demasiado próximo puede concentrar movimientos en un solo punto. Prueba el acceso con la puerta en su recorrido habitual y con alguien detenido buscando mesa, sin reducir el análisis a una fotografía frontal.",
+          "En las esquinas, observa desde ambos sentidos de aproximación. Una terraza puede resultar clara para quien llega por un lado y confusa para quien dobla la esquina. Representa ese cambio de dirección en la planta y evita aprovechar cada hueco triangular con mobiliario. A veces reservar una zona de transición permite reconocer mejor el acceso y atender las primeras mesas sin interferencias entre quienes llegan y quienes ya están sentados.",
+          "Si existen dos entradas, decide qué función operativa tiene cada una dentro del servicio. No distribuyas mesas suponiendo que ambas permanecerán disponibles del mismo modo durante toda la jornada. El equipo debe saber por dónde se recibe, por dónde se sirve y qué zonas han de permanecer despejadas. Esa organización interna debe ser compatible con las condiciones que correspondan al local y a sus accesos.",
+          "Los apoyos y laterales deberían evaluarse desde estos puntos de cruce. Una posición aceptable junto a una fila recta puede ser problemática al final del recorrido, donde el camarero gira con una bandeja. Ensaya el movimiento completo: aproximación, giro, atención y regreso. El mejor lugar para un elemento no se decide solo por cuánto espacio ocupa, sino por qué movimientos interrumpe alrededor."
+        ]
+      },
+      {
+        "heading": "11. Caso práctico: elegir entre tres propuestas",
+        "paragraphs": [
+          "Este ejemplo es hipotético. Elena dirige un restaurante con una terraza rectangular y una puerta situada cerca de un extremo. Quiere mejorar la sombra sobre las mesas de comidas, pero detecta que el personal cruza varias veces junto a la primera mesa para atender el fondo. Antes de escoger cobertura, dibuja las sillas ocupadas y descubre que esa primera mesa condiciona casi todo el recorrido de salida.",
+          "La propuesta A plantea una cobertura continua con apoyos en el frente. En el dibujo inicial, uno de ellos queda cerca del giro hacia las mesas posteriores. La propuesta B estudia una solución proyectada desde fachada, pendiente de valoración técnica. La propuesta C divide la cobertura en dos zonas y reorganiza el mobiliario, dejando una franja de servicio reconocible desde la puerta hasta el extremo.",
+          "Elena no elige por la mayor superficie representada. Compara cómo atendería cada mesa, qué zona priorizaría durante las comidas y dónde esperarían dos personas al llegar. La alternativa A pierde interés por el encuentro entre apoyo y giro. La B mantiene el suelo más despejado, pero necesita demostrar su encaje en la fachada. La C exige cambiar la disposición habitual, aunque organiza mejor la llegada y el servicio.",
+          "Su decisión comercial es desarrollar B y C sobre una misma distribución corregida, retirando del dibujo la silla que estrechaba la salida. No interpreta esa mejora como autorización para ampliar mesas. El aprendizaje es concreto: corregir un conflicto de circulación puede cambiar la alternativa preferida. Si hubiera pedido primero la cubierta y conservado intacto el mobiliario, habría trasladado el problema original a una instalación nueva."
+        ]
+      },
+      {
+        "heading": "12. Casos límite: terraza estrecha, patio y espacio separado",
+        "paragraphs": [
+          "En una terraza estrecha, empieza ensayando la colocación de sillas, no la máxima extensión del toldo. Una mesa redonda y una rectangular pueden organizar de forma diferente el encuentro entre comensales y personal. Prueba también una sola banda de mesas frente a dos enfrentadas. Si la segunda opción obliga a introducir sillas en el recorrido, la cobertura no debería utilizarse como argumento para conservar una distribución incómoda.",
+          "En un patio, revisa cómo llega el servicio desde el interior y dónde se producen los cambios de dirección. El problema puede estar en el umbral o en el trayecto previo, aunque el área de mesas parezca amplia. Sitúa la zona de recogida y evita que los elementos guardados ocupen el corredor de acceso. La elección de cobertura debe considerar también qué parte permanecerá visualmente presente cuando esté recogida.",
+          "Cuando la terraza se encuentra separada de la fachada, representa el trayecto completo desde la puerta. Evalúa dónde se cruza con otros movimientos y cómo se reconoce la entrada a la zona de mesas. Una propuesta con apoyos propios debe compararse desde su organización completa: posiciones, bases previstas y accesos. No basta con comprobar que su rectángulo exterior coincide con el área que deseas sombrear.",
+          "Si hay desniveles o una forma irregular, no los resuelvas comercialmente añadiendo piezas improvisadas al conjunto. Lleva esas condiciones a la valoración profesional. Para tu decisión como restaurador, concentra el análisis en las consecuencias observables: mesas difíciles de atender, cambios de dirección, zonas que no utilizarías y elementos que quedarían aislados. Esos datos permiten formular un encargo específico sin anticipar soluciones estructurales ni requisitos que no se han comprobado."
+        ]
+      },
+      {
+        "heading": "13. Apertura, recogida y funcionamiento del equipo",
+        "paragraphs": [
+          "Una terraza bien planteada también debe ser manejable antes y después del servicio. Escribe la secuencia que imaginas: preparar el área, colocar mobiliario, accionar la cobertura y revisar los recorridos. Después invierte el proceso para el cierre. Si una operación exige mover mesas ya preparadas o atravesar una zona llena de sillas, conviene reconsiderar la posición de mandos, accesorios o elementos de almacenamiento antes de cerrar la propuesta.",
+          "Diferencia los estados de uso que realmente tendrás. Puede haber cobertura recogida con terraza preparada, cobertura desplegada con pocas mesas y servicio completo. En cada estado, identifica quién realiza las maniobras y desde dónde observa el espacio. Las instrucciones del equipo elegido deben concretar la utilización; tu organización interna debe evitar que varios trabajadores tomen decisiones distintas sin saber qué está haciendo el resto.",
+          "Planifica dónde quedarán los objetos auxiliares. Un cubo, un atril de trabajo o una silla de reserva pueden terminar ocupando precisamente el hueco que habías dejado para circular. Asigna una ubicación operativa a cada elemento que utilices, en vez de confiar en que siempre habrá un rincón libre. La terraza debe estudiarse con los utensilios habituales del servicio, no solamente con mesas vacías y sillas alineadas.",
+          "Piensa también en los cambios de turno. Una instrucción sencilla puede explicar qué disposición debe mantenerse, quién acciona la cobertura y qué incidencia obliga a avisar al responsable. No hace falta convertirla en un manual extenso. Lo útil es que cualquier persona del equipo reconozca la distribución prevista y evite improvisaciones que desplacen mobiliario hacia entradas, giros o recorridos compartidos durante una jornada exigente."
+        ]
+      },
+      {
+        "heading": "14. Errores que encarecen una decisión mal planteada",
+        "paragraphs": [
+          "El primer error es pedir el toldo por el ancho de fachada y decidir después qué protegerá. Ese orden puede dejar una cobertura bien centrada sobre una distribución poco útil. Empieza por las mesas y sus movimientos; utiliza la fachada como condición del proyecto. Otro fallo consiste en comparar fotografías de instalaciones distintas como si mostraran alternativas equivalentes para tu restaurante. La planta y el uso pueden cambiar por completo su conveniencia.",
+          "El segundo error es sumar complementos para corregir problemas que proceden del mobiliario. Si una mesa recibe una luz molesta o dificulta el paso, prueba antes otra posición. Añadir un lateral, otra pieza o un apoyo puede introducir nuevas interferencias. No se trata de descartar accesorios, sino de exigirles una función concreta que la organización del espacio no resuelva de forma más sencilla y comprensible.",
+          "El tercero es valorar solo el conjunto desplegado. Un restaurante utiliza también la terraza con la cobertura recogida, durante la preparación y al finalizar la jornada. Observa qué elementos permanecen, dónde se guardan los accesorios y cómo se accede a cada zona. Una propuesta que funciona únicamente en su imagen de presentación necesita una revisión antes de convertirse en pedido.",
+          "El cuarto error es confundir superficie cubierta con capacidad comercial. Para elegir, utiliza indicadores que puedes examinar: mesas atendibles, recorridos claros, facilidad de entrada y correspondencia entre sombra deseada y zona propuesta. Evita basar la compra en incrementos de aforo, ventas o temporadas de uso que no estén acreditados para tu caso. La inversión debe responder a necesidades definidas y a una configuración revisada, sin cargar sobre el toldo expectativas ajenas a su función."
+        ]
+      },
+      {
+        "heading": "15. Checklist y preguntas para tomar la decisión",
+        "paragraphs": [
+          "Antes de elegir, recorre la terraza con el dibujo delante. Comprueba que representa el mobiliario real y que los apoyos de cada alternativa aparecen completos. Revisa después la llegada desde la calle y el trayecto hasta la última mesa. La comparación será útil si puedes explicar con palabras sencillas por qué una propuesta facilita más el servicio y qué renuncia aceptas al escogerla.",
+          "¿Las sillas están dibujadas en posición de uso?",
+          "¿Se reconoce la entrada sin rodear el conjunto?",
+          "¿El personal llega a las mesas del fondo sin mover mobiliario?",
+          "¿Los giros quedan libres de apoyos y bases previstas?",
+          "¿Cada lateral tiene una función y una abertura definida?",
+          "¿La zona prioritaria coincide con la cobertura solicitada?",
+          "¿Has estudiado el conjunto recogido y desplegado?"
+        ]
+      },
+      {
+        "heading": "¿Puedo mantener exactamente las mismas mesas?",
+        "paragraphs": [
+          "Utiliza esa disposición como punto de partida, pero ensaya otra si aparecen conflictos. Conservar una distribución conocida puede ser razonable; mantenerla por costumbre pese a un giro bloqueado dificulta aprovechar la nueva cobertura. Una pequeña reorganización puede hacer más clara la propuesta."
+        ]
+      },
+      {
+        "heading": "¿Conviene cubrir toda la terraza de una vez?",
+        "paragraphs": [
+          "Depende de qué zonas utilices juntas. Compara una solución continua con otra dividida sobre idéntico mobiliario. Elige según el servicio que necesitas atender y la configuración viable, sin tomar la mayor superficie como criterio único."
+        ]
+      },
+      {
+        "heading": "¿Un lateral resuelve cualquier molestia desde un costado?",
+        "paragraphs": [
+          "Primero identifica qué ocurre y sobre qué mesas. Después compara recolocación y delimitación lateral, incluyendo accesos. La decisión debe contemplar el conjunto, porque mejorar una mesa mientras se complica la entrada puede desplazar el problema a otra parte del servicio."
+        ]
+      },
+      {
+        "heading": "16. Convertir la elección en un encargo concreto",
+        "paragraphs": [
+          "Una decisión madura puede expresarse en pocas frases: quieres proteger una banda determinada durante las comidas, conservar una entrada reconocible y mantener un recorrido de servicio hasta el fondo. A partir de ese objetivo, las alternativas se vuelven más fáciles de valorar. Ya no comparas únicamente toldos grandes o pequeños, sino configuraciones que responden mejor o peor a la forma de trabajar de tu restaurante.",
+          "Separa tus prioridades de tus preferencias. Mantener el acceso despejado puede ser una prioridad; preferir una cobertura visualmente continua, una elección estética. Esta distinción ayuda cuando dos deseos entran en conflicto. Si un apoyo rompe el recorrido principal, conviene revisar la configuración antes de defender un acabado. Si dos propuestas funcionan de manera parecida, entonces la integración visual y la forma de accionamiento pueden decidir la elección.",
+          "El resultado que interesa obtener es una propuesta comprensible sobre tu terraza: qué cubre, dónde quedan sus elementos y cómo se utilizará junto al mobiliario. Debe permitir reconocer el modelo y la configuración planteados, además de las condiciones de uso correspondientes. Con esa base podrás valorar el alcance comercial sin convertir una imagen orientativa en una solución técnica aprobada ni suponer prestaciones que no figuran en la propuesta.",
+          "Si estás estudiando toldos en Getafe para terrazas de restaurantes, puedes solicitar una visita técnica y presupuesto por WhatsApp a Toldos Noa. Explica cómo se atiende hoy la terraza, qué mesas quieres priorizar y dónde aparecen los cruces. Pide información sobre tu caso concreto para estudiar una cobertura que encaje con la distribución, la circulación y la revisión municipal que corresponda."
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "Toldos Noa",
+        "href": "https://toldosnoa.com"
+      },
+      {
+        "label": "sede.getafe.es — Public",
+        "href": "https://sede.getafe.es/sta/CarpetaPublic/Public?APP_CODE=STA&DETALLE=6269000974700465107583&PAGE_CODE=CATALOGO"
+      },
+      {
+        "label": "getafe.es — normativa urbanistica",
+        "href": "https://getafe.es/delegaciones/urbanismo/urbanismo-y-obras-publicas/actuaciones/normativa-urbanistica/"
+      },
+      {
+        "label": "Toldos Noa: consejos",
+        "href": "https://toldosnoa.com/consejos/toldos-terrazas-hosteleria-normativa"
+      },
+      {
+        "label": "Toldos Noa: consejos",
+        "href": "https://toldosnoa.com/consejos/toldos-para-hosteleria-madrid"
+      },
+      {
+        "label": "Toldos Noa: consejos",
+        "href": "https://toldosnoa.com/consejos/toldos-madrid-terrazas"
+      },
+      {
+        "label": "Toldos Noa: consejos",
+        "href": "https://toldosnoa.com/consejos"
+      },
+      {
+        "label": "llaza.com — TROQUEL_STORBOX_ES_tr_low 1",
+        "href": "https://www.llaza.com/wp-content/uploads/2023/12/TROQUEL_STORBOX_ES_tr_low-1.pdf"
+      }
+    ],
+    "internalLinks": [
+      {
+        "label": "Solicitar visita y presupuesto",
+        "href": "/contacto"
+      }
+    ]
   }
 ];
