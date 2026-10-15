@@ -3675,5 +3675,234 @@ export const posts: BlogPost[] = [
         "href": "/contacto"
       }
     ]
+  },
+  {
+    "slug": "toldos-en-leganes-antes-de-reformar-un-balcon",
+    "title": "Toldos en Leganés antes de reformar un balcón",
+    "metaDescription": "Planifica el toldo antes de reformar tu balcón en Leganés: qué conservar, cuándo retirarlo y cómo coordinar pintura, fachada y visita técnica sin improvisar.",
+    "excerpt": "Planifica el toldo antes de reformar tu balcón en Leganés: qué conservar, cuándo retirarlo y cómo coordinar pintura, fachada y visita técnica sin improvisar.",
+    "date": "2026-10-15",
+    "category": "Toldos por zona",
+    "readingMinutes": 20,
+    "keywords": [
+      "toldos en leganés antes de reformar un balcón"
+    ],
+    "sections": [
+      {
+        "heading": "1. Decide qué hacer con el toldo antes de empezar la reforma",
+        "paragraphs": [
+          "Si vas a reformar un balcón, el toldo debería entrar en la primera conversación sobre la obra. Esperar hasta que estén terminadas la pintura, la barandilla y las ventanas deja decisiones importantes para el momento menos cómodo: cuando cualquier intervención vuelve a afectar a superficies recién acabadas. La pregunta inicial es concreta: ¿el toldo seguirá donde está, habrá que retirarlo temporalmente o conviene estudiar una sustitución?",
+          "Para resolverla, relaciona cada trabajo previsto con el espacio que ocupa el conjunto. Pintar una pared interior del balcón plantea un escenario distinto de renovar el revestimiento donde están sus soportes. Cambiar las ventanas introduce otra cuestión: cómo convivirán las hojas, las persianas y el accionamiento con la disposición final. Reformar el suelo exige pensar también en el acceso y en dónde se colocarán los medios de trabajo.",
+          "Buscar toldos en Leganés antes de reformar un balcón tiene sentido precisamente para ordenar esas dependencias. Primero se define qué cambiará en el balcón; después se revisa qué partes del toldo pueden mantenerse; finalmente se encajan las intervenciones dentro del calendario de la reforma. Elegir únicamente por el aspecto de la lona deja fuera buena parte del problema.",
+          "Toldos Noa anuncia servicio en la Comunidad de Madrid y visita técnica y presupuesto gratuitos, sin compromiso, en su web oficial. Esa visita puede ser el punto de partida para plantear tu caso. Lleva una idea clara de la reforma, aunque todavía no hayas elegido todos los acabados: interesa detectar las decisiones que deben tomarse antes de pintar, revestir o cerrar encuentros."
+        ]
+      },
+      {
+        "heading": "2. Haz un inventario visual que distinga piezas y funciones",
+        "paragraphs": [
+          "Antes de decidir qué conservar, separa mentalmente el toldo en elementos reconocibles: tejido, brazos, barra delantera, zona de enrollamiento, soportes visibles y sistema de accionamiento. Si incorpora una carcasa, inclúyela como elemento propio. Este inventario sirve para explicar qué observas sin resumirlo todo con expresiones poco útiles como «está viejo» o «funciona regular».",
+          "Describe señales concretas desde una posición accesible. Puedes distinguir una mancha en el tejido de una marca en el acabado metálico, una tapa ausente de una pieza que parece desplazada, o una dificultad de uso que ya conocías de un roce aparecido recientemente. La interpretación corresponde al profesional; tu aportación consiste en localizar lo que ves y contar cuándo empezó.",
+          "Añade la relación de cada elemento con la obra. El soporte izquierdo puede coincidir con una pared que se va a revestir; la manivela puede quedar junto al futuro armario; la barra delantera puede ocupar el lugar donde has dibujado una lámpara. Estas coincidencias son más relevantes para planificar que una fotografía general tomada desde lejos.",
+          "No necesitas desmontar embellecedores ni acceder al exterior para completar el inventario. Tampoco hace falta accionar un conjunto que presenta una anomalía para obtener mejores imágenes. Utiliza observaciones previas y fotografías accesibles. Una pieza oculta puede quedar simplemente identificada como pendiente de revisión.",
+          "El resultado útil es una descripción breve por zonas: qué hay, qué comportamiento conoces y qué trabajo afectará a ese lugar. Así podrás diferenciar una intervención estética, una revisión del funcionamiento y un cambio de ubicación, tres decisiones que no deberían quedar mezcladas bajo la misma partida."
+        ]
+      },
+      {
+        "heading": "3. Compara conservar, retirar temporalmente y sustituir",
+        "paragraphs": [
+          "Las tres alternativas responden a situaciones diferentes. Conservar el toldo en su posición resulta una opción a estudiar cuando la reforma permite trabajar alrededor de él y la revisión no identifica motivos para intervenir. Retirarlo temporalmente cobra sentido cuando interesa mantener el conjunto, pero su presencia impide ejecutar correctamente una parte del trabajo previsto.",
+          "Sustituirlo plantea una decisión más amplia: puede cambiar el sistema, el accionamiento, la disposición o la relación con el nuevo balcón. No debería ser la consecuencia automática de renovar el espacio. Tampoco conviene mantener un conjunto únicamente porque su lona todavía tiene buen aspecto. El criterio es la adecuación al resultado final y el estado que determine la revisión.",
+          "Alternativa: Conservar en posición; Situación que invita a estudiarla: La obra no invade su ubicación; Decisión que debe quedar resuelta: Cómo se trabajará alrededor y qué zonas quedarán accesibles",
+          "Alternativa: Retirar y reinstalar; Situación que invita a estudiarla: Se quiere conservar, pero estorba a la reforma; Decisión que debe quedar resuelta: Qué se retira, dónde se guarda y cuándo puede volver",
+          "Alternativa: Sustituir el conjunto; Situación que invita a estudiarla: Cambian las necesidades o la disposición; Decisión que debe quedar resuelta: Qué solución encaja con el balcón terminado",
+          "Compara las alternativas sobre un mismo escenario. Si una contempla pintar toda la superficie y otra deja zonas ocultas sin intervenir, no ofrecen el mismo resultado. Si una incluye retirada y regreso y otra solo suministro, tampoco describen el mismo alcance.",
+          "Puede existir una cuarta salida: conservar provisionalmente y posponer la renovación estética. Es razonable cuando la reforma no obliga a intervenir y prefieres reservar esa elección para después. Para cuestiones centradas exclusivamente en el tejido, consulta la guía general sobre cambio de lona, sin confundir esa decisión con la coordinación completa de la obra."
+        ]
+      },
+      {
+        "heading": "4. Diseña el balcón para utilizarlo con el toldo",
+        "paragraphs": [
+          "La reforma debería partir de cómo quieres vivir el balcón terminado. Define una actividad principal y otra secundaria: desayunar y tender, leer y cuidar plantas, o sentarte al atardecer y mantener libre la salida. Así podrás valorar el toldo dentro de una distribución real, con personas y objetos, en lugar de elegirlo sobre un balcón vacío.",
+          "Dibuja la mesa, las sillas y el recorrido desde la puerta. Añade dónde te situarás para accionar el sistema si es manual, o dónde te resultaría cómodo manejar el control si estudias una solución motorizada. El objetivo es detectar contradicciones: una jardinera que ocupa el lugar previsto para la manivela, un armario que dificulta acercarse o una lámpara que invade el recorrido previsto del conjunto.",
+          "Observa también qué molesta del balcón actual. Tal vez el problema sea el sol sobre una silla concreta y no sobre toda la superficie. Quizá desees mantener las vistas desde el salón o evitar que el espacio parezca ocupado cuando el toldo está recogido. Estas preferencias permiten discutir alternativas con más precisión que pedir simplemente «más sombra».",
+          "Haz observaciones en los momentos en que realmente utilizas el balcón. Unas fotografías desde el interior, acompañadas de la hora, ayudan a explicar dónde aparece la molestia. No conviertas una observación aislada en una promesa para todo el año: úsala para describir tu necesidad.",
+          "Esta fase también permite renunciar con criterio. Si añadir un mueble alto elimina el acceso cómodo al accionamiento, puedes cambiar el mueble, desplazarlo o estudiar otra solución de toldo. Resolver esa elección sobre un dibujo es más sencillo que descubrirla cuando ambos elementos ya están colocados."
+        ]
+      },
+      {
+        "heading": "5. Ordena los trabajos mediante condiciones de avance",
+        "paragraphs": [
+          "Un calendario útil debe explicar qué necesita estar terminado antes de que empiece la siguiente intervención. En vez de escribir únicamente «pintura el martes y toldo el jueves», establece condiciones: la zona de trabajo debe quedar accesible, el acabado correspondiente debe estar preparado para la intervención posterior y la posición definitiva debe haberse revisado.",
+          "Como esquema de planificación, plantea cinco momentos: revisión inicial, decisión sobre permanencia o retirada, trabajos del balcón, comprobación del estado final e intervención sobre el toldo. No todos requieren una visita independiente ni tendrán la misma duración. Lo importante es reconocerlos para que ninguna decisión quede implícita entre dos oficios.",
+          "Si hay retirada temporal, sitúala antes del trabajo que la hace necesaria. Si el conjunto permanece, concreta con quienes ejecutarán la reforma cómo accederán a las superficies cercanas. Cuando aparezca una modificación durante la obra, revisa su efecto antes de pasar a los acabados: cambiar la ubicación de una lámpara puede ser sencillo en una fase y obligar a rehacer trabajo en otra.",
+          "Evita utilizar plazos universales para volver a intervenir sobre pinturas, sellados o revestimientos. La programación debe incorporar las indicaciones del producto aplicado y de los profesionales responsables. Una superficie que parece terminada visualmente no permite deducir por sí sola cuándo conviene realizar la siguiente operación.",
+          "Reserva además un momento para revisar el balcón despejado. Esa pausa permite ver encuentros que antes estaban ocultos por muebles, materiales o protecciones. Su finalidad es decidir si el escenario final coincide con el previsto. Si ha cambiado, ajusta la intervención del toldo antes de ejecutarla, sin convertir una fecha inicialmente orientativa en una obligación de continuar a cualquier precio."
+        ]
+      },
+      {
+        "heading": "6. Coordina la pintura para evitar un acabado incompleto",
+        "paragraphs": [
+          "Cuando la reforma incluye pintura, empieza por definir qué superficies quieres ver renovadas. Una pared puede parecer resuelta con el toldo recogido y mostrar una zona antigua al desplegarlo o al retirar una pieza en el futuro. Por eso interesa distinguir el acabado visible habitual del acabado completo que deseas obtener.",
+          "Pide al responsable de la pintura que valore el acceso alrededor del conjunto. Una cosa es que el rodillo alcance una superficie y otra que pueda prepararse y terminarse según el trabajo contratado. La decisión de mantener o retirar el toldo debe considerar ese acceso, además de la apariencia final. No conviertas la retirada en una regla automática: relaciónala con las zonas que realmente se van a tratar.",
+          "Si el toldo permanece, acuerda quién organiza su protección y qué partes quedarán fuera de uso mientras se trabaja. Elige una solución de protección con los responsables de ambos trabajos; una cobertura improvisada no debería darse por suficiente solo porque oculta el conjunto. También conviene decidir cuándo se retirará para revisar el acabado.",
+          "En cuanto al color, observa muestras junto a los elementos que permanecerán: carpintería, barandilla, pavimento y acabado del propio toldo. No necesitas que todo tenga exactamente el mismo tono. Puedes buscar continuidad con la pared o establecer una diferencia deliberada, siempre dentro de las condiciones aplicables a tu edificio.",
+          "Al terminar, mira la pared desde el interior y desde el propio balcón. Revisa los encuentros accesibles y las zonas que cambian de visibilidad según la posición del toldo. Es una comprobación estética del trabajo ejecutado; no requiere tocar sus soportes ni intervenir en el mecanismo para resolver un detalle de pintura."
+        ]
+      },
+      {
+        "heading": "7. Si cambia la fachada, revisa de nuevo el planteamiento",
+        "paragraphs": [
+          "Una reforma que incorpora un nuevo revestimiento exterior o actuaciones sobre la fachada merece una conversación específica sobre el toldo. El proyecto ya no consiste únicamente en conservar su apariencia: hay que relacionar la ubicación prevista con la solución de fachada que realmente se ejecutará. Esa revisión corresponde a los profesionales responsables de ambas intervenciones.",
+          "Explica desde el inicio si se prevé retirar material, añadir capas, modificar encuentros o intervenir en las zonas donde se encuentra el conjunto. No es necesario que propongas una solución de fijación. Lo útil para ti es que la decisión sobre el toldo forme parte del planteamiento antes de dar por terminado el acabado exterior.",
+          "Distingue además entre el elemento visible y la solución que hay detrás. Desde el balcón puedes identificar dónde aparece un soporte, pero esa observación no define por sí sola qué intervención será adecuada tras la reforma. Por ello, el acuerdo debería describir el resultado previsto y asignar la revisión técnica, sin dejar que cada oficio suponga que lo resolverá el siguiente.",
+          "Si durante la obra aparecen zonas deterioradas que estaban ocultas, separa dos decisiones. Primero se resuelve la actuación sobre la fachada con su responsable. Después se revisa cómo queda condicionado el toldo. Colocarlo para recuperar cuanto antes la imagen anterior no debería sustituir esa evaluación.",
+          "También puede ocurrir que la reforma exterior se aplace. En ese caso, compara mantener temporalmente la disposición actual con ejecutar ya una solución definitiva. La elección debe considerar cuánto trabajo podría repetirse y qué necesidades tienes mientras tanto. El ahorro aparente de cerrar hoy una decisión pierde sentido si obliga a rehacerla cuando comience la actuación de fachada que ya está prevista."
+        ]
+      },
+      {
+        "heading": "8. Comprueba ventanas, persianas, barandilla y mobiliario juntos",
+        "paragraphs": [
+          "Cambiar las ventanas transforma una parte importante del balcón. Para planificar el toldo, interesa representar cómo quedarán las hojas y los accesos en uso, no solo cómo se verá la carpintería cerrada. Pide que se revise la convivencia del conjunto con las posiciones habituales de apertura y con los elementos que se incorporarán alrededor.",
+          "Incluye las persianas, sus registros y cualquier elemento cuyo acceso quieras conservar. La reforma debería dejar una distribución comprensible para el uso cotidiano y para futuras intervenciones. Si colocas un armario delante de una zona que después necesitará acceso, has trasladado el problema al futuro aunque la fotografía del balcón terminado resulte atractiva.",
+          "La barandilla también forma parte de la composición. Decide qué aspecto conservará y qué cambios se plantean, pero evita tratarla como un soporte disponible por defecto. La solución de toldo debe revisarse para la configuración concreta, sin deducir su idoneidad a partir de que una pieza parezca robusta o de que otro balcón presente una disposición similar.",
+          "Con los muebles, prueba situaciones completas. Una silla retirada para sentarte ocupa un espacio distinto de la silla guardada bajo la mesa. Una puerta abierta modifica el recorrido de paso. Una maceta puede trasladarse con facilidad, mientras que un banco hecho a medida convierte una mala ubicación en un problema permanente.",
+          "Prioriza los elementos difíciles de modificar y adapta después los móviles. Si el acceso y la solución técnica están resueltos, podrás elegir una mesa de otra forma o redistribuir las plantas. Hacerlo al revés, fijando primero toda la decoración, reduce las alternativas y puede conducir a escoger el toldo únicamente porque cabe en el hueco que ha quedado libre."
+        ]
+      },
+      {
+        "heading": "9. Utiliza la ficha del fabricante para hablar de soluciones concretas",
+        "paragraphs": [
+          "Los nombres comerciales generales no explican todas las diferencias entre sistemas. Para pasar de «quiero algo parecido» a una propuesta reconocible, interesa identificar fabricante, modelo y configuración. La documentación técnica permite situar la conversación sobre un producto concreto, aunque la elección final dependa de la revisión del balcón.",
+          "Como referencia documental, la ficha PRT-07 de LLAZA describe un sistema de punto recto con abatimiento frontal de brazos y recoge sujeciones frontal, a techo y entreparedes. Es un ejemplo de cómo un mismo sistema presenta opciones que deben relacionarse con el emplazamiento. Esta referencia no identifica el toldo de tu balcón ni acredita disponibilidad comercial actual o suministro por Toldos Noa.",
+          "Para una propuesta real, distingue tres preguntas. La primera es qué modelo se está considerando. La segunda, qué configuración se propone para tu balcón. La tercera, cómo se relaciona con la reforma terminada. Una fotografía de catálogo puede responder parcialmente a la primera, pero no resuelve las otras dos.",
+          "Si quieres conservar el conjunto existente, busca una etiqueta o documentación que ya tengas a mano. Cuando no exista identificación accesible, describe sus características sin asignarle un modelo por parecido. Dos toldos visualmente cercanos pueden requerir decisiones diferentes; la apariencia sirve como orientación inicial, no como prueba de compatibilidad.",
+          "Evita trasladar dimensiones, prestaciones o posibilidades de una ficha a cualquier otra instalación. Para ti, la utilidad práctica del documento está en reconocer qué se propone y qué aspectos deberá explicar el profesional. No necesitas convertirte en instalador ni utilizar el catálogo como procedimiento para desmontar, modificar o reinstalar el equipo."
+        ]
+      },
+      {
+        "heading": "10. Valora el accionamiento mientras todavía puedes elegir la distribución",
+        "paragraphs": [
+          "La reforma ofrece una ocasión para revisar cómo quieres utilizar el toldo. Si el accionamiento actual te resulta cómodo, conservar esa experiencia puede ser una prioridad. Si el nuevo mobiliario cambia el acceso, conviene estudiar la cuestión antes de fijar su posición. El criterio es la facilidad de uso dentro del balcón terminado.",
+          "Para una solución manual, representa dónde se situará la persona y qué espacio tendrá disponible. Piensa también en quién lo utilizará habitualmente y en si podrá acercarse sin mover muebles. Una distribución que exige retirar siempre una silla o apartar una jardinera puede terminar desanimando el uso, aunque el conjunto funcione como estaba previsto.",
+          "Si estudias motorización, plantea durante la reforma dónde quieres el control y cómo se integrará la solución propuesta. La parte eléctrica y la compatibilidad deben revisarlas los profesionales correspondientes. Tu decisión consiste en expresar preferencias de manejo y accesibilidad, no en improvisar recorridos de cables o elegir componentes por su parecido.",
+          "Distingue además entre mover el toldo mediante un control y añadir funciones automáticas. Antes de valorar una propuesta, pide una explicación comprensible de qué acción realizará el usuario y qué función asumirá cada elemento incluido. Así podrás decidir si responde a una necesidad real o añade complejidad que no buscas.",
+          "No cierres la decoración alrededor de un accionamiento que todavía no se ha decidido. Reserva esa elección entre las primeras cuestiones de distribución, junto con la apertura de puertas y el uso de las sillas. Después resultará más fácil integrar los elementos visibles y evitar que el mando, el punto de manejo o el acceso al conjunto queden relegados al único lugar disponible."
+        ]
+      },
+      {
+        "heading": "11. Resuelve comunidad, Ayuntamiento y documentación en una sola fase",
+        "paragraphs": [
+          "Concentra las comprobaciones administrativas y la información para la visita antes de cerrar la intervención. El Ayuntamiento publica el Plan General, sus normas, modificaciones y documentación del catálogo de edificios protegidos en su portal de planeamiento. Es la referencia municipal para situar la consulta sobre un inmueble concreto; una regla utilizada en otra ciudad no resuelve tu caso en Leganés.",
+          "La consulta directa de la sede electrónica no permitió verificar aquí una ficha de trámite específica para esta actuación. Por ello, no se establece una licencia, declaración, tasa o plazo universal. Presenta al Ayuntamiento el alcance real: conservar, retirar y reponer, sustituir o cambiar de posición, junto con las actuaciones previstas sobre el balcón.",
+          "En paralelo, reúne la información disponible sobre las decisiones de la comunidad relativas a fachada y toldos: modelo exterior acordado, color, franjas o disposiciones previas. Si eres inquilino, aclara con la propiedad qué intervención se está planteando antes de contratarla. Estos puntos deben resolverse según las circunstancias del inmueble, sin asumir que un toldo vecino constituye autorización suficiente.",
+          "Para la visita técnica, prepara una carpeta breve: fotografías generales y de detalle accesibles, dibujo de la distribución final, relación de trabajos y documentación existente del toldo. Añade qué elementos permanecerán y cuáles desaparecerán. Las medidas orientativas pueden ayudar a explicar el espacio, pero la propuesta deberá apoyarse en la revisión profesional.",
+          "Cierra esta fase con una lista de decisiones pendientes y su responsable. Así evitas convertir cada conversación posterior en una nueva búsqueda de papeles y puedes dedicar la visita a cuestiones concretas del balcón, sus encuentros y su uso."
+        ]
+      },
+      {
+        "heading": "12. Caso hipotético: pintar, cambiar ventanas y conservar la mesa",
+        "paragraphs": [
+          "Marta y Diego preparan la reforma de su balcón en Leganés. Quieren cambiar las ventanas, pintar las paredes y mantener una mesa que utilizan para desayunar. El toldo existente les resulta cómodo, pero una de sus zonas queda delante de la superficie que desean renovar. Este caso es hipotético y sirve para mostrar cómo ordenar alternativas.",
+          "Su primera idea consiste en pintar alrededor del toldo y decidir después si lo cambian. Al dibujar la distribución descubren otra cuestión: el armario que quieren añadir ocupa el espacio donde suelen colocarse para accionarlo. El problema ya no es solo dejar una pared bonita, sino conservar un uso cómodo después de la reforma.",
+          "Plantean tres opciones para la visita. La primera mantiene toldo y armario en sus posiciones previstas, adaptando el acceso y el alcance de pintura. La segunda estudia retirar temporalmente el toldo, renovar la superficie completa y conservarlo tras la revisión. La tercera analiza una sustitución relacionada con la distribución nueva, sin dar por necesario cambiarlo únicamente por motivos estéticos.",
+          "Marta prefiere mantener el funcionamiento que conoce. Diego prioriza el armario. Al comparar el uso cotidiano, deciden mover el mueble a otra pared y estudiar la segunda alternativa, condicionada a la valoración profesional del conjunto y de su reposición. La decisión responde a dos objetivos: acceder a la superficie y no sacrificar un manejo que ya les resulta cómodo.",
+          "Antes de cerrar el calendario incorporan las ventanas definitivas al dibujo. Así evitan que la elección del toldo dependa de unas carpinterías que van a desaparecer. La lona queda para una decisión posterior: no era el motivo que justificaba reorganizar la obra."
+        ]
+      },
+      {
+        "heading": "13. Examina los casos límite antes de encargar una solución definitiva",
+        "paragraphs": [
+          "Algunos balcones obligan a cambiar el orden habitual de las decisiones. Si está prevista una rehabilitación de fachada, puede interesarte resolver una necesidad temporal sin cerrar todavía toda la solución definitiva. Compara qué parte del trabajo podrá aprovecharse y qué intervención tendría que repetirse. No se trata de esperar indefinidamente, sino de relacionar ambas actuaciones.",
+          "Otro caso aparece cuando el toldo existente carece de identificación y quieres conservarlo. La ausencia de documentación no permite concluir que haya que sustituirlo, pero tampoco autoriza a dar por disponibles piezas o compatibilidades. El objetivo de la revisión será determinar qué alternativa puede plantearse con fundamento antes de comprometer una reposición.",
+          "En un balcón muy ocupado, el acceso puede condicionar la organización. Tal vez debas vaciarlo antes de valorar correctamente ciertos encuentros o antes de realizar el trabajo. Decide qué objetos puedes trasladar y cuáles forman parte de la reforma. Una jardinera móvil y un cerramiento fijo no deben tratarse como obstáculos equivalentes.",
+          "Si solo reformas una parte, define el límite con precisión. Puedes querer renovar una pared y conservar otra, o cambiar la carpintería sin tocar el revestimiento exterior. Esa elección es válida como objetivo, pero conviene estudiar si el resultado admite la intervención prevista sobre el toldo. Evita que «reforma parcial» signifique que nadie ha decidido cómo terminar los encuentros.",
+          "Por último, si todavía no has elegido el pavimento o el mobiliario fijo, no conviertas unas medidas provisionales en el escenario definitivo. Avanza con las decisiones que ya estén claras y mantén abierta la ubicación final cuando dependa de cambios pendientes. Esa flexibilidad debe tener un motivo concreto y una fecha de resolución dentro del proyecto."
+        ]
+      },
+      {
+        "heading": "14. Evita errores de obra y comprueba el resultado visible",
+        "paragraphs": [
+          "Un error frecuente es usar el toldo como referencia definitiva mientras todo lo que lo rodea está cambiando. Otro consiste en dar por equivalente conservar el equipo y conservar su ubicación. Puedes querer mantenerlo y, aun así, necesitar una revisión distinta porque la reforma modifica el espacio disponible o la superficie de encuentro.",
+          "También conviene evitar encadenar decisiones por comodidad inmediata. Pintar primero porque el pintor ya está disponible puede dejar sin resolver la zona que ocupa el conjunto. Encargar después una solución para ocultar ese encuentro convierte un detalle pendiente en un condicionante del proyecto. El orden debe responder al trabajo necesario para obtener el resultado buscado.",
+          "Antes de dar por terminada la coordinación, utiliza una comprobación breve:",
+          "El balcón corresponde a la distribución sobre la que se decidió el toldo.",
+          "Las puertas y los elementos móviles pueden utilizarse como se había planteado.",
+          "El lugar de accionamiento queda accesible con los muebles en posición de uso.",
+          "Los encuentros visibles de pintura y revestimiento responden al acabado contratado.",
+          "Las piezas retiradas temporalmente tienen un destino acordado.",
+          "Has recibido la explicación de manejo correspondiente a la solución ejecutada.",
+          "Haz esta revisión con los responsables cuando sea necesario observar el funcionamiento. Tu comprobación cotidiana puede identificar un roce, una dificultad de acceso o una diferencia respecto a lo acordado, pero no sustituye la evaluación técnica del equipo.",
+          "Evita corregir por tu cuenta una anomalía desplazando soportes, ajustando brazos o manipulando el mecanismo. Describe qué sucede y en qué posición aparece. Ese dato concreto permite tratar el problema adecuado, mientras que una intervención improvisada puede hacer más difícil reconocer qué cambió durante la reforma."
+        ]
+      },
+      {
+        "heading": "¿Tengo que cambiar el toldo porque voy a pintar?",
+        "paragraphs": [
+          "La pintura, por sí sola, no determina una sustitución. La decisión depende de qué superficies se tratarán, del acceso necesario y de la revisión del conjunto. Puedes estudiar conservarlo en posición o retirarlo temporalmente. Elige según el alcance real de la obra y el acabado que buscas."
+        ]
+      },
+      {
+        "heading": "¿Conviene elegir primero el toldo o las ventanas?",
+        "paragraphs": [
+          "Conviene definir juntos sus condicionantes. Si las ventanas van a cambiar, incorpora su disposición final antes de cerrar la propuesta del toldo. No hace falta terminar todas las compras a la vez, pero sí evitar que una elección ignore el espacio que necesitará la otra."
+        ]
+      },
+      {
+        "heading": "¿Puedo aprovechar para cambiar solamente el aspecto?",
+        "paragraphs": [
+          "Puedes plantearlo, separando la decisión estética de las intervenciones necesarias por la reforma. Para explorar materiales y apariencia, tienes la guía de tipos de lona. Aquí la prioridad es resolver ubicación, secuencia de trabajos y convivencia con el balcón terminado."
+        ]
+      },
+      {
+        "heading": "¿Debo vaciar completamente el balcón para la primera visita?",
+        "paragraphs": [
+          "Facilita la observación y el acceso a las zonas que se van a estudiar. Si hay muebles que no puedes mover, indícalo al solicitar la visita. Distingue esos obstáculos temporales de los elementos fijos que formarán parte de la distribución final."
+        ]
+      },
+      {
+        "heading": "¿Puedo utilizar el toldo durante toda la reforma?",
+        "paragraphs": [
+          "No lo des por supuesto. Su uso debe encajarse con los trabajos en curso, las protecciones y las indicaciones de los responsables. Si necesitas sombra durante una parte de la obra, exprésalo al organizarla para que se valore dentro de la secuencia, sin improvisaciones diarias."
+        ]
+      },
+      {
+        "heading": "16. Solicita una visita con una decisión concreta sobre la mesa",
+        "paragraphs": [
+          "El siguiente paso resulta más sencillo si explicas la reforma en términos de uso y de trabajos. No necesitas conocer el nombre del modelo ni haber decidido si comprarás uno nuevo. Basta con situar el balcón, contar qué vas a modificar y expresar qué deseas conservar del funcionamiento actual.",
+          "Puedes organizar tu consulta alrededor de una pregunta principal: «¿Se puede mantener este toldo mientras renovamos la pared?», «¿Tiene sentido retirarlo y reponerlo?» o «¿Cómo encaja con las nuevas ventanas y el armario?». Esa pregunta orienta la visita hacia la decisión que puede afectar al resto de la obra.",
+          "Al valorar la propuesta, comprueba que describe la alternativa escogida completa. Si habrá retirada temporal, interesa entender su alcance y la reposición prevista. Si se conservará en posición, la reforma debe poder organizarse alrededor. Si se estudiará una sustitución, pide que se explique su relación con la distribución final y con tus preferencias de uso.",
+          "Distingue los trabajos necesarios de las mejoras que puedes elegir. Recuperar el acceso a una superficie que vas a reformar responde a una necesidad de coordinación. Cambiar el aspecto de un conjunto que deseas conservar pertenece a otra decisión. Mantener esa diferencia te ayuda a priorizar sin perder de vista el resultado del balcón completo.",
+          "Para tu caso de toldos en Leganés antes de reformar un balcón, puedes solicitar visita técnica y presupuesto por WhatsApp a Toldos Noa. Explica qué obras tienes previstas y si tu intención inicial es conservar, retirar temporalmente o sustituir el toldo. Pide información sobre esa combinación concreta para empezar la reforma con una secuencia de trabajo clara."
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "Toldos Noa",
+        "href": "https://toldosnoa.com/"
+      },
+      {
+        "label": "Toldos Noa: consejos",
+        "href": "https://toldosnoa.com/consejos/cambio-de-lona-toldo"
+      },
+      {
+        "label": "Toldos Noa: consejos",
+        "href": "https://toldosnoa.com/consejos/tipos-de-lona-toldo"
+      },
+      {
+        "label": "leganes.org — acuerdo de aprobacion plan general",
+        "href": "https://www.leganes.org/acuerdo-de-aprobacion-plan-general"
+      },
+      {
+        "label": "llaza.com — LLAZA_PRT07_1415_ESP",
+        "href": "https://www.llaza.com/wp-content/uploads/2015/10/LLAZA_PRT07_1415_ESP.pdf"
+      }
+    ],
+    "internalLinks": [
+      {
+        "label": "Solicitar visita y presupuesto",
+        "href": "/contacto"
+      }
+    ]
   }
 ];
