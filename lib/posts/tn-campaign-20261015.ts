@@ -2997,5 +2997,244 @@ export const posts: BlogPost[] = [
         "href": "/contacto"
       }
     ]
+  },
+  {
+    "slug": "toldos-en-moratalaz-para-comunidades",
+    "title": "Toldos en Moratalaz para comunidades",
+    "metaDescription": "Cómo elegir toldos en Moratalaz para comunidades: unificar modelos, lonas y colores autorizados, resolver excepciones y preparar una visita técnica con criterio.",
+    "excerpt": "Cómo elegir toldos en Moratalaz para comunidades: unificar modelos, lonas y colores autorizados, resolver excepciones y preparar una visita técnica con criterio.",
+    "date": "2026-10-15",
+    "category": "Toldos por zona",
+    "readingMinutes": 20,
+    "keywords": [
+      "toldos en moratalaz para comunidades"
+    ],
+    "sections": [
+      {
+        "heading": "1. Elegir un conjunto que funcione vivienda por vivienda",
+        "paragraphs": [
+          "Buscar toldos en Moratalaz para comunidades exige resolver una decisión compartida: qué aspecto debe tener la fachada cuando cada vecino instale, repare o sustituya el suyo. Elegir únicamente un color deja demasiados detalles abiertos. Dos toldos con lona parecida pueden presentar cofres, brazos, faldones y perfiles completamente distintos. La propuesta útil combina una imagen común reconocible con alternativas para los huecos que realmente son diferentes.",
+          "Conviene empezar por una pregunta concreta: ¿queréis conservar la apariencia existente, corregir una mezcla de soluciones o definir el primer criterio del edificio? Cada situación conduce a una estrategia distinta. Conservar requiere identificar bien las referencias actuales. Corregir obliga a decidir qué elementos se mantendrán durante la transición. Empezar desde cero permite estudiar varias opciones, pero también necesita límites para que la elección sea manejable.",
+          "El objetivo puede expresarse con sencillez: misma familia visual en huecos equivalentes, colores identificados y excepciones vinculadas a una necesidad concreta. Así, una ventana estrecha no tiene que reproducir sin más la solución de una terraza amplia. Sí debería compartir los rasgos que la comunidad considere esenciales, como tejido, acabado de perfilería o presencia de faldón.",
+          "Toldos Noa anuncia fabricación e instalación de toldos a medida para viviendas y comunidades en la Comunidad de Madrid, además de visita técnica y presupuesto gratuitos. Esa oferta permite plantear el estudio de vuestro edificio sin atribuirle modelos o acuerdos comerciales que no estén publicados. Web oficial de Toldos Noa.",
+          "Para una primera orientación sobre soluciones individuales puedes consultar la guía de toldos para terrazas en Madrid. Aquí la decisión se centra en cómo convertir las elecciones particulares en un conjunto coherente."
+        ]
+      },
+      {
+        "heading": "2. Leer la fachada antes de escoger el catálogo",
+        "paragraphs": [
+          "La primera selección puede hacerse observando el edificio desde los lugares donde realmente se percibe: la acera de enfrente, el acceso al portal y, si existe, el espacio común interior. Interesa reconocer agrupaciones, no contar toldos sin contexto. Una fila de balcones iguales constituye una unidad visual distinta de una terraza retranqueada o de una ventana situada entre paños ciegos.",
+          "Prepara un dibujo sencillo con las viviendas organizadas por plantas y columnas. Marca qué huecos se repiten y cuáles cambian de forma. Utiliza categorías descriptivas: balcón abierto, balcón encajado, ventana aislada y terraza singular. Este mapa sirve para descubrir si basta una solución principal o si conviene trabajar con dos familias coordinadas. No es un plano de montaje ni determina dónde pueden colocarse los soportes.",
+          "Observa después los elementos permanentes: carpinterías, barandillas, revestimientos y líneas horizontales. Un color de perfilería puede relacionarse con las ventanas; el tejido, con otro componente del edificio. No hace falta que todo sea idéntico. Conviene decidir qué relación se busca para evitar que cada vecino interprete de manera diferente expresiones como «que combine con la fachada».",
+          "Incluye también los huecos todavía vacíos. Si solo se toma como referencia lo instalado, puede elegirse un sistema que encaje en las terrazas existentes pero resulte visualmente extraño cuando aparezca en las ventanas restantes. Imaginar el conjunto completo ayuda a evaluar el resultado futuro.",
+          "Termina esta lectura con dos o tres fotografías generales y un pequeño esquema de familias. La selección posterior será más clara: cada propuesta tendrá que responder a una parte reconocible del edificio, en lugar de competir únicamente por su apariencia en una fotografía comercial."
+        ]
+      },
+      {
+        "heading": "3. Separar la decisión comunitaria de la situación urbanística",
+        "paragraphs": [
+          "La elección estética necesita encajar en el marco del inmueble. El artículo 7 de la Ley de Propiedad Horizontal limita las modificaciones particulares que alteren, entre otros aspectos, la configuración o el estado exteriores del edificio. Por eso no conviene interpretar la propiedad de una terraza como libertad ilimitada para transformar su imagen exterior. Ley de Propiedad Horizontal, artículo 7.",
+          "Para estudiar la situación urbanística, utiliza la dirección exacta del edificio. El Ayuntamiento de Madrid explica que su Visor Urbanístico permite buscar por dirección y consultar, dentro de Información Vigente, la pestaña Protección del Patrimonio. Desde ella también puede accederse a información del catálogo correspondiente. Esta herramienta resulta más pertinente que deducir las condiciones de una finca a partir del nombre del distrito. Catálogo de Elementos Protegidos del Ayuntamiento de Madrid.",
+          "Concentra aquí la revisión documental: estatutos, acuerdos anteriores sobre toldos, referencias aprobadas y condiciones urbanísticas que afecten al caso. Si aparece una duda sobre el acuerdo necesario o la tramitación, debe resolverla el profesional competente antes de contratar la actuación. No existe una mayoría universal que pueda darse por válida para cualquier intervención descrita simplemente como «poner toldos».",
+          "En la selección práctica, distingue tres estados: propuesta estética, referencia aceptada por la comunidad y solución preparada para contratar tras las comprobaciones aplicables. Esa distinción evita anunciar como autorizado un tejido que solo se ha enseñado informalmente.",
+          "No es necesario convertir la compra en un expediente interminable. Basta resolver estas cuestiones juntas al principio y trasladar después sus límites a la elección de modelos, colores y excepciones. Así, el trabajo restante puede concentrarse en el producto y en su relación con la fachada."
+        ]
+      },
+      {
+        "heading": "4. Comparar tres formas de unificar los toldos",
+        "paragraphs": [
+          "La alternativa más estricta consiste en seleccionar un modelo y una referencia de tejido para todos los huecos compatibles. Es fácil de explicar y ofrece una imagen muy definida. Tiene sentido cuando balcones y terrazas son semejantes. Su punto débil aparece si se pretende extenderla a huecos diferentes sin estudiar antes su viabilidad: la uniformidad visual no resuelve por sí misma las particularidades de cada vivienda.",
+          "Una segunda opción fija una familia principal y otra complementaria. Por ejemplo, una apariencia para las terrazas y otra para las ventanas, relacionadas mediante lona, perfilería y tratamiento del borde frontal. Esta fórmula permite atender diferencias reales sin abrir un catálogo ilimitado. Para que funcione, cada familia debe tener un ámbito claro; dejar que cualquier vecino elija entre ambas por preferencia personal diluye el criterio.",
+          "La tercera posibilidad conserva los mecanismos existentes que resulten aptos tras su revisión y concentra la renovación en la imagen textil. Puede interesar cuando el principal desacuerdo está en los colores y no se busca una transformación completa. Sin embargo, hay que aceptar su alcance: renovar lonas no convierte estructuras distintas en un mismo modelo.",
+          "Alternativa: Modelo común; Prioridad de la comunidad: Repetición visual precisa; Decisión que debe cerrar: Qué huecos pueden compartirlo",
+          "Alternativa: Dos familias coordinadas; Prioridad de la comunidad: Adaptación con coherencia; Decisión que debe cerrar: Dónde corresponde cada familia",
+          "Alternativa: Renovación textil coordinada; Prioridad de la comunidad: Conservar parte de lo existente; Decisión que debe cerrar: Qué diferencias seguirán visibles",
+          "Al comparar, utiliza vistas del toldo abierto y recogido. Una propuesta puede parecer muy uniforme desplegada y mostrar diferencias acusadas al cerrarse. Elegir entre estas estrategias exige decidir qué grado de semejanza esperáis ver en ambos estados, además de cuánto cambio queréis introducir en el edificio."
+        ]
+      },
+      {
+        "heading": "5. Definir el modelo por sus rasgos visibles",
+        "paragraphs": [
+          "La palabra «modelo» puede significar cosas distintas para cada participante. Un vecino piensa en la forma de la lona; otro, en la carcasa; otro, en que tenga motor. Para una comunidad conviene describir primero aquello que se verá: silueta del conjunto recogido, forma del perfil delantero, brazos visibles y presencia de faldón. Después se estudian las opciones funcionales compatibles.",
+          "El fabricante Gaviota, por ejemplo, presenta Indie como un sistema de brazos articulados con cofre cuadrado. Su página describe protección del mecanismo y la lona cuando está recogido, además de distintas opciones de instalación. Es una referencia concreta para entender qué información diferencia un sistema, sin implicar que Toldos Noa lo comercialice ni que sea adecuado para vuestro inmueble. Ficha de producto Indie de Gaviota.",
+          "En una comparación comercial, coloca las propuestas una junto a otra con la misma información: vista frontal cerrada, vista lateral cerrada y aspecto desplegado. Evita enfrentar una fotografía de detalle con otra tomada desde lejos. El tamaño aparente de una carcasa o la presencia de brazos puede valorarse mal cuando las imágenes no son comparables.",
+          "Si la comunidad quiere permitir equivalentes, define qué debe mantenerse. «Cofre de línea cuadrada, tejido común y perfilería del acabado seleccionado» expresa mejor la intención que «modelo similar». La equivalencia técnica corresponde a una revisión profesional; la comunidad puede concretar su expectativa visual sin sustituirla.",
+          "Tampoco conviene aprobar un modelo únicamente porque aparece en el balcón más accesible. Antes de convertirlo en referencia general, debe estudiarse su encaje en los distintos tipos de hueco. La mejor elección común es la que puede repetirse con sentido, no la que tiene la fotografía más atractiva."
+        ]
+      },
+      {
+        "heading": "6. Elegir la lona con muestras que permitan decidir",
+        "paragraphs": [
+          "Un nombre como arena, crema o verde botella sirve para conversar, pero resulta insuficiente para encargar una lona común. La selección debe llegar a una colección y una referencia identificables. Cuando se buscan tonos discretos, precisamente las diferencias pequeñas pueden convertirse en el centro del desacuerdo: un beige amarillento y otro grisáceo no responden a la misma intención estética.",
+          "Reduce primero la selección a tres candidatos que cumplan el criterio del edificio. Lleva las muestras al lugar y colócalas junto a los materiales con los que convivirán. Observa cada una desde el interior y desde el exterior, bajo condiciones semejantes. El propósito es elegir una apariencia compartida; no deducir prestaciones térmicas o de protección a partir del color observado.",
+          "Una buena conversación puede plantearse así: «Esta opción prolonga visualmente el tono del revestimiento; esta otra se aproxima a las carpinterías; la tercera introduce un contraste deliberado». Las tres pueden ser válidas como propuestas de diseño. Lo importante es escoger una relación reconocible y mantenerla en las incorporaciones futuras.",
+          "Evita votar sobre fotografías reenviadas entre teléfonos. Las imágenes ayudan a recordar las opciones, pero la decisión cromática resulta más clara ante las mismas muestras físicas. Si alguien no puede asistir, conviene que tenga acceso a ellas antes de cerrar su preferencia, en lugar de elegir entre representaciones distintas.",
+          "Una vez escogida la lona, conserva una muestra identificada como referencia de selección. Su función es facilitar futuras conversaciones sobre el tejido elegido. No debe convertirse en una exigencia de reproducir exactamente la apariencia de una tela instalada durante años: referencia comercial y aspecto actual de cada toldo son cuestiones distintas que conviene tratar por separado."
+        ]
+      },
+      {
+        "heading": "7. Resolver rayas, faldones y remates sin dejar huecos",
+        "paragraphs": [
+          "Cuando se elige una lona a rayas, el acuerdo necesita describir algo más que sus colores. Interesa identificar el dibujo completo y decidir cómo se quiere presentar en los distintos huecos. Una alternancia estrecha produce una lectura diferente de unas franjas amplias, aunque comparta los mismos tonos. Tampoco conviene sustituir una referencia por otra basándose únicamente en que ambas sean «rayadas verdes».",
+          "El faldón merece una decisión propia. Su presencia, forma y proporción forman parte de la imagen que la comunidad quiere repetir. Si se opta por borde recto, conviene mostrarlo junto a una alternativa ondulada antes de elegir. La diferencia se entiende mejor mediante una representación sencilla que a través de una descripción verbal durante una reunión.",
+          "Incluye los elementos pequeños que suelen quedar fuera del primer vistazo: tapas laterales, perfil frontal y piezas visibles de accionamiento. No todos tendrán necesariamente el mismo material o acabado, pero interesa saber qué apariencia ofrece cada propuesta. Una selección basada exclusivamente en lona puede dejar un conjunto de remates visualmente dispares.",
+          "También hay que decidir si se busca una fachada sin mensajes particulares. Nombres, dibujos o bordes decorativos pueden alterar la intención de un tejido común. El criterio estético puede formularse con claridad desde el inicio, sin improvisar una respuesta cada vez que alguien propone un añadido.",
+          "Para cerrar este apartado, prepara una imagen frontal de la solución elegida y señala tejido, borde y acabado. Añade una vista del conjunto recogido. Estas dos representaciones permiten entender de un vistazo qué detalles son esenciales. Cuanto más concreta sea la elección visual, menos dependerá de que todos interpreten de igual manera palabras ambiguas como clásico, sencillo o discreto."
+        ]
+      },
+      {
+        "heading": "8. Coordinar la perfilería sin confundir blanco, gris y acabado",
+        "paragraphs": [
+          "La perfilería tiene su propia decisión cromática. Una comunidad puede querer relacionarla con las carpinterías, con las barandillas o con el fondo donde se verá el toldo recogido. Son objetivos diferentes y conviene expresarlos antes de abrir la carta de colores. Así se evita elegir un acabado aislado que después resulte difícil de integrar en el conjunto.",
+          "No basta con indicar «blanco» o «gris oscuro». Trabaja con la referencia que utilice la propuesta comercial y con una muestra representativa del acabado ofrecido. Si se utiliza un código RAL, acompáñalo de la descripción del acabado correspondiente. El código no debería convertirse en una excusa para omitir qué aspecto concreto se está eligiendo.",
+          "Una estrategia posible es aproximar la perfilería a las ventanas para que ambas se lean como una misma familia. Otra consiste en acercarla al paño de fachada para reducir el protagonismo del conjunto recogido. Una tercera acepta un contraste deliberado. Ninguna es una regla universal: deben juzgarse sobre el edificio que vais a intervenir y sobre sus elementos permanentes.",
+          "Antes de elegir, compara una vista general y otra cercana. A corta distancia interesa el detalle del perfil; desde la calle importa más cómo se repite. Un acabado que gusta como objeto individual puede adquirir demasiado protagonismo cuando aparece en numerosas viviendas. La repetición debe formar parte de la evaluación.",
+          "Cierra también qué ocurre con las piezas que no se ofrecen en el acabado principal. Es preferible conocer su apariencia desde el principio y decidir si encaja en la propuesta. La uniformidad razonable se construye sobre una solución real, con sus componentes visibles, en vez de sobre una imagen ideal que el producto ofertado no reproduce."
+        ]
+      },
+      {
+        "heading": "9. Mantener coherencia cuando cambian las dimensiones",
+        "paragraphs": [
+          "Unificar no significa imponer la misma anchura a todos los toldos. En una fachada con huecos diferentes, la coherencia puede estar en la relación de cada conjunto con su ventana o balcón. Antes de hablar de centímetros, conviene decidir qué se pretende alinear visualmente: los extremos respecto al hueco, la posición dentro de cada módulo o la continuidad de una fila.",
+          "Estas preferencias deben trasladarse después a una propuesta profesional que estudie las condiciones reales. Una línea estética dibujada sobre una fotografía no determina por sí sola la posición viable de los soportes. Tampoco acredita que todos los huecos puedan resolverse con idéntica configuración. La comunidad aporta el objetivo compositivo; el estudio técnico establece cómo puede materializarse.",
+          "Presta especial atención a las viviendas que ocupan dos módulos y a los balcones divididos por un elemento central. Visualmente se puede plantear una pieza continua o dos conjuntos relacionados. Para comparar ambas opciones, observa cómo se leerían recogidos, qué relación tendrían con las ventanas y cómo se utilizaría cada zona. La elección no debería depender únicamente de preferir menos piezas.",
+          "Lo mismo ocurre con la salida deseada. Dos vecinos pueden tener usos distintos: uno quiere una zona de lectura próxima a la puerta; otro, cubrir su mesa exterior. Expresar esas situaciones ayuda a estudiar la necesidad sin convertir una medida individual en una obligación general para todo el edificio.",
+          "El resultado puede ser una familia de tamaños vinculada a los tipos de hueco, con una apariencia común. Esa solución es más sólida que copiar las dimensiones del primer pedido. Permite que cada vivienda responda a su espacio mientras la fachada conserva un criterio reconocible desde fuera."
+        ]
+      },
+      {
+        "heading": "10. Tratar esquinas, áticos y ventanas como casos propios",
+        "paragraphs": [
+          "Las excepciones deben justificarse por una diferencia del espacio, no por el gusto de cada propietario. Una terraza retranqueada, una esquina o una ventana aislada pueden necesitar un estudio distinto del balcón repetido en varias plantas. El criterio comunitario gana claridad si identifica esas situaciones antes de recibir pedidos individuales.",
+          "Para cada caso singular, formula primero la necesidad. Puede ser proteger una zona concreta de uso, mantener una apertura practicable o evitar que dos propuestas se solapen visualmente en una esquina. Después compara alternativas completas. Una solución adicional que aparece en el dibujo cambia la composición, aunque utilice exactamente la misma lona.",
+          "No conviene convertir un toldo vertical en un complemento automático para cualquier vivienda. Si se plantea, debe estudiarse como una pieza con posición, dimensiones y apariencia propias. La pregunta estética es concreta: ¿se verá como parte del mismo conjunto o como una pantalla independiente que modifica la lectura del balcón? Esta valoración ayuda a decidir si corresponde una familia complementaria.",
+          "En un ático, la elección también debe partir de su configuración real. El deseo de repetir el modelo de plantas inferiores no sustituye el análisis profesional del emplazamiento y del sistema propuesto. La comunidad puede conservar el tejido y el acabado como hilo conductor aunque el modelo finalmente seleccionado sea diferente.",
+          "Para evitar excepciones interminables, establece una prueba sencilla: describir qué diferencia física o de uso impide aplicar la solución principal y qué alternativa conserva mejor sus rasgos esenciales. Si la explicación se limita a «me gusta más», se trata de una preferencia particular. Si responde a un hueco o una necesidad diferente, merece una evaluación específica dentro del conjunto."
+        ]
+      },
+      {
+        "heading": "11. Decidir qué conservar cuando ya existen toldos distintos",
+        "paragraphs": [
+          "Una fachada con instalaciones diversas no obliga a elegir entre cambiarlo todo inmediatamente o aceptar cualquier novedad. Puede plantearse una transición con un destino claro. La primera decisión consiste en escoger qué apariencia tendrán las nuevas incorporaciones y las sustituciones, distinguiéndola de cómo se tratarán los elementos existentes. Las consecuencias del acuerdo concreto deben revisarse en el marco comunitario correspondiente.",
+          "Desde el punto de vista del producto, separa tres situaciones. Hay toldos cuya apariencia ya coincide con la propuesta; otros comparten parte de ella y necesitan una revisión de sus posibilidades; un tercer grupo presenta una forma muy distinta. Esta clasificación permite estudiar actuaciones proporcionadas sin prometer que un cambio de lona resolverá todas las diferencias.",
+          "Si el problema principal es la mezcla de tejidos, tiene sentido valorar la renovación textil coordinada. Si lo que rompe el conjunto es la silueta de las estructuras, la lona común solo abordará una parte del objetivo. Reconocer ese límite evita que la comunidad espere una uniformidad que la actuación elegida no puede ofrecer.",
+          "También conviene establecer cómo se juzgará el resultado durante la transición. Una fachada parcialmente renovada mostrará convivencia de soluciones. Para evaluarla con justicia, utiliza una representación del estado previsto al terminar las renovaciones acordadas. Así se distingue una etapa intermedia de una decisión incoherente.",
+          "No elijas como patrón una lona antigua únicamente porque es la más extendida. Primero averigua qué intención queréis conservar: su color de origen, su dibujo o su relación con el edificio. La apariencia presente puede servir como observación, pero la nueva selección necesita una referencia comprable y una decisión consciente. Conservar el carácter del conjunto no exige reproducir cada diferencia acumulada."
+        ]
+      },
+      {
+        "heading": "12. Un ejemplo de comunidad con dos necesidades distintas",
+        "paragraphs": [
+          "Imaginemos un caso hipotético: Elena representa a una comunidad de Moratalaz con doce balcones semejantes y dos terrazas retranqueadas. Hay lonas lisas y rayadas, estructuras claras y oscuras, además de cuatro viviendas sin toldo. La comunidad quiere ordenar la fachada sin encargar una sustitución completa de todas las instalaciones existentes.",
+          "Elena lleva tres alternativas a la selección. La primera mantiene las rayas como rasgo principal y fija una nueva referencia común. La segunda elige lona lisa y un único modelo para todos. La tercera propone lona lisa compartida, una familia para los balcones repetidos y otra para las terrazas singulares. Las tres incluyen una vista abierta y otra recogida.",
+          "Luis, propietario de una terraza, utiliza una mesa junto al acceso. Marta, en un balcón pequeño, quiere conservar espacio para sus actividades cotidianas. Al representar ambos usos, la segunda alternativa deja de parecer tan sencilla: obliga a tratar como iguales espacios que no lo son. La tercera permite estudiar cada configuración manteniendo tejido y acabado como vínculo visual.",
+          "La comunidad escoge esa tercera vía como base estética. Entre tres muestras físicas, prefiere un tono que se relaciona con el revestimiento y acuerda un borde frontal recto. Las estructuras existentes se evalúan individualmente antes de decidir qué puede conservarse. Los nuevos pedidos seguirán la familia correspondiente a cada hueco, una vez resueltas las comprobaciones aplicables.",
+          "La decisión razonada no consiste en encontrar un toldo idéntico para catorce espacios. Consiste en reducir la diversidad a dos soluciones explicables y relacionadas. Elena puede mostrar a cada vecino qué le corresponde y por qué. Además, las viviendas sin toldo quedan incluidas en la imagen futura, evitando que la siguiente compra reinicie toda la discusión."
+        ]
+      },
+      {
+        "heading": "13. Organizar el pedido por viviendas y opciones reales",
+        "paragraphs": [
+          "Una vez elegida la apariencia, el pedido debe distinguir lo común de lo particular. Tejido, acabado y rasgos visibles pueden formar la base compartida. Las dimensiones finales, el accionamiento y las particularidades de cada hueco deben reflejarse en su propuesta correspondiente. Esta separación permite entender qué modifica realmente cada elección individual.",
+          "Para estudiar el coste sin inventar descuentos, plantea escenarios cerrados. Uno puede incluir únicamente nuevas instalaciones; otro, sumar las renovaciones de lona que resulten viables; otro, incorporar opciones individuales de accionamiento. Así se compara el alcance de cada escenario con claridad, sin asumir que agrupar viviendas produce automáticamente un ahorro determinado.",
+          "La motorización puede tratarse como una preferencia funcional cuando la configuración propuesta lo permita. Una persona puede priorizar la comodidad de uso y otra preferir accionamiento manual. La cuestión comunitaria es qué elementos visibles introduce cada alternativa y cómo encajan en el criterio elegido. La decisión técnica sobre compatibilidad pertenece a la propuesta del sistema concreto.",
+          "Evita agrupar bajo una misma línea conceptos diferentes como suministro, retirada de un toldo existente y trabajos particulares de una vivienda. Identificarlos permite comprender por qué dos balcones parecidos pueden tener propuestas económicas distintas. La igualdad estética del resultado no implica que todas las actuaciones previas sean iguales.",
+          "También conviene separar la aprobación del diseño de la decisión de compra de cada participante. Una comunidad puede estar de acuerdo en la imagen y necesitar resolver después el alcance económico de la actuación. Presentar ambos asuntos diferenciados facilita una decisión concreta. El pedido queda mejor definido cuando cada vivienda sabe qué solución recibe, qué opciones ha elegido y qué relación mantiene con el criterio del edificio."
+        ]
+      },
+      {
+        "heading": "14. Evitar los errores que deshacen la uniformidad",
+        "paragraphs": [
+          "El primer error es aprobar una categoría demasiado amplia: «toldo beige con estructura blanca». Esa frase admite numerosas interpretaciones. La corrección consiste en llegar a una selección identificable de tejido, acabado y rasgos del modelo. No hace falta describir cada componente interno; sí aquellos elementos visibles que sostienen la intención común.",
+          "El segundo es evaluar únicamente la lona desplegada. Cuando los toldos están recogidos, cofres, perfiles y brazos pueden dominar la imagen. Por eso deben juzgarse ambos estados. Si la propuesta gusta abierta pero no cerrada, todavía no se ha terminado de seleccionar el conjunto que verá la comunidad.",
+          "El tercero es incorporar accesorios después como si fueran irrelevantes. Un faldón distinto, una pantalla añadida o una pieza frontal decorativa pueden cambiar la composición. Si una opción interesa a varias viviendas, inclúyela en el estudio inicial y decide dónde encaja. Resolverla como añadido espontáneo multiplica interpretaciones.",
+          "El cuarto es confundir coherencia con identidad absoluta. Pretender que una ventana estrecha reproduzca la solución de una terraza singular puede empeorar la elección. Lo razonable es definir qué debe repetirse y qué puede adaptarse. Esa flexibilidad necesita límites visibles para no convertirse en libertad total.",
+          "Por último, evita usar la aprobación del modelo como garantía de comportamiento técnico en cualquier ubicación. El aspecto compartido no sustituye la evaluación del sistema y del emplazamiento. Tampoco corresponde prometer una reducción concreta de temperatura o una resistencia determinada sin evidencia aplicable a la solución ofertada.",
+          "Un buen control consiste en enseñar la propuesta completa a alguien que no haya participado en las conversaciones. Si puede distinguir la familia principal, sus excepciones y los colores elegidos sin interpretaciones adicionales, el criterio visual está suficientemente claro para avanzar al estudio de cada instalación."
+        ]
+      },
+      {
+        "heading": "¿Todos los vecinos deben escoger el mismo modelo?",
+        "paragraphs": [
+          "La propuesta estética puede organizarse con un modelo principal o con familias coordinadas según los huecos. La decisión concreta debe encajar en las condiciones comunitarias y urbanísticas del inmueble. Como criterio de diseño, reserva las diferencias para situaciones que las expliquen y mantén los rasgos compartidos claramente identificados."
+        ]
+      },
+      {
+        "heading": "¿Se puede conservar la estructura y cambiar únicamente la lona?",
+        "paragraphs": [
+          "Es una alternativa que merece valoración cuando se busca renovar la imagen textil. Su viabilidad depende de la revisión del toldo existente. Además, debes considerar el resultado visual: conservar estructuras diferentes mantendrá parte de esa diversidad, aunque todas reciban la referencia de lona seleccionada."
+        ]
+      },
+      {
+        "heading": "¿Un color parecido puede sustituir al elegido?",
+        "paragraphs": [
+          "Conviene tratarlo como una propuesta de sustitución, no como una equivalencia automática. Presenta la nueva muestra junto a la referencia seleccionada y evalúa su relación con la fachada. El nombre comercial del color, por sí solo, no permite resolver esa comparación."
+        ]
+      },
+      {
+        "heading": "¿Qué sucede si deja de ofrecerse una referencia?",
+        "paragraphs": [
+          "La comunidad necesita elegir una sucesora atendiendo a los mismos criterios: apariencia, dibujo y relación con perfilería y edificio. Resulta útil distinguir entre mantener el aspecto general y reproducir una referencia exacta. La disponibilidad futura no debe darse por garantizada durante la selección inicial."
+        ]
+      },
+      {
+        "heading": "¿Se puede añadir una solución distinta en una terraza singular?",
+        "paragraphs": [
+          "Puede estudiarse dentro de una familia complementaria. Presenta su necesidad y su apariencia completa, incluyendo el estado recogido. Una excepción bien razonada conserva el hilo visual del conjunto y explica por qué la solución principal no responde adecuadamente a ese espacio."
+        ]
+      },
+      {
+        "heading": "¿Conviene empezar por el color o por el sistema?",
+        "paragraphs": [
+          "Trabaja ambas decisiones de forma coordinada. Preselecciona configuraciones que puedan estudiarse para vuestros huecos y compáralas con una gama cromática reducida. Elegir definitivamente la lona antes de entender la forma del conjunto puede obligar a revisar preferencias que parecían cerradas."
+        ]
+      },
+      {
+        "heading": "16. Preparar una visita que permita avanzar hacia el pedido",
+        "paragraphs": [
+          "Antes de solicitar la visita, dedica una última revisión a las decisiones de producto. El objetivo es que el encuentro sirva para estudiar una propuesta concreta sobre la fachada y sus huecos. Si todavía hay alternativas abiertas, limita la selección a las que realmente responde cada familia de viviendas; no hace falta llevar todo el catálogo.",
+          "Utiliza esta lista como comprobación final:",
+          "Identificar los tipos de hueco y las viviendas interesadas.",
+          "Escoger la estrategia: modelo común, familias coordinadas o renovación textil.",
+          "Seleccionar las referencias de lona y los acabados preferidos.",
+          "Resolver faldones, rayas y remates visibles.",
+          "Incluir vistas abiertas y recogidas de las propuestas.",
+          "Señalar las terrazas, esquinas o ventanas que necesitan estudio propio.",
+          "Distinguir nuevas instalaciones de actuaciones sobre toldos existentes.",
+          "Separar la base compartida de las opciones individuales.",
+          "Durante la visita, recorre primero un hueco representativo de cada familia y después los casos singulares. Explica qué zona quiere utilizar cada vecino y muestra la relación estética que se busca. Ese orden ayuda a reconocer los puntos que pueden repetirse y aquellos que necesitan una solución diferente, sin convertir la primera vivienda visitada en patrón automático para todas.",
+          "El resultado deseable es una propuesta comercial comprensible: qué conjunto corresponde a cada vivienda, cómo conserva la imagen común y qué particularidades deben resolverse antes del encargo. Las instrucciones de uso y los límites del producto seleccionado deberán corresponder a ese sistema concreto; no se deducen del color ni del aspecto de la fachada.",
+          "Si vuestra comunidad está eligiendo toldos en Moratalaz y quiere unificar modelos y colores, podéis solicitar visita técnica y presupuesto por WhatsApp a Toldos Noa. Explicad cómo son los balcones y qué apariencia queréis conservar o cambiar para pedir información sobre vuestro caso."
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "Toldos Noa",
+        "href": "https://toldosnoa.com/"
+      },
+      {
+        "label": "Toldos Noa: consejos",
+        "href": "https://toldosnoa.com/consejos/toldos-madrid-terrazas"
+      },
+      {
+        "label": "boe.es — act.php",
+        "href": "https://www.boe.es/buscar/act.php?id=BOE-A-1960-10906"
+      },
+      {
+        "label": "Ayuntamiento de Madrid: licencias urbanísticas",
+        "href": "https://www.madrid.es/portales/munimadrid/es/Inicio/Vivienda-urbanismo-y-obras/Urbanismo/-gestion/Catalogo-de-Elementos-Protegidos-PGOUM-97/?idCapitulo=11721182&vgnextchannel=745cc8eb248fe410VgnVCM1000000b205a0aRCRD&vgnextoid=dfd34b968c0b7810VgnVCM1000001d4a900aRCRD"
+      },
+      {
+        "label": "Gaviota: documento técnico Zen motorizado",
+        "href": "https://www.gaviotagroup.com/producto/indie/"
+      }
+    ],
+    "internalLinks": [
+      {
+        "label": "Solicitar visita y presupuesto",
+        "href": "/contacto"
+      }
+    ]
   }
 ];
