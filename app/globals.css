@@ -139,3 +139,12 @@
     }
   }
 }
+/* Keep the mobile arrival visible from the first server paint. */
+@media (max-width: 767px) {
+  #inicio .animate-rise,
+  #inicio .animate-fade-down,
+  #inicio .animate-fade-up,
+  #inicio .animate-fade-in {
+    animation: none !important;
+  }
+}
