@@ -20,7 +20,7 @@ import { POSTS } from '@/lib/blog';
 
 /** Última modificación real de las páginas estáticas (mantener a mano). */
 const STATIC_LASTMOD: Record<string, string> = {
-  '/': '2026-07-06', // hero SSR + FAQs + enlazado local
+  '/': '2026-10-18', // texto local y enlaces a las nuevas guías
   '/contacto': '2026-06-29',
   '/resenas': '2026-07-06',
   '/aviso-legal': '2026-07-06', // páginas legales creadas

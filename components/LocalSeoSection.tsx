@@ -65,6 +65,22 @@ export function LocalSeoSection() {
 
         <div className="mt-8 space-y-5 text-base leading-relaxed text-ink-700 sm:text-lg">
           <p>
+            Soluciones a medida para proteger tu terraza, balcón, porche o negocio en Tarragona y Madrid.
+            {' '}Consulta qué valorar para{' '}
+            <Link href="/consejos/toldos-terrazas-reus-valls-elegir-medida" className="underline underline-offset-4 hover:text-ink-900">
+              terrazas en Reus y Valls
+            </Link>
+            ,{' '}
+            <Link href="/consejos/toldos-balcones-porches-salou-cambrils" className="underline underline-offset-4 hover:text-ink-900">
+              balcones y porches en Salou y Cambrils
+            </Link>
+            {' '}o la{' '}
+            <Link href="/consejos/renovar-toldo-comercio-vila-seca-vendrell-tarragona" className="underline underline-offset-4 hover:text-ink-900">
+              renovación del toldo comercial en Vila-seca, El Vendrell y Tarragona
+            </Link>
+            .
+          </p>
+          <p>
             En <strong className="font-medium text-ink-900">Toldos Noa</strong> fabricamos e
             instalamos toldos a medida para viviendas, comunidades de vecinos y negocios en la
             Comunidad de Madrid y en toda la provincia de Tarragona. Nos encargamos de todo el

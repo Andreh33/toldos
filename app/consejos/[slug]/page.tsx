@@ -120,9 +120,11 @@ export default async function ConsejoPage({ params }: { params: Promise<Params> 
       <article className="container max-w-3xl pb-8">
         {post.sections.map((section) => (
           <section key={section.heading} className="mb-11 last:mb-0">
-            <h2 className="font-display text-2xl font-medium tracking-display text-ink-900 sm:text-3xl">
-              {section.heading}
-            </h2>
+            {section.heading && (
+              <h2 className="font-display text-2xl font-medium tracking-display text-ink-900 sm:text-3xl">
+                {section.heading}
+              </h2>
+            )}
             <div className="mt-5 space-y-5 leading-relaxed text-ink-700">
               {section.paragraphs.map((p) => (
                 <p key={p.slice(0, 40)}>{p}</p>
